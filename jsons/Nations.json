@@ -55,3 +55,60 @@
 
                 "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
         },
+{                "name": "The Riverlands",
+
+                "leaderName": "Bryndon Tully",
+
+                "adjective": ["Hapless founderer"],
+
+                "personality": "Tully",
+
+                "startBias": ["River", "Avoid Desert", "Avoid Tundra"],
+
+                "preferredVictoryType": "Cultural",
+
+                "style": "Germanic",
+
+  "favoredReligion": "Hinduism",
+
+                "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
+
+                "attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
+
+                "defeated":  "Ohh, Gods forgive me. All is lost...",
+
+                "introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+
+                "neutralHello": "The Samnite federation greets you, foreign emissary.",
+
+                "neutralLetsHearIt": ["Yes.","Let's discuss."],
+
+                "neutralNo": ["No way.","Never!"],
+
+                "neutralYes": ["Very good.","Of course, yes.","I accept."],
+
+                "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
+
+                "hateLetsHearIt": ["Speak!"],
+
+                "hateNo": ["I can't accept!","You need to try harder."],
+
+                "hateYes": ["Let it be.","This offer is too good to reject."],
+
+                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
+
+                "tradeRequest": "Is this to your liking?",
+
+                "outerColor": [        226, 221, 224],
+
+                "innerColor": [        203, 153, 14],
+
+                "uniqueName": "Winter starts coming and it don't stop coming.",
+
+                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", "[+1 Faith] from [Forest] tiles without [improved] [in all cities]", "[+15]% Strength <when fighting in [Friendly land] tiles>"],
+
+ "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
+
+                "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
+        },
+]
