@@ -43,13 +43,13 @@
 
                 "tradeRequest": "Is this to your liking?",
 
-                "outerColor": [        26, 206, 200],
+                "outerColor": [        226, 221, 224],
 
                 "innerColor": [        203, 153, 14],
 
-                "uniqueName": "Safinim Uinim Valgemom",
+                "uniqueName": "Winter starts coming and it don't stop coming.",
 
-                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]","May buy [Settler] units with [Faith] [in all cities]", "[+1 Faith] from every [Forest]", "[+1 Faith] from every [Sheep]", "[+1 Faith] from every [Deer]", "[+1 Faith] from every [Bison]", "[+1 Faith] from every [Horses]", "[+1 Faith] from every [Furs]", "[+1 Faith] from every [Truffles]", "[+1 Faith] from every [Ivory]"],
+                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", "[+1 Faith] from [Forest] tiles without [improved] [in all cities]", "[+15]% Strength <when fighting in [Friendly land] tiles>"],
 
  "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
