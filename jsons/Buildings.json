@@ -46,10 +46,11 @@
 {
 		"name": "Water Garden",
 "replaces": "Garden",
-		"uniqueTo": "The Vale",
+		"uniqueTo": "Dorne",
   "faith": 2,
   "culture": 1,
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Mountain]", "[+1 Food] from [Hill] tiles [in this city]"],
+  "
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [River]", "[+1 Food] from [Hill] tiles [in this city]"],
 		"hurryCostModifier": 45,
 		"maintenance": 2,
 		"requiredTech": "Engineering"
