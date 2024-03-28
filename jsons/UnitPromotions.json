@@ -9,6 +9,6 @@
 	},
 {
 		"name": "Unbowed",
-		"uniques": ["Invisible to non-adjacent units <in [Desert] [Friendly land] tiles>", "[+50]% to Flank Attack bonuses", "May withdraw before melee ([40]%)", "[+15%] <when fighting units from a Civilization with more Cities than you>"]
+		"uniques": ["Invisible to non-adjacent units <in [Desert] [Friendly land] tiles>", "[+50]% to Flank Attack bonuses", "May withdraw before melee ([40]%)", "[+15%] Strength <when fighting units from a Civilization with more Cities than you>"]
 	},
 ]
