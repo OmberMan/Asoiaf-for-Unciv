@@ -62,7 +62,7 @@
   "culture": 1,
 		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Mountain]", "[+1 Food] from [Hill] tiles [in this city]"],
 		"hurryCostModifier": 45,
-		"maintenance": 2,
+		"maintenance": 1,
 		"requiredTech": "Engineering"
 	},
 ]
