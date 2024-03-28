@@ -17,7 +17,7 @@
 		"requiredNearbyImprovedResources": ["Wine", "Citrus", "Dyes", "Incense", "Spices", "Silk", "Cotton", "Cocoa", "Sugar", "Bananas"],
 		"hurryCostModifier": 25,
   "culture": 1,
-  "happiness" 1,
+  "happiness": 1,
 		"uniques": ["[+1 Gold] from [Plantation] tiles [in this city]", "[+1 Happiness] from [Wine] tiles [in this city]", "Provides [1] [Wine]"],
 		"requiredTech": "Currency"
 	},
