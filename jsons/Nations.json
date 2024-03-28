@@ -49,7 +49,9 @@
 
                 "uniqueName": "Winter starts coming and it don't stop coming.",
 
-                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities]", "[+15]% Strength <when fighting in [Friendly land] tiles>"],
+                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
+                  "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities]", 
+                  "[+15]% Strength <when fighting in [Friendly land] tiles>"],
 
  "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
@@ -103,15 +105,20 @@
 
                 "innerColor": [        203, 153, 14],
 
-                "uniqueName": "Winter starts coming and it don't stop coming.",
+                "uniqueName": "Life is Pain.",
 
-                "uniques": ["[+1 Food, -1 Production] from [Farm] tiles [in all cities]", "[+1 Food] from [Farm] tiles [in all cities] <in [River] tiles>", "[+1 Gold, +1 Culture] from [Fort] tiles [in all cities]", "[+2 Gold, +1 Culture, +1 Food] from [Citadel] tiles [in all cities]", "[+20]% [Food] [in all cities] <in [River] tiles>"],
+                "uniques": ["[+1 Food, -1 Production] from [Farm] tiles [in all cities]", 
+                  "[+1 Food] from [Farm] tiles [in all cities] <in [River] tiles>", 
+                  "[+1 Gold, +1 Culture] from [Fort] tiles [in all cities]", 
+                  "[+2 Gold, +1 Culture, +1 Food] from [Citadel] tiles [in all cities]", 
+                  "[+20]% [Food] [in all cities] <in [River] tiles>"],
 
  "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
                 "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
         },
-{                "name": "The Westerlands",
+{                
+  "name": "The Westerlands",
 
                 "leaderName": "Tywin Lannister",
 
@@ -122,7 +129,6 @@
                 "startBias": ["Hill", "Gold Ore"],
 
                 "preferredVictoryType": "Diplomatic",
-
 
   "favoredReligion": "The Seven",
 
@@ -160,7 +166,11 @@
 
                 "uniqueName": "The Lion in the jungle shows no shame it shows no pride.",
 
-                "uniques": ["[+3 Gold, +1 Culture] from [Gold Ore] tiles [in all cities]", "[+1 Gold] from [Mine] tiles [in all cities]", "[-33]% maintenance costs <for [Land] units>", "[Gold] cost of purchasing [Land] units [-33]%", "[+1 Culture, +1 Happiness, +1 Science] per every [100] [Gold]"],
+                "uniques": ["[+3 Gold, +1 Culture] from [Gold Ore] tiles [in all cities]", 
+                  "[+1 Gold] from [Mine] tiles [in all cities]", 
+                  "[-33]% maintenance costs <for [Land] units>", 
+                  "[Gold] cost of purchasing [Land] units [-33]%", 
+                  "[+1 Culture, +1 Happiness, +1 Science] per every [100] [Gold]"],
 
  "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
@@ -271,7 +281,17 @@
 
                 "uniqueName": "Hammer Time.",
 
-                "uniques": ["[+1 Culture] from all [Walls] buildings", "[+1 Culture] from all [Castle] buildings", "[+1 Culture] from all [Arsenal] buildings","[+1 Culture] from all [buildingFilter] buildings","[+1 Culture] from all [buildingFilter] buildings","[+1 Culture] from all [buildingFilter] buildings","[+1 Culture] from [Gold Ore] tiles [in all cities]", "[+1 Gold] from [Mine] tiles [in all cities]", "[-33]% maintenance costs <for [Land] units>", "[Gold] cost of purchasing [Land] units [-33]%", "[+1 Culture, +1 Happiness, +1 Science] per every [100] [Gold]"],
+                "uniques": ["Provides a [Walls] in your first [4] cities for free", "[+1 Culture] from all [Walls] buildings", "[+100]% Production when constructing [Walls] buildings [in all cities]", "New [{Land} {Melee}] units start with [3] Experience [in all cities] <in cities with a [Walls]>",
+                  "[+1 Culture] from all [Castle] buildings",  "[+100]% Production when constructing [Castle] buildings [in all cities]", "New [{Land} {Melee}] units start with [3] Experience [in all cities] <in cities with a [Castle]>",
+                  "[+1 Culture] from all [Arsenal] buildings","[+100]% Production when constructing [Arsenal] buildings [in all cities]", "New [{Land} {Melee}] units start with [3] Experience [in all cities] <in cities with a [Arsenal]>",
+                  "[+1 Culture] from all [Military Base] buildings","[+100]% Production when constructing [Military Base] buildings [in all cities]", "New [{Land} {Melee}] units start with [3] Experience [in all cities] <in cities with a [Military Base]>",
+                  "[+1 Culture] from all [Bomb Shelter] buildings","[+100]% Production when constructing [Bomb Shelter] buildings [in all cities]", "New [{Land} {Melee}] units start with [3] Experience [in all cities] <in cities with a [Bomb Shelter]>",
+                  "[+1 Culture] from all [Barracks] buildings", "[+100]% Production when constructing [Barracks] buildings [in all cities]", "New [{Land} {Melee}] units start with [3] Experience [in all cities] <in cities with a [Barracks]>",
+                  "[+1 Culture] from all [Armory] buildings", "[+100]% Production when constructing [Armory] buildings [in all cities]", "New [{Land} {Melee}] units start with [3] Experience [in all cities] <in cities with a [Armory]>",
+                  "[+1 Culture] from all [Military Academy] buildings", "[+100]% Production when constructing [Military Academy] buildings [in all cities]", "New [{Land} {Melee}] units start with [3] Experience [in all cities] <in cities with a [Military Academy]>",
+                  "[Great General] is earned [+33]% faster",
+                  "Empire enters a [2]-turn Golden Age <upon conquering a city> <with [50]% chance>"],
+                  
 
  "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
