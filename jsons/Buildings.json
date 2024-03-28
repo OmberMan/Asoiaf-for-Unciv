@@ -49,7 +49,7 @@
 		"uniqueTo": "Dorne",
   "culture": 2,
 "requiredTech": "Theology",
-  "happiness: 2,
+  "happiness": 2,
 		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [River]", "[+1 Food] from [Desert] tiles [in this city]"],
 		"hurryCostModifier": 35,
    "percentStatBonus": {"Food": 10},
