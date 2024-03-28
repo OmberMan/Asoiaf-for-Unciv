@@ -12,28 +12,26 @@
                 "warMongering": 6,
     "priorities": {
     "Piety": 10,
-    "Tradition": 10,
-    "Honor": 10,
-    "Liberty": 10, 0,
+    "Tradition": 30,
+    "Honor": 20,
+    "Liberty": 10
 }
         },
 {
-"name": "Ua",
+"name": "Tully",
                 "preferredVictoryType": "Domination",
-                "food": 6,
+                "food": 7,
                 "production": 8,
-                "gold": 7,
+                "gold": 6,
                 "culture": 3,
-                "science": 4,
-                "faith": 7,
+                "science": 5,
+                "faith": 5,
                 "military": 4,
-                "warMongering": 7,
+                "warMongering": 2,
 "priorities": {
-    "Piety": 20,
-    "Liberty": 10,
-    "Honor": 10,
-    "Commerce": 30,
+    "Patronage": 20,
+    "Liberty": 20,
+    "Commerce": 10,
 }
-}
-
+},
 ]
