@@ -49,7 +49,7 @@
 		"uniqueTo": "Dorne",
   "faith": 2,
   "culture": 1,
-  "
+  "Happiness: 
 		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [River]", "[+1 Food] from [Hill] tiles [in this city]"],
 		"hurryCostModifier": 45,
 		"maintenance": 2,
