@@ -47,23 +47,25 @@
 		"name": "Water Garden",
 "replaces": "Garden",
 		"uniqueTo": "Dorne",
-  "culture": 2
-  "Happiness: 2
+  "culture": 2,
+"requiredTech": "Theology",
+  "Happiness: 2,
 		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [River]", "[+1 Food] from [Desert] tiles [in this city]"],
 		"hurryCostModifier": 45,
-   "percentStatBonus": {"food": 15},
+   "percentStatBonus": {"food": 10},
 	},
 {
 		"name": "Greenblood Orphanage",
   "replaces": "Market",
 		"uniqueTo": "Dorne",
   "culture": 1,
-		"cost": 100,
+"requiredTech": "Currency",
+		"cost": 160,
 "specialistSlots": {"Merchant": 1, "Artist": 1},
 		"maintenance": 1,
 		"hurryCostModifier": 75,
 		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
-			"Connects trade routes over water","Must be next to [Coast]", " ", " "],
+			"Connects trade routes over water","Must be next to [Coast]", "Provides 1 extra copy of each improved luxury resource near this City", " "],
 	},
 ]
 
