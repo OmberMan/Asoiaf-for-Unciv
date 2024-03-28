@@ -404,7 +404,7 @@
 
                 "personality": "Martell",
 
-                "startBias": ["Coast", "Desert"],
+                "startBias": ["River", "Desert"],
 
                 "preferredVictoryType": "Cultural",
 
@@ -444,12 +444,10 @@
 
                 "innerColor": [248, 225, 86],
 
-                "uniqueName": "Winter starts coming and it don't stop coming.",
+                "uniqueName": "Spaniards.",
 
-                "uniques": ["[+1 Food] from [Desert] tiles [in all cities] <in tiles with [Coastal]>", 
-                  "[+1 Food, +1 Culture] from [Flood Plains] [in all cities]", 
-                  "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
+                "uniques": ["All newly-trained [Land] units [in all cities] receive the [Unbowed] promotion", "[+1 Food] from [Desert] tiles [in all cities] <in tiles with [Coastal]>", "[+1 Production] from [Desert] tiles <when at war>", "[+1 Food] from [Flood Plains] [in all cities]", "[+1 Culture, +1 Production] from [River] [in all cities]", "[+1 Culture, +1 Gold] from [Trading Post] tiles [in all cities] <in [River] tiles>", "[+1 Happiness] from all [Culture] buildings <when not at war>"],
 
-                "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
+                "cities": ["Sunspear","Yronwood","Lemonwood","Starfall","Godsgrace","Sandstone","Saltshore","The Tor","Hellholt"]
   }
 ]
