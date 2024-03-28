@@ -57,12 +57,10 @@
 	},
 {
 		"name": "Greenblood Orphanage",
-"replaces": "Harbor",
+  "replaces": "Harbor",
 		"uniqueTo": "Dorne",
   "culture": 1,
-	
-		"name": "Harbor",
-		"cost": 120,
+		"cost": 150,
 		"maintenance": 1,
 		"hurryCostModifier": 75,
 		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
