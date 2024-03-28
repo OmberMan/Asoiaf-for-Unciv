@@ -112,7 +112,7 @@
                   "[+1 Food] from [Farm] tiles [in all cities] <in [River] tiles>", 
                   "[+1 Gold, +1 Culture] from [Fort] tiles [in all cities]", 
                   "[+2 Gold, +1 Culture, +1 Food] from [Citadel] tiles [in all cities]", 
-                  "[+20]% [Food] [in all cities] <in [River] tiles>"],
+                  "[+20]% [Food] [in all cities] <in [River] tiles>", "[+10]% [Gold [in all cities] <in [River] tiles>"],
 
                 "cities": ["Riverrun","Harrenhall","Maidenpool","Stony Sept","The Twin","The 2nd Twin","Fairmarket","Saltpans","Seaguard"]
         },
@@ -342,7 +342,10 @@
 
                 "uniqueName": "The large green blob.",
 
-                "uniques": ["[+1 Food] from [Bonus Resource] tiles [in all cities] <in [Grassland] tiles>", "[+1 Culture, +1 Happiness] from [Luxury Resource] tiles [in all cities] <in [Grassland] tiles>", "[+15]% growth [in all non-occupied cities]", "Gain [+6] [Culture] (modified by game speed) <upon gaining a [Mounted] unit>",
+                "uniques": ["[+1 Food] from [Bonus Resource] tiles [in all cities] <in [Grassland] tiles>", 
+"[+1 Culture, +1 Happiness] from [Luxury Resource] tiles [in all cities] <in [Grassland] tiles>", 
+"[+15]% growth [in all non-occupied cities]", 
+"Gain [+6] [Culture] (modified by game speed) <upon gaining a [Mounted] unit>",
                 "[+1 Science] from [Farm] tiles [in all cities] <in tiles adjacent to [Academy]>",
                 "[+1 Gold] from [Farm] tiles [in all cities] <in tiles adjacent to [Custom House]>",
                 "[+1 Faith] from [Farm] tiles [in all cities] <in tiles adjacent to [Holy Site]>",
@@ -397,7 +400,7 @@
 
                 "leaderName": "Doran Martell",
 
-                "adjective": ["Dork"],
+                "adjective": ["Donk"],
 
                 "personality": "Martell",
 
@@ -443,8 +446,8 @@
 
                 "uniqueName": "Winter starts coming and it don't stop coming.",
 
-                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
-                  "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities]", 
+                "uniques": ["[+1 Food] from [Desert] tiles [in all cities] <in tiles with [Coastal]>", 
+                  "[+1 Food, +1 Culture] from [Flood Plains] [in all cities]", 
                   "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
 
                 "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
