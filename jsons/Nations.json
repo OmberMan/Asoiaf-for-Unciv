@@ -49,7 +49,7 @@
 
                 "uniqueName": "Winter starts coming and it don't stop coming.",
 
-                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", "[+1 Faith] from [Forest] tiles without [improved] [in all cities]", "[+15]% Strength <when fighting in [Friendly land] tiles>"],
+                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities]", "[+15]% Strength <when fighting in [Friendly land] tiles>"],
 
  "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
@@ -59,7 +59,7 @@
 
                 "leaderName": "Bryndon Tully",
 
-                "adjective": ["Hapless founderer"],
+                "adjective": ["Hapless flounderer"],
 
                 "personality": "Tully",
 
@@ -69,7 +69,7 @@
 
                 "style": "Germanic",
 
-  "favoredReligion": "Hinduism",
+  "favoredReligion": "The Seven",
 
                 "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
 
@@ -105,7 +105,173 @@
 
                 "uniqueName": "Winter starts coming and it don't stop coming.",
 
-                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", "[+1 Faith] from [Forest] tiles without [improved] [in all cities]", "[+15]% Strength <when fighting in [Friendly land] tiles>"],
+                "uniques": ["[+1 Food, -1 Production] from [Farm] tiles [in all cities]", "[+1 Food] from [Farm] tiles [in all cities] <in [River] tiles>", "[+1 Gold, +1 Culture] from [Fort] tiles [in all cities]", "[+2 Gold, +1 Culture, +1 Food] from [Citadel] tiles [in all cities]", "[+20]% [Food] [in all cities] <in [River] tiles>"],
+
+ "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
+
+                "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
+        },
+{                "name": "The Westerlands",
+
+                "leaderName": "Tywin Lannister",
+
+                "adjective": ["I'm beginning to think these guys found gold somewhere"],
+
+                "personality": "Lannister",
+
+                "startBias": ["Hill", "Gold Ore"],
+
+                "preferredVictoryType": "Diplomatic",
+
+
+  "favoredReligion": "The Seven",
+
+                "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
+
+                "attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
+
+                "defeated":  "Ohh, Gods forgive me. All is lost...",
+
+                "introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+
+                "neutralHello": "The Samnite federation greets you, foreign emissary.",
+
+                "neutralLetsHearIt": ["Yes.","Let's discuss."],
+
+                "neutralNo": ["No way.","Never!"],
+
+                "neutralYes": ["Very good.","Of course, yes.","I accept."],
+
+                "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
+
+                "hateLetsHearIt": ["Speak!"],
+
+                "hateNo": ["I can't accept!","You need to try harder."],
+
+                "hateYes": ["Let it be.","This offer is too good to reject."],
+
+                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
+
+                "tradeRequest": "Is this to your liking?",
+
+                "outerColor": [        226, 221, 224],
+
+                "innerColor": [        203, 153, 14],
+
+                "uniqueName": "The Lion in the jungle shows no shame it shows no pride.",
+
+                "uniques": ["[+3 Gold, +1 Culture] from [Gold Ore] tiles [in all cities]", "[+1 Gold] from [Mine] tiles [in all cities]", "[-33]% maintenance costs <for [Land] units>", "[Gold] cost of purchasing [Land] units [-33]%", "[+1 Culture, +1 Happiness, +1 Science] per every [100] [Gold]"],
+
+ "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
+
+                "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
+        },
+{                
+                "name": "The Vale",
+
+                "leaderName": "Jon Arryn",
+
+                "adjective": ["The most mountainous"],
+
+                "personality": "Arryn",
+
+                "startBias": ["Mountain"],
+
+                "preferredVictoryType": "Cultural",
+
+
+  "favoredReligion": "The Seven",
+
+                "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
+
+                "attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
+
+                "defeated":  "Ohh, Gods forgive me. All is lost...",
+
+                "introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+
+                "neutralHello": "The Samnite federation greets you, foreign emissary.",
+
+                "neutralLetsHearIt": ["Yes.","Let's discuss."],
+
+                "neutralNo": ["No way.","Never!"],
+
+                "neutralYes": ["Very good.","Of course, yes.","I accept."],
+
+                "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
+
+                "hateLetsHearIt": ["Speak!"],
+
+                "hateNo": ["I can't accept!","You need to try harder."],
+
+                "hateYes": ["Let it be.","This offer is too good to reject."],
+
+                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
+
+                "tradeRequest": "Is this to your liking?",
+
+                "outerColor": [        226, 221, 224],
+
+                "innerColor": [        203, 153, 14],
+
+                "uniqueName": "Flock of Seagulls.",
+
+                "uniques": ["[+1 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", " No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
+
+ "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
+
+                "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
+        },
+{                "name": "The Stormlands",
+
+                "leaderName": "Robert Baratheon",
+
+                "adjective": ["Sturmlndr :DDD"],
+
+                "personality": "Baratheon",
+
+                "startBias": ["Hill", "Coast", "Avoid [Desert]"],
+
+                "preferredVictoryType": "Domination",
+
+
+  "favoredReligion": "The Seven",
+
+                "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
+
+                "attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
+
+                "defeated":  "Ohh, Gods forgive me. All is lost...",
+
+                "introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+
+                "neutralHello": "The Samnite federation greets you, foreign emissary.",
+
+                "neutralLetsHearIt": ["Yes.","Let's discuss."],
+
+                "neutralNo": ["No way.","Never!"],
+
+                "neutralYes": ["Very good.","Of course, yes.","I accept."],
+
+                "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
+
+                "hateLetsHearIt": ["Speak!"],
+
+                "hateNo": ["I can't accept!","You need to try harder."],
+
+                "hateYes": ["Let it be.","This offer is too good to reject."],
+
+                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
+
+                "tradeRequest": "Is this to your liking?",
+
+                "outerColor": [        226, 221, 224],
+
+                "innerColor": [        203, 153, 14],
+
+                "uniqueName": "Hammer Time.",
+
+                "uniques": ["[+1 Culture] from all [Walls] buildings", "[+1 Culture] from all [Castle] buildings", "[+1 Culture] from all [Arsenal] buildings","[+1 Culture] from all [buildingFilter] buildings","[+1 Culture] from all [buildingFilter] buildings","[+1 Culture] from all [buildingFilter] buildings","[+1 Culture] from [Gold Ore] tiles [in all cities]", "[+1 Gold] from [Mine] tiles [in all cities]", "[-33]% maintenance costs <for [Land] units>", "[Gold] cost of purchasing [Land] units [-33]%", "[+1 Culture, +1 Happiness, +1 Science] per every [100] [Gold]"],
 
  "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
