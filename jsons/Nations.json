@@ -1,5 +1,6 @@
 [
-{                "name": "The North",
+{                
+  "name": "The North",
 
                 "leaderName": "Eddard Stark",
 
@@ -13,7 +14,7 @@
 
                 "style": "Slavic",
 
-  "favoredReligion": "Old Gods",
+  "favoredReligion": "The Old Gods",
 
                 "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
 
@@ -50,13 +51,14 @@
                 "uniqueName": "Winter starts coming and it don't stop coming.",
 
                 "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
-                  "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities]", "[+15]% Strength <when fighting in [Tundra] tiles>", "[+15]% Strength <when fighting in [Friendly land] tiles>"],
+                  "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities]", 
+                  "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
 
- "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
-                "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
+                "cities": ["Winterfell","White Harbor","Torrhen's Square","Karhold","Barrowtown","The Dreadfort","Moat Cailin","Deepwood Motte","Flint's Finger"]
         },
-{                "name": "The Riverlands",
+{               
+  "name": "The Riverlands",
 
                 "leaderName": "Bryndon Tully",
 
@@ -100,9 +102,9 @@
 
                 "tradeRequest": "Is this to your liking?",
 
-                "outerColor": [        226, 221, 224],
+                "outerColor": [16, 98, 222],
 
-                "innerColor": [        203, 153, 14],
+                "innerColor": [217, 65, 76],
 
                 "uniqueName": "Life is Pain.",
 
@@ -112,9 +114,7 @@
                   "[+2 Gold, +1 Culture, +1 Food] from [Citadel] tiles [in all cities]", 
                   "[+20]% [Food] [in all cities] <in [River] tiles>"],
 
- "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
-
-                "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
+                "cities": ["Riverrun","Harrenhall","Maidenpool","Stony Sept","The Twin","The 2nd Twin","Fairmarket","Saltpans","Seaguard"]
         },
 {                
   "name": "The Westerlands",
@@ -159,9 +159,9 @@
 
                 "tradeRequest": "Is this to your liking?",
 
-                "outerColor": [        226, 221, 224],
+                "outerColor": [242, 20, 9],
 
-                "innerColor": [        203, 153, 14],
+                "innerColor": [243, 215, 51],
 
                 "uniqueName": "The Lion in the jungle shows no shame it shows no pride.",
 
@@ -171,9 +171,7 @@
                   "[Gold] cost of purchasing [Land] units [-33]%", 
                   "[+1 Culture, +1 Happiness, +1 Science] per every [100] [Gold]"],
 
- "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
-
-                "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
+                "cities": ["Casterly Rock","Lannisport","Kayce","Faircastle","Ashenmark","The Crag","Silverhill","Crakehall","Golden Tooth"]
         },
 {                
                 "name": "The Vale",
@@ -219,19 +217,19 @@
 
                 "tradeRequest": "Is this to your liking?",
 
-                "outerColor": [        226, 221, 224],
+                "outerColor": [108, 237, 254],
 
-                "innerColor": [        203, 153, 14],
+                "innerColor": [252, 245, 255],
 
                 "uniqueName": "Flock of Seagulls.",
 
                 "uniques": ["[+1 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", " No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
 
- "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
-                "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
+                "cities": ["Eiyre","Gulletown","Heart's Home","Snakewoods","Bloody Gate","Sweet Sister","Coldwater","Redfort","Longbow Hall"]
         },
-{                "name": "The Stormlands",
+{                
+  "name": "The Stormlands",
 
                 "leaderName": "Robert Baratheon",
 
@@ -274,9 +272,9 @@
 
                 "tradeRequest": "Is this to your liking?",
 
-                "outerColor": [        226, 221, 224],
+                "outerColor": [49, 195, 40],
 
-                "innerColor": [        203, 153, 14],
+                "innerColor": [23, 22, 27],
 
                 "uniqueName": "Hammer Time.",
 
@@ -290,10 +288,165 @@
                   "[+1 Culture] from all [Military Academy] buildings", "[+100]% Production when constructing [Military Academy] buildings [in all cities]", "New [{Land} {Melee}] units start with [3] Experience [in all cities] <in cities with a [Military Academy]>",
                   "[Great General] is earned [+33]% faster",
                   "Empire enters a [2]-turn Golden Age <upon conquering a city> <with [50]% chance>"],
-                  
+                
 
- "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
+                "cities": ["Storm's End","Summerhall","Mistwood","Evenfall Hall","Blackhaven","Bronzegate","Greenstone","Hello","I've run  out of city names"]
+        },
+  {                
+                "name": "The Reach",
+
+                "leaderName": "Oleanna Tyrell",
+
+                "adjective": ["Fronch"],
+
+                "personality": "Tyrell",
+
+                "startBias": ["Grassland"],
+
+                "preferredVictoryType": "Cultural",
+
+
+  "favoredReligion": "The Seven",
+
+                "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
+
+                "attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
+
+                "defeated":  "Ohh, Gods forgive me. All is lost...",
+
+                "introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+
+                "neutralHello": "The Samnite federation greets you, foreign emissary.",
+
+                "neutralLetsHearIt": ["Yes.","Let's discuss."],
+
+                "neutralNo": ["No way.","Never!"],
+
+                "neutralYes": ["Very good.","Of course, yes.","I accept."],
+
+                "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
+
+                "hateLetsHearIt": ["Speak!"],
+
+                "hateNo": ["I can't accept!","You need to try harder."],
+
+                "hateYes": ["Let it be.","This offer is too good to reject."],
+
+                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
+
+                "tradeRequest": "Is this to your liking?",
+
+                "outerColor": [7, 188, 10],
+
+                "innerColor": [237, 233, 58],
+
+                "uniqueName": "The large green blob.",
+
+                "uniques": ["[+1 Food] from [Bonus Resource] tiles [in all cities] <in [Grassland] tiles>", "[+1 Culture, +1 Happiness] from [Luxury Resource] tiles [in all cities] <in [Grassland] tiles>", "[+15]% growth [in all non-occupied cities]", "Gain [+6] [Culture] (modified by game speed) <upon gaining a [Mounted] unit>",
+                "[+1 Science] from [Farm] tiles [in all cities] <in tiles adjacent to [Academy]>",
+                "[+1 Gold] from [Farm] tiles [in all cities] <in tiles adjacent to [Custom House]>",
+                "[+1 Faith] from [Farm] tiles [in all cities] <in tiles adjacent to [Holy Site]>",
+                "[+1 Culture] from [Farm] tiles [in all cities] <in tiles adjacent to [Landmark]>",
+                "[+1 Food] from [Academy] tiles [in all cities] <with [1] to [1] neighboring [Farm] tiles>",
+                "[+2 Food] from [Academy] tiles [in all cities] <with [2] to [2] neighboring [Farm] tiles>",
+                "[+3 Food] from [Academy] tiles [in all cities] <with [3] to [4] neighboring [Farm] tiles>",
+                "[+4 Food] from [Academy] tiles [in all cities] <with [5] to [6] neighboring [Farm] tiles>",
+                "[+1 Production] from [Academy] tiles [in all cities] <with [1] to [2] neighboring [Pasture] tiles>",
+                "[+2 Production] from [Academy] tiles [in all cities] <with [3] to [4] neighboring [Pasture] tiles>",
+                "[+3 Production] from [Academy] tiles [in all cities] <with [5] to [6] neighboring [Pasture] tiles>",
+                "[+1 Gold] from [Academy] tiles [in all cities] <with [1] to [2] neighboring [Plantation] tiles>",
+                "[+2 Gold] from [Academy] tiles [in all cities] <with [3] to [4] neighboring [Plantation] tiles>",
+                "[+3 Gold] from [Academy] tiles [in all cities] <with [5] to [6] neighboring [Plantation] tiles>",
+                "[+1 Food] from [Custom House] tiles [in all cities] <with [1] to [1] neighboring [Farm] tiles>",
+                "[+2 Food] from [Custom House] tiles [in all cities] <with [2] to [2] neighboring [Farm] tiles>",
+                "[+3 Food] from [Custom House] tiles [in all cities] <with [3] to [4] neighboring [Farm] tiles>",
+                "[+4 Food] from [Custom House] tiles [in all cities] <with [5] to [6] neighboring [Farm] tiles>",
+                "[+1 Production] from [Custom House] tiles [in all cities] <with [1] to [2] neighboring [Pasture] tiles>",
+                "[+2 Production] from [Custom House] tiles [in all cities] <with [3] to [4] neighboring [Pasture] tiles>",
+                "[+3 Production] from [Custom House] tiles [in all cities] <with [5] to [6] neighboring [Pasture] tiles>",
+                "[+1 Gold] from [Custom House] tiles [in all cities] <with [1] to [2] neighboring [Plantation] tiles>",
+                "[+2 Gold] from [Custom House] tiles [in all cities] <with [3] to [4] neighboring [Plantation] tiles>",
+                "[+3 Gold] from [Custom House] tiles [in all cities] <with [5] to [6] neighboring [Plantation] tiles>",
+                "[+1 Food] from [Holy Site] tiles [in all cities] <with [1] to [1] neighboring [Farm] tiles>",
+                "[+2 Food] from [Holy Site] tiles [in all cities] <with [2] to [2] neighboring [Farm] tiles>",
+                "[+3 Food] from [Holy Site] tiles [in all cities] <with [3] to [4] neighboring [Farm] tiles>",
+                "[+4 Food] from [Holy Site] tiles [in all cities] <with [5] to [6] neighboring [Farm] tiles>",
+                "[+1 Production] from [Holy Site] tiles [in all cities] <with [1] to [2] neighboring [Pasture] tiles>",
+                "[+2 Production] from [Holy Site] tiles [in all cities] <with [3] to [4] neighboring [Pasture] tiles>",
+                "[+3 Production] from [Holy Site] tiles [in all cities] <with [5] to [6] neighboring [Pasture] tiles>",
+                "[+1 Gold] from [Holy Site] tiles [in all cities] <with [1] to [2] neighboring [Plantation] tiles>",
+                "[+2 Gold] from [Holy Site] tiles [in all cities] <with [3] to [4] neighboring [Plantation] tiles>",
+                "[+3 Gold] from [Holy Site] tiles [in all cities] <with [5] to [6] neighboring [Plantation] tiles>",
+                "[+1 Food] from [Landmark] tiles [in all cities] <with [1] to [1] neighboring [Farm] tiles>",
+                "[+2 Food] from [Landmark] tiles [in all cities] <with [2] to [2] neighboring [Farm] tiles>",
+                "[+3 Food] from [Landmark] tiles [in all cities] <with [3] to [4] neighboring [Farm] tiles>",
+                "[+4 Food] from [Landmark] tiles [in all cities] <with [5] to [6] neighboring [Farm] tiles>",
+                "[+1 Production] from [Landmark] tiles [in all cities] <with [1] to [2] neighboring [Pasture] tiles>",
+                "[+2 Production] from [Landmark] tiles [in all cities] <with [3] to [4] neighboring [Pasture] tiles>",
+                "[+3 Production] from [Landmark] tiles [in all cities] <with [5] to [6] neighboring [Pasture] tiles>",
+                "[+1 Gold] from [Landmark] tiles [in all cities] <with [1] to [2] neighboring [Plantation] tiles>",
+                "[+2 Gold] from [Landmark] tiles [in all cities] <with [3] to [4] neighboring [Plantation] tiles>",
+                "[+3 Gold] from [Landmark] tiles [in all cities] <with [5] to [6] neighboring [Plantation] tiles>"],
+
+               
+
+                "cities": ["Highgarden","Oldtown","Ashford","The Arbor","Tumbleton","Brightwater Keep","Grassy Vale","Goldengrove","Bitterbridge"]
+        },
+  {                
+  "name": "Dorne",
+
+                "leaderName": "Doran Martell",
+
+                "adjective": ["Dork"],
+
+                "personality": "Martell",
+
+                "startBias": ["Coast", "Desert"],
+
+                "preferredVictoryType": "Cultural",
+
+                "style": "Mesopotamian",
+
+  "favoredReligion": "The Seven",
+
+                "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
+
+                "attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
+
+                "defeated":  "Ohh, Gods forgive me. All is lost...",
+
+                "introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+
+                "neutralHello": "The Samnite federation greets you, foreign emissary.",
+
+                "neutralLetsHearIt": ["Yes.","Let's discuss."],
+
+                "neutralNo": ["No way.","Never!"],
+
+                "neutralYes": ["Very good.","Of course, yes.","I accept."],
+
+                "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
+
+                "hateLetsHearIt": ["Speak!"],
+
+                "hateNo": ["I can't accept!","You need to try harder."],
+
+                "hateYes": ["Let it be.","This offer is too good to reject."],
+
+                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
+
+                "tradeRequest": "Is this to your liking?",
+
+                "outerColor": [222, 99, 28],
+
+                "innerColor": [248, 225, 86],
+
+                "uniqueName": "Winter starts coming and it don't stop coming.",
+
+                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
+                  "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities]", 
+                  "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
 
                 "cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
-        },
+  }
 ]
