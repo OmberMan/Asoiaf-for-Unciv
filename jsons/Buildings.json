@@ -21,6 +21,17 @@
 		"uniques": ["[+1 Gold] from [Plantation] tiles [in this city]", "[+1 Happiness] from [Wine] tiles [in this city]", "Provides [1] [Wine]"],
 		"requiredTech": "Currency"
 	},
+{
+		"name": "Godswood",
+		"maintenance": 0,
+  "replaces": "Shrine",
+		"uniqueTo": "The North",
+		"hurryCostModifier": 100,
+ 	"requiredTech": "Agriculture",
+  "culture": 1,
+  "faith": 1,
+		"uniques": ["[+1 Faith] from [Forest] tiles without [Lumber Mill] [in this city]", "Reveal up to [All] [Forest] within a [5] tile radius"],
+	},
 ]
 
 
