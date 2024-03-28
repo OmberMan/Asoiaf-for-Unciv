@@ -1,1 +1,10 @@
-
+[
+{
+        "name": "Death from Above",
+        "uniques": ["[+1] Movement <in [Hill] tiles>", "[+25]% Strength decreasing with distance from the capital"]
+    },
+	{
+		"name": "Galliance",
+		"uniques": ["Earn [5]% of the damage done to [Military] units as [Culture]", "[+10]% Strength bonus for [Military] units within [1] tiles"]
+	},
+]
