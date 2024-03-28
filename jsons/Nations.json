@@ -13,7 +13,7 @@
 
                 "style": "Slavic",
 
-  "favoredReligion": "Hinduism",
+  "favoredReligion": "Old Gods",
 
                 "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
 
@@ -50,8 +50,7 @@
                 "uniqueName": "Winter starts coming and it don't stop coming.",
 
                 "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
-                  "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities]", 
-                  "[+15]% Strength <when fighting in [Friendly land] tiles>"],
+                  "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities]", "[+15]% Strength <when fighting in [Tundra] tiles>", "[+15]% Strength <when fighting in [Friendly land] tiles>"],
 
  "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
