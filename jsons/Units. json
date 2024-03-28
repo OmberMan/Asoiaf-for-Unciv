@@ -1,1 +1,86 @@
-
+[
+          { 
+		"name": "Falcon Knight",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"movement": 4,
+		"strength": 12,
+		"cost": 75,
+		"hurryCostModifier": 35,
+		"requiredTech": "Chivalry",
+		"upgradesTo": "Cavalry",
+  "requiredResource": "Horses",
+		"uniqueTo": "The Vale",
+		"uniques": ["Can move after attacking", "[+25]% Strength <when above [99] HP>", "Earn [25]% of killed [Military] unit's [cost] as [Faith]", "No defensive terrain bonus", "[-33]% Strength <vs cities>"], 
+		"promotions": ["Death from Above"],
+		"civilopediaText": [
+{
+				"extraImage": "TileSets/FantasyHex/Units/Falcon Knight",
+				"imageSize": 128
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Holy guacamole is that a motherfucking berserk reference?!?"
+			}
+		],
+		"attackSound": "horse",
+   },
+{
+"name": "Knights of the Reach",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"movement": 4,
+		"strength": 13,
+		"cost": 95,
+		"hurryCostModifier": 35,
+		"requiredTech": "Chivalry",
+		"upgradesTo": "Cavalry",
+  "requiredResource": "Horses",
+		"uniqueTo": "The Reach",
+		"uniques": ["Can move after attacking", "[+33] Strength <vs [Mounted] units>", "No defensive terrain bonus", "[-33]% Strength <vs cities>"], 
+		"promotions": ["Galliance"],
+		"civilopediaText": [
+{
+				"extraImage": "TileSets/FantasyHex/Units/Knights of the Rach",
+				"imageSize": 128
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Yeah I know it's not a word"
+			}
+		],
+		"attackSound": "horse",
+   },
+{
+"name": "Bannerless Brotherhood Bowman",
+		"unitType": "Archery",
+		"replaces": "Crossbow",
+		"movement": 2,
+		"strength": 8,
+  "rangedStrength": 9,
+		"cost": 75,
+		"hurryCostModifier": 150,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"uniqueTo": "The Riverlands",
+		"uniques": ["Can move after attacking", "[+25]% Strength <when above [99] HP>", "[+1] Sight", "[+1] Range", "No movement cost to pillage", "[-100]% maintenance costs", "[+25]% Strength when stacked with [mapUnitFilter]", "May withdraw before melee ([60]%)", "When defeating a [Land] unit, earn [5] Gold <with [amount]% chance> and recruit it", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities>"], 
+		"promotions": ["Death from Above"],
+		"civilopediaText": [
+{
+				"extraImage": "TileSets/FantasyHex/Units/Falcon Knight",
+				"imageSize": 128
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Holy guacamole is that a motherfucking berserk reference?!?"
+			}
+		],
+		"attackSound": "horse",
+   },
+]
