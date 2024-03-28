@@ -1,9 +1,26 @@
-Reach - Garden,  Vineyard, the Citadel
-North - Weirdwood, Greenhouse?
-Stormlands - Tourney Arena, Blacksmith?
-Dorne - Water Garden
-Vale - Moon Door, Crescent Chambers
-Iron Islands - Port
-Westerlands - Sellsword Camp, Banquet Hall
-Riverlands - Fortress, Grainary?
-Crownlands - Various national wonders
+//Reach - Garden,  Vineyard, the Citadel
+//North - Weirdwood, Greenhouse?
+//Stormlands - Tourney Arena, Blacksmith?
+//Dorne - Water Garden
+//Vale - Moon Door, Crescent Chambers
+//Iron Islands - Port
+//Westerlands - Sellsword Camp, Banquet Hall
+//Riverlands - Fortress, Grainary?
+//Crownlands - Various national wonders
+
+[
+	{
+		"name": "Arbor Vineyard",
+		"maintenance": 1,
+  "replaces": "Mint",
+		"uniqueTo": "The Reach",
+		"requiredNearbyImprovedResources": ["Wine", "Citrus", "Dyes", "Incense", "Spices", "Silk", "Cotton", "Cocoa", "Sugar", "Bananas"],
+		"hurryCostModifier": 25,
+  "culture": 1,
+  "happiness" 1,
+		"uniques": ["[+1 Gold] from [Plantation] tiles [in this city]", "[+1 Happiness] from [Wine] tiles [in this city]", "Provides [1] [Wine]"],
+		"requiredTech": "Currency"
+	},
+]
+
+
