@@ -67,20 +67,12 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"uniqueTo": "The Riverlands",
-		"uniques": ["Can move after attacking", "[+25]% Strength <when above [99] HP>", "[+1] Sight", "[+1] Range", "No movement cost to pillage", "[-100]% maintenance costs", "[+25]% Strength when stacked with [mapUnitFilter]", "May withdraw before melee ([60]%)", "When defeating a [Land] unit, earn [5] Gold <with [amount]% chance> and recruit it", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities>"], 
-		"promotions": ["Death from Above"],
+		"uniques": ["Can move after attacking", "[+25]% Strength <when above [99] HP>", "[+1] Sight", "[+1] Range", "No movement cost to pillage", "[-100]% maintenance costs", "[+25]% Strength when stacked with [Great Person]", "May withdraw before melee ([50]%)", "May capture killed [mapUnitFilter] units <with [15]% chance>", "Invisible to non-adjacent units <in [Forest] tiles>", "[+1] Movement <in [Forest] tiles>", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities>"], 
 		"civilopediaText": [
-{
-				"extraImage": "TileSets/FantasyHex/Units/Falcon Knight",
-				"imageSize": 128
-			},
 			{
-				"Separator": true
-			},
-			{
-				"text": "Holy guacamole is that a motherfucking berserk reference?!?"
+				"text": "Bannerless Bois on suicide watch after learning a battle is called a fray."
 			}
 		],
-		"attackSound": "horse",
+		"attackSound": "arrow",
    },
 ]
