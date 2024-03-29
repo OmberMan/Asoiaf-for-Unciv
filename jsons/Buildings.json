@@ -101,6 +101,8 @@
 		"requiredNearbyImprovedResources": ["Iron", " Copper"],
 		"requiredTech": "Metal Casting",
   "cityHealth": 20,
+		"uniqueTo": "The Stormlands",
+		"replaces": "Forge",
 		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
 			"[+15]% Production when constructing [Land] units [in this city]", 
 "[+5]% Production when constructing [Sword] units [in this city]",  
