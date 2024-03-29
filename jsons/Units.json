@@ -4,7 +4,7 @@
                 "unitType": "Mounted",
                 "replaces": "Knight",
                 "movement": 4,
-                "strength": 12,
+                "strength": 20,
                 "cost": 130,
                 "hurryCostModifier": 35,
                 "requiredTech": "Chivalry",
@@ -31,7 +31,7 @@
 "name": "Knight of Flowers",
                 "unitType": "Mounted",
                 "replaces": "Knight",
-                "movement": 4,
+                "movement": 3,
                 "strength": 22,
                 "cost": 145,
                 "hurryCostModifier": 35,
@@ -61,14 +61,14 @@
                 "unitType": "Archery",
                 "replaces": "Crossbowman",
                 "movement": 2,
-                "strength": 8,
-  "rangedStrength": 9,
+                "strength": 13,
+  "rangedStrength": 15,
                 "cost": 75,
                 "hurryCostModifier": 150,
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
                 "uniqueTo": "The Riverlands",
-                "uniques": ["Can move after attacking", "[+25]% Strength <when above [99] HP>", "[+1] Sight", "[+1] Range", "No movement cost to pillage", "[-100]% maintenance costs", "[+25]% Strength when stacked with [Great Person]", "May withdraw before melee ([50]%)", "May capture killed [mapUnitFilter] units <with [15]% chance>", "Invisible to non-adjacent units <in [Forest] tiles>", "[+1] Movement <in [Forest] tiles>", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities>"], 
+                "uniques": ["Can move after attacking", "[+25]% Strength <when above [99] HP>", "[+1] Sight", "No movement cost to pillage", "[-100]% maintenance costs", "[+25]% Strength when stacked with [Great Person]", "May withdraw before melee ([50]%)", "May capture killed [mapUnitFilter] units <with [15]% chance>", "Invisible to non-adjacent units <in [Forest] tiles>", "[+1] Movement <in [Forest] tiles>", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities>"], 
                 "civilopediaText": [
                         {
                                 "text": "Bannerless Bois on suicide watch after learning a battle is called a fray."
@@ -86,7 +86,7 @@
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
                 "uniqueTo": "The Westerlands",
-                "uniques": ["[+20]% Strength <when defending>", "[+15]% Strength <when adjacent to a [{Friendly} {Melee}] unit>", "[+50]% to Flank Attack bonuses", "[+100]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
+                "uniques": ["[+20]% Strength <when defending>", "[+15]% Strength <when adjacent to a [Goldcloak Pikeman] unit>", "[+50]% to Flank Attack bonuses", "[+100]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
                 "civilopediaText": [
                         {
                                 "text": "Literal Redshirts."
@@ -138,9 +138,10 @@
                 "hurryCostModifier": 25,
                 "requiredTech": "Chivalry",
 "requiredResource": "Iron",
-"replaces": "Longswordsman",                "upgradesTo": "Musketman",
+"replaces": "Longswordsman",                
+          "upgradesTo": "Musketman",
                 "uniqueTo": "The Stormlands",
-                "uniques": ["[+25]% Strength <when attacking>", "[-25]% Strength <when attacking> <vs [Wounded] units>", "[+25]% Strength <vs [Sword] units>"],
+                "uniques": ["[+25]% Strength <when attacking> <vs [non-[Wounded]] units>", "[+25]% Strength <vs [Sword] units>"],
 "promotions": ["Blitz"],
 "attackSound": "metalhit",
    },
