@@ -36,7 +36,7 @@
                 "uniqueName": "Winter starts coming and it don't stop coming.",
 
                 "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
-                  "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities]", 
+                  "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities] <in [Tundra] tiles>", 
                   "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
 
                 "cities": ["Winterfell","White Harbor","Torrhen's Square","Karhold","Barrowtown","The Dreadfort","Moat Cailin","Deepwood Motte","Flint's Finger"]
@@ -82,7 +82,7 @@
                   "[+1 Food] from [Farm] tiles [in all cities] <in [River] tiles>", 
                   "[+1 Gold, +1 Culture] from [Fort] tiles [in all cities]", 
                   "[+2 Gold, +1 Culture, +1 Food] from [Citadel] tiles [in all cities]", 
-                  "[+20]% [Food] [in all cities] <in [River] tiles>", "[+10]% [Gold [in all cities] <in [River] tiles>"],
+                  "[+20]% [Food] [in all cities] <in [River] tiles>", "[+10]% [Gold] [in all cities] <in [River] tiles>"],
 
                 "cities": ["Riverrun","Harrenhall","Maidenpool","Stony Sept","The Twin","The 2nd Twin","Fairmarket","Saltpans","Seaguard"]
         },
@@ -254,8 +254,8 @@
 
                 "uniqueName": "The large green blob.",
 
-                "uniques": ["[+1 Food] from [Bonus Resource] tiles [in all cities] <in [Grassland] tiles>", 
-"[+1 Culture, +1 Happiness] from [Luxury Resource] tiles [in all cities] <in [Grassland] tiles>", 
+                "uniques": ["[+1 Food] from [Bonus resource] tiles [in all cities] <in [Grassland] tiles>", 
+"[+1 Culture, +1 Happiness] from [Luxury resource] tiles [in all cities] <in [Grassland] tiles>", 
 "[+15]% growth [in all non-occupied cities]", 
 "Gain [+6] [Culture] (modified by game speed) <upon gaining a [Mounted] unit>",
                 "[+1 Science] from [Farm] tiles [in all cities] <in tiles adjacent to [Academy]>",
@@ -344,7 +344,12 @@
 
                 "uniqueName": "Spaniards.",
 
-                "uniques": ["All newly-trained [Land] units [in all cities] receive the [Unbowed] promotion", "[+1 Food] from [Desert] tiles [in all cities] <in tiles with [Coastal]>", "[+1 Production] from [Desert] tiles <when at war>", "[+1 Food] from [Flood Plains] [in all cities]", "[+1 Culture, +1 Production] from [River] [in all cities]", "[+1 Happiness] from all [Culture] buildings <when not at war>"],
+                "uniques": ["All newly-trained [Land] units [in all cities] receive the [Unbowed] promotion", 
+"[+1 Food] from [Desert] tiles [in all cities] <in tiles with [Coastal]>", 
+"[+1 Production] from [Desert] tiles <when at war>", 
+"[+1 Food] from [Flood Plains] tiles [in all cities]", 
+"[+1 Culture, +1 Production] from [River] tiles [in all cities]", 
+"[+1 Happiness] from all [Culture] buildings <when not at war>"],
 
                 "cities": ["Sunspear","Yronwood","Lemonwood","Starfall","Godsgrace","Sandstone","Saltshore","The Tor","Hellholt"]
   },
