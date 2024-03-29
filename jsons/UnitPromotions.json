@@ -1,7 +1,7 @@
 [
 {
         "name": "Death from Above",
-        "uniques": ["[+1] Movement <in [Hill] tiles>", "[+25]% Strength decreasing with distance from the capital"]
+        "uniques": ["[+2] Movement <in [Hill] tiles>", "[+25]% Strength decreasing with distance from the capital"]
     },
 	{
 		"name": "Galliance",
