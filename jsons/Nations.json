@@ -31,7 +31,7 @@
 
                 "outerColor": [        226, 221, 224],
 
-                "innerColor": [        151, 147, 149],
+                "innerColor": [        141, 137, 139],
 
                 "uniqueName": "Winter starts coming and it don't stop coming.",
 
@@ -74,7 +74,7 @@
 
                 "outerColor": [16, 98, 222],
 
-                "innerColor": [217, 65, 76],
+                "innerColor": [217, 55, 66],
 
                 "uniqueName": "Life is Pain.",
 
@@ -115,9 +115,9 @@
 
                 "tradeRequest": "Is this to your liking?",
 
-                "outerColor": [242, 20, 9],
+                "outerColor": [232, 18, 9],
 
-                "innerColor": [243, 215, 51],
+                "innerColor": [239, 211, 47],
 
                 "uniqueName": "The Lion in the jungle shows no shame it shows no pride.",
 
@@ -159,13 +159,13 @@
 
                 "tradeRequest": "Is this to your liking?",
 
-                "outerColor": [108, 237, 254],
+                "outerColor": [78, 222, 242],
 
-                "innerColor": [252, 245, 255],
+                "innerColor": [229, 251, 255],
 
                 "uniqueName": "Flock of Seagulls.",
 
-                "uniques": ["[+2 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
+                "uniques": ["[+2 Food, +1 Culture, +1 Faith, +1 Production] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
 
  "uniquesText": "+1 [Faith] from [Culture] buildings during peacetime. \n\n+25 Strength for cities, doubled next to mountains, and +2 [Food], +2 [Culture], and +1 [Faith] from mountains. \nNo maintenance costs for improvements in [Hill]s.",
 
@@ -202,7 +202,7 @@
 
                 "tradeRequest": "Is this to your liking?",
 
-                "outerColor": [199, 195, 40],
+                "outerColor": [223, 217, 42],
 
                 "innerColor": [23, 22, 27],
 
@@ -250,9 +250,9 @@
 
                 "tradeRequest": "Is this to your liking?",
 
-                "outerColor": [7, 188, 10],
+                "outerColor": [7, 178, 15],
 
-                "innerColor": [237, 233, 58],
+                "innerColor": [227, 223, 48],
 
                 "uniqueName": "The large green blob.",
 
@@ -339,7 +339,7 @@
 
                 "tradeRequest": "Is this to your liking?",
 
-                "outerColor": [222, 99, 28],
+                "outerColor": [202, 99, 28],
 
                 "innerColor": [248, 225, 86],
 
@@ -347,7 +347,7 @@
 
                 "uniques": ["All newly-trained [Land] units [in all cities] receive the [Unbowed] promotion", 
 "[+1 Food] from [Desert] tiles [in all cities] <in [Coastal] tiles>", 
-"[+1 Production] from [Desert] tiles <when at war>", 
+"[+1 Production] from [Desert] tiles [in all cities] <when at war>", 
 "[+1 Food] from [Flood Plains] tiles [in all cities]", 
 "[+1 Culture, +1 Production] from [River] tiles [in all cities]", 
 "[+1 Happiness] from all [Culture] buildings <when not at war>"],
@@ -385,9 +385,9 @@
 
                 "tradeRequest": "Is this to your liking?",
 
-                "outerColor": [222, 99, 28],
+                "outerColor": [134, 142, 149],
 
-                "innerColor": [248, 225, 86],
+                "innerColor": [221, 218, 26],
 
                 "uniqueName": "Spaniards.",
 
