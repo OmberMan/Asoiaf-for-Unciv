@@ -346,7 +346,7 @@
                 "uniqueName": "Spaniards.",
 
                 "uniques": ["All newly-trained [Land] units [in all cities] receive the [Unbowed] promotion", 
-"[+1 Food] from [Desert] tiles [in all cities] <in tiles with [Coastal]>", 
+"[+1 Food] from [Desert] tiles [in all cities] <in [Coastal] tiles>", 
 "[+1 Production] from [Desert] tiles <when at war>", 
 "[+1 Food] from [Flood Plains] tiles [in all cities]", 
 "[+1 Culture, +1 Production] from [River] tiles [in all cities]", 
