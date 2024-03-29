@@ -130,6 +130,7 @@
 "promotions": ["Blitz"],
 "attackSound": "metalhit",
    },
+{
 "name": "Dismounted Stormbringer",
   "unitType": "Sword",
                 "movement": 2,
