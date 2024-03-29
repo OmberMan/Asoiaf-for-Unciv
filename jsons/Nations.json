@@ -165,7 +165,9 @@
 
                 "uniqueName": "Flock of Seagulls.",
 
-                "uniques": ["[+1 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", " No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
+                "uniques": ["[+2 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
+
+ "uniquesText": "+1 [Faith] from [Culture] buildings during peacetime. \n\n+25 Strength for cities, doubled next to [Mountain]s, and +2 [Food], +2 [Culture], and +1 [Faith]" from [Mountain]s. \nNo Maintenance costs for improvements in [Hill]s.",
 
                 "cities": ["Eiyre","Gulletown","Heart's Home","Snakewoods","Bloody Gate","Sweet Sister","Coldwater","Redfort","Longbow Hall"]
         },
@@ -303,7 +305,7 @@
                 "[+2 Gold] from [Landmark] tiles [in all cities] <with [3] to [4] neighboring [Plantation] tiles>",
                 "[+3 Gold] from [Landmark] tiles [in all cities] <with [5] to [6] neighboring [Plantation] tiles>"],
 
-               
+"uniquesText": "
 
                 "cities": ["Highgarden","Oldtown","Ashford","The Arbor","Tumbleton","Brightwater Keep","Grassy Vale","Goldengrove","Bitterbridge"]
         },
