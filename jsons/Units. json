@@ -1,5 +1,5 @@
 [
-          { 
+         { 
 		"name": "Falcon Knight",
 		"unitType": "Mounted",
 		"replaces": "Knight",
@@ -153,9 +153,9 @@
                 "hurryCostModifier": 5,
                 "requiredTech": "Civil Service",
                 "upgradesTo": "Musketman",
-                "uniqueTo": "The Riverlands",
-                "uniques": ["[+50]% to Flank Attack bonuses", "[+100]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
-"promotions": ["Discipline"],
+                "uniqueTo": "Dorne",
+                "uniques": ["[+50]% to Flank Attack bonuses", "[+50]% Strength <vs [Dragon] units>", "[+50]% Strength <vs [Mounted] units>"], 
+"promotions": ["Unbowed"],
                 "civilopediaText": [
                         {
                                 "text": "Literal Redshirts."
