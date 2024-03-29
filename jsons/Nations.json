@@ -26,21 +26,9 @@
 
                 "neutralHello": "Have you seen my daughters? \nIt appears I've misplaced my entire family.",
 
-                "neutralLetsHearIt": ["Yes.","Let's discuss."],
-
-                "neutralNo": ["No way.","Never!"],
-
-                "neutralYes": ["Very good.","Of course, yes.","I accept."],
-
                 "hateHello": "Do you have a shred of honor?",
 
                 "hateLetsHearIt": ["Speak!"],
-
-                "hateNo": ["I can't accept!","You need to try harder."],
-
-                "hateYes": ["Let it be.","This offer is too good to reject."],
-
-                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
 
                 "tradeRequest": "When the snows fall and the white winds blow, the lone wolf dies but the pack survives.",
 
@@ -53,7 +41,6 @@
                 "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
                   "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities]", 
                   "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
-
 
                 "cities": ["Winterfell","White Harbor","Torrhen's Square","Karhold","Barrowtown","The Dreadfort","Moat Cailin","Deepwood Motte","Flint's Finger"]
         },
@@ -84,21 +71,7 @@
 
                 "neutralHello": "LIFE IS PAIN, I HATE- \noh hello.",
 
-                "neutralLetsHearIt": ["Yes.","Let's discuss."],
-
-                "neutralNo": ["No way.","Never!"],
-
-                "neutralYes": ["Very good.","Of course, yes.","I accept."],
-
                 "hateHello": "You will never know how sick it makes me to see you in this room, cringe player. You will never know how much I despise you",
-
-                "hateLetsHearIt": ["Speak!"],
-
-                "hateNo": ["I can't accept!","You need to try harder."],
-
-                "hateYes": ["Let it be.","This offer is too good to reject."],
-
-                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
 
                 "tradeRequest": "Wouldn't it be hilarious if I arrived at your keep via a trebuchet? Would you like that?",
 
@@ -141,21 +114,7 @@
 
                 "neutralHello": "The Samnite federation greets you, foreign emissary.",
 
-                "neutralLetsHearIt": ["Yes.","Let's discuss."],
-
-                "neutralNo": ["No way.","Never!"],
-
-                "neutralYes": ["Very good.","Of course, yes.","I accept."],
-
                 "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
-
-                "hateLetsHearIt": ["Speak!"],
-
-                "hateNo": ["I can't accept!","You need to try harder."],
-
-                "hateYes": ["Let it be.","This offer is too good to reject."],
-
-                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
 
                 "tradeRequest": "Is this to your liking?",
 
@@ -199,21 +158,7 @@
 
                 "neutralHello": "The Samnite federation greets you, foreign emissary.",
 
-                "neutralLetsHearIt": ["Yes.","Let's discuss."],
-
-                "neutralNo": ["No way.","Never!"],
-
-                "neutralYes": ["Very good.","Of course, yes.","I accept."],
-
                 "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
-
-                "hateLetsHearIt": ["Speak!"],
-
-                "hateNo": ["I can't accept!","You need to try harder."],
-
-                "hateYes": ["Let it be.","This offer is too good to reject."],
-
-                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
 
                 "tradeRequest": "Is this to your liking?",
 
@@ -224,7 +169,6 @@
                 "uniqueName": "Flock of Seagulls.",
 
                 "uniques": ["[+1 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", " No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
-
 
                 "cities": ["Eiyre","Gulletown","Heart's Home","Snakewoods","Bloody Gate","Sweet Sister","Coldwater","Redfort","Longbow Hall"]
         },
@@ -255,21 +199,7 @@
 
                 "neutralHello": "The Samnite federation greets you, foreign emissary.",
 
-                "neutralLetsHearIt": ["Yes.","Let's discuss."],
-
-                "neutralNo": ["No way.","Never!"],
-
-                "neutralYes": ["Very good.","Of course, yes.","I accept."],
-
                 "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
-
-                "hateLetsHearIt": ["Speak!"],
-
-                "hateNo": ["I can't accept!","You need to try harder."],
-
-                "hateYes": ["Let it be.","This offer is too good to reject."],
-
-                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
 
                 "tradeRequest": "Is this to your liking?",
 
@@ -317,23 +247,7 @@
 
                 "introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
 
-                "neutralHello": "The Samnite federation greets you, foreign emissary.",
-
-                "neutralLetsHearIt": ["Yes.","Let's discuss."],
-
-                "neutralNo": ["No way.","Never!"],
-
-                "neutralYes": ["Very good.","Of course, yes.","I accept."],
-
                 "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
-
-                "hateLetsHearIt": ["Speak!"],
-
-                "hateNo": ["I can't accept!","You need to try harder."],
-
-                "hateYes": ["Let it be.","This offer is too good to reject."],
-
-                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
 
                 "tradeRequest": "Is this to your liking?",
 
@@ -423,21 +337,7 @@
 
                 "neutralHello": "The Samnite federation greets you, foreign emissary.",
 
-                "neutralLetsHearIt": ["Yes.","Let's discuss."],
-
-                "neutralNo": ["No way.","Never!"],
-
-                "neutralYes": ["Very good.","Of course, yes.","I accept."],
-
                 "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
-
-                "hateLetsHearIt": ["Speak!"],
-
-                "hateNo": ["I can't accept!","You need to try harder."],
-
-                "hateYes": ["Let it be.","This offer is too good to reject."],
-
-                "afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
 
                 "tradeRequest": "Is this to your liking?",
 
