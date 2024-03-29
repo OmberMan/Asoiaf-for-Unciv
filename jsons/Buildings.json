@@ -35,7 +35,7 @@
 		"uniques": ["[+1 Faith] from [Forest] tiles without [Lumber Mill] [in this city]", "Reveal up to [All] [Forest] within a [5] tile radius"],
 	},
 {
-		"name": "Crescent Garden",
+		"name": "Crescent Gardens",
 "replaces": "Garden",
 		"uniqueTo": "The Vale",
   "faith": 1,
@@ -59,7 +59,7 @@
 		"uniques": ["Must be on [Hills]", "[-50]% production cost <within [1] tiles of a [Mountain]>", "Can only be built",  "[-20]% Unhappiness from [Population] [in this city] <when not at war>"]
 	},
 {
-		"name": "Water Gardens",
+		"name": "Water Garden",
 "replaces": "Garden",
 		"uniqueTo": "Dorne",
   "culture": 2,
