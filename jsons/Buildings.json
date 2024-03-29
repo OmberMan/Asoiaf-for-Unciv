@@ -85,10 +85,10 @@
 	},
 {
 		"name": "Tourney Grounds",
-  "replaces": "Colloseum",
+  "replaces": "Colosseum",
 		"uniqueTo": "The Stormlands",
   "culture": 1,
-  "happiness" 2,
+  "happiness": 2,
 "requiredTech": "Horseback Riding",
 		"maintenance": 1,
 		"hurryCostModifier": 15,
