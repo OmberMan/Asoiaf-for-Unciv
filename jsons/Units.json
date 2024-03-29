@@ -85,7 +85,7 @@
                 "hurryCostModifier": -35,
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
-                "uniqueTo": "The Riverlands",
+                "uniqueTo": "The Westerlands",
                 "uniques": ["[+20]% Strength <when defending>", "[+50]% to Flank Attack bonuses", "[+100]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
 "promotions": ["Discipline"],
                 "civilopediaText": [
