@@ -61,9 +61,9 @@
 		"unitType": "Archery",
 		"replaces": "Crossbow",
 		"movement": 2,
-		"strength": 8,
-  "rangedStrength": 9,
-		"cost": 75,
+		"strength": 13,
+  "rangedStrength": 15,
+		"cost": 100,
 		"hurryCostModifier": 150,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
@@ -144,4 +144,23 @@
 "promotions": ["Blitz"],
 "attackSound": "metalhit",
    },
+{
+"name": "Sand Viper",
+                "unitType": "Sword",
+                "movement": 2,
+                "strength": 16,
+                "cost": 90,
+                "hurryCostModifier": 5,
+                "requiredTech": "Civil Service",
+                "upgradesTo": "Musketman",
+                "uniqueTo": "The Riverlands",
+                "uniques": ["[+50]% to Flank Attack bonuses", "[+100]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
+"promotions": ["Discipline"],
+                "civilopediaText": [
+                        {
+                                "text": "Literal Redshirts."
+                        }
+                ],
+                "attackSound": "metalhit",
+   }
 ]
