@@ -40,7 +40,7 @@
 "replaces": "Knight",
   "requiredResource": "Horses",
                 "uniqueTo": "The Reach",
-                "uniques": ["Can move after attacking", "[+33] Strength <vs [Mounted] units>", "No defensive terrain bonus", "[-33]% Strength <vs cities>"], 
+                "uniques": ["Can move after attacking", "[+33]% Strength <vs [Mounted] units>", "No defensive terrain bonus", "[-33]% Strength <vs cities>"], 
                 "promotions": ["Galliance"],
                 "civilopediaText": [
 {
@@ -59,7 +59,7 @@
 {
 "name": "Bannerless Brotherhood Bowman",
                 "unitType": "Archery",
-                "replaces": "Crossbow",
+                "replaces": "Crossbowman",
                 "movement": 2,
                 "strength": 8,
   "rangedStrength": 9,
@@ -86,8 +86,7 @@
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
                 "uniqueTo": "The Westerlands",
-                "uniques": ["[+20]% Strength <when defending>", "[+50]% to Flank Attack bonuses", "[+100]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
-"promotions": ["Discipline"],
+                "uniques": ["[+20]% Strength <when defending>", "[+15]% Strength <when adjacent to a [{Friendly} {Melee}] unit>", "[+50]% to Flank Attack bonuses", "[+100]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
                 "civilopediaText": [
                         {
                                 "text": "Literal Redshirts."
