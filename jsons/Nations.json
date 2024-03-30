@@ -396,7 +396,7 @@
 
                 "uniqueName": "They forgot how to sow.",
 
-                "uniques": ["[+150]% Production when constructing [Naval] units [in all cities]", "[-50]% maintenance costs <for [Naval] units>", "[-1 Food] from [Farm] tiles [in all cities]", "Earn [100]% of the damage done to [City] units as [Gold]", "Upon capturing a city, receive [3] times its [Gold] production as [Culture] immediately", "[1] Movement point cost to embark", "Earn [50]% of killed [Naval] unit's [Strength] as [Faith]", "[+20]% Strength <when attacking> <for [{Naval} {Melee}] units>"],
+                "uniques": ["[+150]% Production when constructing [Naval] units [in all cities]", "[-50]% maintenance costs <for [Naval] units>", "[-1 Food] from [Farm] tiles [in all cities]", "Earn [100]% of the damage done to [City] units as [Gold]", "Upon capturing a city, receive [3] times its [Gold] production as [Culture] immediately", "[1] Movement point cost to embark", "Earn [50]% of killed [Naval] unit's [Strength] as [Faith]", "[+20]% Strength <when attacking> <for [Naval] units>", "[+10]% Unhappiness from [Population] [in all cities]", "Double quantity of [Iron] produced" ],
 
                 "cities": ["Pyke","Harlaw","Old Wyk","Great Wyk","Orkmont","Saltcliffe","Blacktyde","Lonely Light","some other birdshit covered pebble out in the middle of nowhere"]
   },
@@ -433,16 +433,15 @@
 
                 "tradeRequest": "When the snows fall and the white winds blow, the lone wolf dies but the pack survives.",
 
-                "outerColor": [        226, 221, 224],
+                "outerColor": [        18, 11, 15],
 
-                "innerColor": [        141, 137, 139],
+                "innerColor": [        174, 57, 53],
 
-                "uniqueName": "Winter starts coming and it don't stop coming.",
+                "uniqueName": "Fuck you.",
 
-                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
-                  "[+1 Culture] from [Forest] tiles without [improved] [in all cities]", 
-                  "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
+                "uniques": ["[-33]% Unhappiness from [Population] [in capital]" 
+                  "Resting point for Influence with City-States is increased by [+30]"],
 
-                "cities": ["Winterfell","White Harbor","Torrhen's Square","Karhold","Barrowtown","The Dreadfort","Moat Cailin","Deepwood Motte","Flint's Finger"]
+                "cities": ["King's Landing"]
         },
 ]
