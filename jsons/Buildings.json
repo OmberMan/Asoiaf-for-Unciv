@@ -5,7 +5,7 @@
 //Vale - Moon Door, Crescent Chambers
 //Iron Islands - Port
 //Westerlands - Sellsword Camp, Banquet Hall
-//Riverlands - Fortress, Grainary?
+//Riverlands - Fortress, Water Mill?
 //Crownlands - Various national wonders
 
 [
@@ -108,7 +108,41 @@
 "[+5]% Production when constructing [Sword] units [in this city]",  
 "[+5]% Production when constructing [Gunpowder] units [in this city]"
 			"[+1 Production] from [Iron] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]"]
-	}
+	},
+		{
+		"name": "Maester's Citadel",
+		"maintenance": 3,
+		"hurryCostModifier": 25,
+                "specialistSlots": {"Maester": 4},
+                "cost": 230,
+		"requiredTech": "Philosophy",
+                "science": 4,
+		"culture": 1,
+	        "percentStatBonus": {"Science": 10},
+		"uniqueTo": "The Reach",
+		"replaces": "National Epic",
+		"uniques": ["provides [9] [Maester's Chain]", 
+			"Never destroyed when the city is captured", 
+			"isNationalWonder": true,
+			"[+25]% Great Person generation [in this city]",
+			"Gain a free [Maester's Chambers] [in this city]",
+		        "[+1 Science] per [4] population [in all cities]"]
+	},
+	{
+		"name": "Maester's Chambers",
+		"maintenance": 1,
+		"hurryCostModifier": 20,
+                "specialistSlots": {"Maester": 1},
+                "cost": 75,
+		"requiredTech": "Mathematics",
+                "science": 2,
+	        "percentStatBonus": {"Science": -5},
+		"uniques": ["[+33]% Food is carried over after population increases [in this city]",
+			"Science gained from research agreements [+33]%",
+		        "[+33]% Production when constructing [Science] buildings [in this city]"
+		]
+	},
+	
 ]
 
 
