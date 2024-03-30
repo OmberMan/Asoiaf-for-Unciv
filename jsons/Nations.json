@@ -25,6 +25,9 @@
 
                 "hateHello": "Do you have a shred of honor?",
 
+"introduction":  "Ned.",
+
+
                 "hateLetsHearIt": ["Speak!"],
 
                 "tradeRequest": "When the snows fall and the white winds blow, the lone wolf dies but the pack survives.",
@@ -36,7 +39,7 @@
                 "uniqueName": "Winter starts coming and it don't stop coming.",
 
                 "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
-                  "[+1 Faith, +1 Culture] from [Forest] tiles without [improved] [in all cities] <in [Tundra] tiles>", 
+                  "[+1 Culture] from [Forest] tiles without [improved] [in all cities]", 
                   "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
 
                 "cities": ["Winterfell","White Harbor","Torrhen's Square","Karhold","Barrowtown","The Dreadfort","Moat Cailin","Deepwood Motte","Flint's Finger"]
@@ -64,7 +67,7 @@
 
                 "defeated":  "Better a sword than a rope. Do it.",
 
-                "introduction":  ".",
+                "introduction":  "About time we were invaded again.",
 
                 "neutralHello": "LIFE IS PAIN, I HATE- \noh hello.",
 
