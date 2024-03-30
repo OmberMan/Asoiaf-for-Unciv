@@ -1,0 +1,10 @@
+[
+{
+		"name": "Maester",
+		"science": 2,
+		"culture": 2,
+    "gold": -1,
+		"greatPersonPoints": {"Great Engineer":1},
+		"color": [253, 182, 226]
+	},
+]
