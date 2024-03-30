@@ -91,23 +91,22 @@
 "requiredTech": "Horseback Riding",
 		"maintenance": 1,
 		"hurryCostModifier": 15,
-	"uniques": ["New [Sword] units start with [5] Experience [in this city]", "New [Mounted] units start with [5] Experience [in this city]", "New [Gunpowder] units start with [5] Experience [in this city]"],
+	"uniques": ["New [Sword] units start with [5] Experience [in this city]", "New [Mounted] units start with [5] Experience [in this city]", "[+5]% Production when constructing [Sword] units [in this city]",  
+"[+5]% Production when constructing [Gunpowder] units [in this city]", "[+5]% Production when constructing [Mounted] units [in this city]"],
 	},
 	{
 		"name": "Mistwood Smithy",
 		"maintenance": 1,
 		"hurryCostModifier": 25,
   "specialistSlots": {"Engineer": 1},
-		"requiredNearbyImprovedResources": ["Iron", " Copper"],
+		"requiredNearbyImprovedResources": ["Iron"],
 		"requiredTech": "Metal Casting",
   "cityHealth": 20,
 		"uniqueTo": "The Stormlands",
 		"replaces": "Forge",
-		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
+		"uniques": ["[+10]% Production when constructing [Spaceship part] units [in this city]",
 			"[+15]% Production when constructing [Land] units [in this city]", 
-"[+5]% Production when constructing [Sword] units [in this city]",  
-"[+5]% Production when constructing [Gunpowder] units [in this city]"
-			"[+1 Production] from [Iron] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]"]
+			"[+2 Production] from [Iron] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]"]
 	},
 		{
 		"name": "Maester's Citadel",
