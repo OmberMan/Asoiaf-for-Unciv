@@ -399,5 +399,50 @@
                 "uniques": ["[+150]% Production when constructing [Naval] units [in all cities]", "[-50]% maintenance costs <for [Naval] units>", "[-1 Food] from [Farm] tiles [in all cities]", "Earn [100]% of the damage done to [City] units as [Gold]", "Upon capturing a city, receive [3] times its [Gold] production as [Culture] immediately", "[1] Movement point cost to embark", "Earn [50]% of killed [Naval] unit's [Strength] as [Faith]", "[+20]% Strength <when attacking> <for [{Naval} {Melee}] units>"],
 
                 "cities": ["Pyke","Harlaw","Old Wyk","Great Wyk","Orkmont","Saltcliffe","Blacktyde","Lonely Light","some other birdshit covered pebble out in the middle of nowhere"]
-  }
+  },
+  {                
+  "name": "The Crownlands",
+
+                "leaderName": "Aerys II Targaryen",
+
+                "adjective": ["Lizard Fetishist"],
+
+                "personality": "Targaryen",
+
+                "startBias": ["Coast"],
+
+                "preferredVictoryType": "Diplomatic",
+
+                "style": "Slavic",
+
+  //"favoredReligion": "The Old Gods",
+
+                "declaringWar": "The man who passes the sentence should swing the sword. \nI, Eddard of the House Stark, Lord of Winterfell and Warden of the North, sentence you to die.",
+
+                "attacked": "Why is it always the innocents who suffer most, \nwhen you high lords play your game of thrones?.",
+
+                "defeated":  "I can't believe it turned out like this \nthis is truly the moment Ned Stark became dead Stark...",
+
+
+                "hateHello": "Do you have a shred of honor?",
+
+"introduction":  "Ned.",
+
+
+                "hateLetsHearIt": ["Speak!"],
+
+                "tradeRequest": "When the snows fall and the white winds blow, the lone wolf dies but the pack survives.",
+
+                "outerColor": [        226, 221, 224],
+
+                "innerColor": [        141, 137, 139],
+
+                "uniqueName": "Winter starts coming and it don't stop coming.",
+
+                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
+                  "[+1 Culture] from [Forest] tiles without [improved] [in all cities]", 
+                  "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
+
+                "cities": ["Winterfell","White Harbor","Torrhen's Square","Karhold","Barrowtown","The Dreadfort","Moat Cailin","Deepwood Motte","Flint's Finger"]
+        },
 ]
