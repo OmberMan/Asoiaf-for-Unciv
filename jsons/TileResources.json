@@ -6,5 +6,6 @@
 {
 		"name": "Dragon Eggs",
 		"resourceType": "Strategic",
+  "science": 1,
 	}
 ]
