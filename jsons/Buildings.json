@@ -118,12 +118,12 @@
 		"requiredTech": "Philosophy",
                 "science": 4,
 		"culture": 1,
+"isNationalWonder": true,
 	        "percentStatBonus": {"Science": 10},
 		"uniqueTo": "The Reach",
 		"replaces": "National Epic",
 		"uniques": ["provides [9] [Maester's Chain]", 
 			"Never destroyed when the city is captured", 
-			"isNationalWonder": true,
 			"[+25]% Great Person generation [in this city]",
 			"Gain a free [Maester's Chambers] [in this city]",
 		        "[+1 Science] per [4] population [in all cities]"]
