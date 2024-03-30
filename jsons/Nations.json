@@ -391,11 +391,11 @@
 
                 "outerColor": [134, 142, 149],
 
-                "innerColor": [221, 218, 26],
+                "innerColor": [207, 188, 28],
 
-                "uniqueName": "Spaniards.",
+                "uniqueName": "They forgot how to sow.",
 
-                "uniques": ["All newly-trained [Land] units [in all cities] receive the [Unbowed] promotion", "[+1 Production] from [Desert] tiles [in all cities] <when at war>", "[+1 Food] from [Flood Plains] [in all cities]", "[+1 Culture, +1 Production] from [River] [in all cities]", "[+1 Happiness] from all [Culture] buildings <when not at war>"],
+                "uniques": ["[+150]% Production when constructing [Naval] units [in all cities]", "[-50]% maintenance costs <for [Naval] units>", "[-1 Food] from [Farm] tiles [in all cities]", "Earn [100]% of the damage done to [City] units as [Gold]", "Upon capturing a city, receive [3] times its [Gold] production as [Culture] immediately", "[1] Movement point cost to embark", "Earn [50]% of killed [Naval] unit's [Strength] as [Faith]", "[+20]% Strength <when attacking> <for [{Naval} {Melee}] units>"],
 
                 "cities": ["Sunspear","Yronwood","Lemonwood","Starfall","Godsgrace","Sandstone","Saltshore","The Tor","Hellholt"]
   }
