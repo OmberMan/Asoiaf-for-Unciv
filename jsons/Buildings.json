@@ -44,14 +44,14 @@
  	"requiredTech": "Agriculture",
   "culture": 1,
   "faith": 1,
-		"uniques": ["[+1 Faith] from [Forest] tiles without [Lumber Mill] [in this city]", "Reveal up to [All] [Forest] within a [5] tile radius"],
+		"uniques": ["[+1 Faith] from [Forest] tiles without [Lumber Mill] [in this city]", "Reveal up to [All] [Forest] within a [8] tile radius"],
 	},
 {
 		"name": "Crescent Gardens",
 "replaces": "Garden",
 		"uniqueTo": "The Vale",
   "culture": 1,
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Mountain]", "[+1 Food] from [Hill] tiles [in this city]", "[+1 Food] from [Mountain] tiles [in this city]", "[+25]% Food is carried over after population increases [in all cities]"],
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Mountain]", "[+1 Food] from [Hill] tiles [in this city]", "[+1 Food, +1 Faith] from [Mountain] tiles [in this city]", "[+10]% Food is carried over after population increases [in this city]"],
 		"hurryCostModifier": 45,
 		"maintenance": 2,
 		"requiredTech": "Engineering"
@@ -59,11 +59,11 @@
 {
 		"name": "Moon Door",
 		"cityStrength": 14,
-		"cityHealth": 75,
+		"cityHealth": 100,
   "replaces": "Castle",
 		"uniqueTo": "The Vale",
 		"hurryCostModifier": 100,
-  "cost": 170,
+  "cost": 200,
   "faith": 1
 		"requiredBuilding": "Walls",
 		"requiredTech": "Engineering",
@@ -74,6 +74,7 @@
 "replaces": "Garden",
 		"uniqueTo": "Dorne",
   "culture": 2,
+	"cost": 160,
 "requiredTech": "Construction",
   "happiness": 1,
   "maintenance": 2,
@@ -92,7 +93,7 @@
 		"maintenance": 1,
   "percentStatBonus": {"Gold": 20},
 		"hurryCostModifier": 75,
-		"uniques": ["[+1 Gold, +1 Culture] from [Trading Post] tiles [in this city] <in [River] tiles>", "Provides 1 extra copy of each improved luxury resource near this City", "[+10]% Production when constructing [Naval] units [in this city]"],
+		"uniques": ["[+1 Gold, +1 Culture] from [{Trading Post} {River}] tiles [in this city]", "Provides 1 extra copy of each improved luxury resource near this City", "[+10]% Production when constructing [Naval] units [in this city]"],
 	},
 {
 		"name": "Tourney Grounds",
