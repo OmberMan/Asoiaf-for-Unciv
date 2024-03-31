@@ -11,7 +11,7 @@
                 "upgradesTo": "Cavalry",
   "requiredResource": "Horses",
                 "uniqueTo": "The Vale",
-                "uniques": ["Can move after attacking", "[+25]% Strength decreasing with distance from the capital", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "No defensive terrain bonus", "[-33]% Strength <vs cities>"], 
+                "uniques": ["Can move after attacking", "[+25]% Strength decreasing with distance from the capital", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"], 
                 "promotions": ["Death from Above"],
                 "civilopediaText": [
 {
@@ -40,7 +40,7 @@
 "replaces": "Knight",
   "requiredResource": "Horses",
                 "uniqueTo": "The Reach",
-                "uniques": ["Can move after attacking", "[+33]% Strength <vs [Mounted] units>", "No defensive terrain bonus", "[-33]% Strength <vs cities>"], 
+                "uniques": ["Can move after attacking", "[+33]% Strength <vs [Mounted] units>", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"], 
                 "promotions": ["Galliance"],
                 "civilopediaText": [
 {
@@ -68,7 +68,7 @@
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
                 "uniqueTo": "The Riverlands",
-                "uniques": ["Can move after attacking", "[+25]% Strength <when above [99] HP>", "[+1] Sight", "No movement cost to pillage", "[-100]% maintenance costs", "[+25]% Strength when stacked with [Great Person]", "May withdraw before melee ([50]%)", "May capture killed [mapUnitFilter] units <with [15]% chance>", "Invisible to non-adjacent units <in [Forest] tiles>", "[+1] Movement <in [Forest] tiles>", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities>"], 
+                "uniques": ["Can move after attacking", "[+25]% Strength <when above [99] HP>", "[+1] Sight", "No movement cost to pillage", "[-100]% maintenance costs", "[+25]% Strength when stacked with [Great Person]", "May withdraw before melee ([50]%)", "May capture killed [mapUnitFilter] units <with [15]% chance>", "Invisible to non-adjacent units <in [Forest] tiles>", "[+1] Movement <in [Forest] tiles>", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities> <when attacking>"], 
                 "civilopediaText": [
                         {
                                 "text": "Bannerless Bois on suicide watch after learning a battle is called a fray."
@@ -104,7 +104,7 @@
                 "requiredTech": "Chivalry",
                 "upgradesTo": "Cavalry",
                 "uniqueTo": "The Westerlands",
-                "uniques": ["[+150]% to Flank Attack bonuses", "[+100]% maintenance costs", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities>"], 
+                "uniques": ["[+150]% to Flank Attack bonuses", "[+100]% maintenance costs", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"], 
 "promotions": ["Charge"],
                 "civilopediaText": [
                         {
@@ -125,7 +125,7 @@
                 "upgradesTo": "Cavalry",
 "replaces": "Knight",
                 "uniqueTo": "The Stormlands",
-                "uniques": ["[+25]% Strength <when attacking>", "[-25]% Strength <when attacking> <vs [Wounded] units>", "[+25]% Strength <vs [Sword] units>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities>"],
+                "uniques": ["[+25]% Strength <when attacking> <vs [non-[Wounded]] units>", "[+25]% Strength <vs [Sword] units>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 "promotions": ["Blitz"],
 "attackSound": "metalhit",
    },
@@ -142,6 +142,37 @@
           "upgradesTo": "Musketman",
                 "uniqueTo": "The Stormlands",
                 "uniques": ["[+25]% Strength <when attacking> <vs [non-[Wounded]] units>", "[+25]% Strength <vs [Sword] units>"],
+"promotions": ["Blitz"],
+"attackSound": "metalhit",
+   },
+          {
+"name": "Stark House Guard",
+  "unitType": "Sword",
+                "movement": 2,
+                "strength": 19,
+                "cost": 105,
+                "hurryCostModifier": 25,
+                "requiredTech": "Metallurgy",
+"replaces": "Longswordsman",                
+          "upgradesTo": "Musketman",
+                "uniqueTo": "The North",
+                "uniques": ["[+15]% Strength <when defending>", "[+15]% Strength decreasing with distance from the capital", "[+15]% Strength when stacked with [Great General]"],
+"promotions": ["Blitz"],
+"attackSound": "metalhit",
+   },
+   {
+"name": "Marches Skirmisher",
+  "unitType": "Mounted",
+                "movement": 5,
+                "strength": 12,
+          "rangedStrength": 16,
+                "cost": 75,
+                "hurryCostModifier": 25,
+                "requiredTech": "Horseback Riding",
+"replaces": "Knight",                
+          "upgradesTo": "Lancer",
+                "uniqueTo": "Dorne",
+                "uniques": ["[+20]% Strength <when defending>", "[+1] additional attacks per turn", "Ignores terrain cost", "Can move after attacking", "Ignores Zone of Control", "[-33]% Strength <vs cities> <when attacking>"],
 "promotions": ["Blitz"],
 "attackSound": "metalhit",
    },
