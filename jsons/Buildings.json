@@ -12,6 +12,8 @@
 		{
 		"name": "Wetlands Mill",
 		"maintenance": 0,
+		"uniqueTo": "The Riverlands",
+		  "replaces": "Water Mill",
 		"gold": 1,
 		"food": 2,
 		"production": 1,
