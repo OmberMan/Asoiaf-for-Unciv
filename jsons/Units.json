@@ -176,4 +176,40 @@
 "promotions": ["Blitz"],
 "attackSound": "metalhit",
    },
+        {
+                "name": "Dragon Knight",
+                "uniqueTo": "The Crownlands",
+                "replaces": "Horseman",
+                "unitType": "Mounted",
+                "movement": 6,
+                "strength": 37,
+                "rangedStrength": 33,
+                "range": 1,
+                "cost": 350,
+                "hurryCostModifier": 100,
+                "requiredTech": "Horseback Riding",
+                "uniques": ["Can pass through impassable tiles", "All tiles cost 1 movement", "Ignores Zone of Control", "May Paradrop up to [7] tiles from inside friendly territory", "[-20]% Strength for enemy [All] units in adjacent [All] tiles", "May withdraw before melee ([66]%)", "Destroys tile improvements when attacking","[-25]% Strength <vs cities> <when attacking>", "[+25]% Strength <vs [Naval] units> <when attacking>", "[+25]% Strength <vs [Siege]> <when attacking>", "[-50]% Strength <vs [Armored] units>", "[-50]% Strength <vs [Gunpowder] units> <when defending>", "[+50]% Strength <vs [Spearman] units> <when attacking>", "[+50]% Strength <vs [Pikeman] units> <when attacking>", "[+50]% Strength <vs [Lancer] units> <when attacking>", "[-25]% Strength <vs [Ranged Gunpowder] units> <when defending>", "[-25]% Strength <vs [Ranged] units> <when defending>", "[-50]% Strength <vs [Air] units> <when defending>", "Eliminates combat penalty for attacking across a coast", "[+1] Sight", "[-10] HP when healing", "No defensive terrain bonus", "Can move after attacking", "Unable to capture cities", "No defensive terrain penalty", "[-33]% XP gained from combat", "[+700]% maintenance costs", "May travel on Water tiles without embarking"],
+                "attackSound": "fire",
+                "civilopediaText": [
+                        {"text": "Ahahaha ha ayayaya ha haa"},
+        ]
+        },
+        {
+                "name": "Gryphon",
+                "uniqueTo": "The Crownlands",
+                "unitType": "Bomber",
+  "replaces": "Chariot Archer",
+                "movement": 1,
+                "strength": 28,
+                "rangedStrength": 28,
+                "range": 8,
+                "cost": 300,
+                "requiredTech": "Trapping",
+                "uniques": ["[-10] HP when healing","[+400]% maintenance costs", "[-25]% Strength <vs cities>", "[-25]% Strength <vs [Ranged] units>", "[-20]% Strength <vs [Ranged Gunpowder] units>", "[-20]% Strength <vs [Gunpowder] units>", "[-50]% Strength <vs [Armored] units>", "[-40]% Strength <vs [Air] units>", "[+25]% Strength <vs [Naval] units> <when attacking>", "[+25]% Strength <vs [Siege]> <when attacking>", "[-33]% XP gained from combat"],
+                "hurryCostModifier": 50,
+                "attackSound": "torpedo",
+                "civilopediaText": [
+                        {"text": "A hybrid Dragon of Eagle and Lion, tamed and trained to be a valuable assets on the battlefield."},
+        ]
+        }
 ]
