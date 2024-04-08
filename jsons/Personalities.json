@@ -150,4 +150,27 @@
     "Patronage": 50
 }
 },
+      {
+"name": "Targaryen",
+                "preferredVictoryType": "Diplomatic",
+                "food": 3,
+                "production": 4,
+                "gold": 6,
+                "culture": 7,
+                "science": 5,
+                "faith": 6,
+                "military": 7,
+                "warMongering": 9,
+"priorities": {
+    "Tradition": 25,
+    "Piety": 20,
+    "Commerce": 20,
+    "Honor": 20,
+    "Aesthetics": 20,
+    "Patronage": 40,
+    "Exploration": 25, 
+    "Autocracy": 50
+
+}
+}
 ]
