@@ -9,6 +9,23 @@
 //Crownlands - Various national wonders
 
 [
+	{
+		"name": "Targaryen Keep",
+		"uniqueTo": "The Crownlands",
+		"replaces": "Courthouse",
+		"maintenance": 2,
+  "culture": 1,
+  "cost": 75,
+  "cityHealth": 25,
+  "cityStrength": 3,
+		"hurryCostModifier": 20,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			 "[-3] population [in this city] <upon constructing [Targaryen Keep]>", "[+1] population in a random city <upon constructing [Targaryen Keep]>", "[+1] population [in capital] <upon constructing [Targaryen Keep]>", "[+2 Production, +1 Gold] [in capital]"],
+		"requiredTech": "Mathematics",
+                "civilopediaText": [
+			{"text": "Monument for the Old Sods. An altar of whoreship."},
+        ]
+	},
 		{
 		"name": "Wetlands Mill",
 		"maintenance": 0,
