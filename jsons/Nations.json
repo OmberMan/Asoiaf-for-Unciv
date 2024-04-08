@@ -435,5 +435,5 @@
       
 "uniqueName": "Imagine Dragon these Nuts",
 		"uniques": ["[+10]% Strength <within [1] tiles of a [Mountain]>", "Gain [10] Influence with a [Military] gift to a City-State", "[+1 Production] from every [Sheep]", "[+1] population [in capital] <upon conquering a city>", "[-1] population in a random city <upon conquering a city>", "Free [Dragon Knight] appears <upon constructing [Wonder]> <with [50]% chance>", "[-33]% Unhappiness from [Population] [in capital", "[+200]% Unhappiness from number of cities", "Resting point for Influence with City-States is increased by [+30]", "[+15]% Production when constructing [All] wonders [in capital]", "City-State territory always counts as friendly territory", "Militaristic City-States grant units [4] times as fast when you are at war with a common nation"], 
-		
+}	
 ]
