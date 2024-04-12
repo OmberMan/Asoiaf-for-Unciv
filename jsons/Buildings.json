@@ -71,7 +71,7 @@
 		"hurryCostModifier": 30,
  	"requiredTech": "Sailing",
   "food": -1,
-		"uniques": ["[+1 Faith] from [Coast] tiles [in this city]", "Can only be built <in [Coastal] cities>", "[+2 Faith] from [Ocean] tiles [in this city]", "All newly-trained [Sword] units [in this city] receive the [What is dead can never die] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [What is dead can never die] promotion"],
+		"uniques": ["[+1 Faith] from [Coast] tiles [in this city]", "Can only be built <in [Coastal] cities>", "[+2 Faith] from [Ocean] tiles [in this city]", "All newly-trained [Sword] units [in this city] receive the [What is dead may never die] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [What is dead may never die] promotion"],
 	},
 {
 		"name": "Crescent Gardens",
