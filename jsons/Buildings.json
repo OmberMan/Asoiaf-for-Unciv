@@ -120,7 +120,7 @@
 		"maintenance": 1,
   "percentStatBonus": {"Gold": 20},
 		"hurryCostModifier": 75,
-		"uniques": ["[+1 Gold, +1 Culture] from [{Trading Post} {River}] tiles [in this city]", "Provides 1 extra copy of each improved luxury resource near this City", "[+10]% Production when constructing [Naval] units [in this city]"],
+		"uniques": ["[+1 Gold, +1 Culture] from [Trading Post] tiles [in this city] <in [River] tiles>", "Provides 1 extra copy of each improved luxury resource near this City", "[+10]% Production when constructing [Naval] units [in this city]"],
 	},
 {
 		"name": "Tourney Grounds",
