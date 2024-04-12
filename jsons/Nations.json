@@ -354,8 +354,8 @@
                 "uniques": ["All newly-trained [Land] units [in all cities] receive the [Unbowed] promotion",
 "Enemy [Wounded] units must spend [1] extra movement points when inside your territory <when above [20] Happiness>",
 "[+1 Production] from [Desert] tiles [in all cities] <when at war>", 
-"Each city founded increases culture cost of policies [-33]% less than normal", 
-"[-33]% unhappiness from the number of cities",
+"Each city founded increases culture cost of policies [-67]% less than normal", 
+"[-67]% unhappiness from the number of cities",
 "[+1 Culture, +1 Production] from [River] tiles [in all cities]", 
 "[+1 Happiness] from all [Culture] buildings <when not at war>"],
 
