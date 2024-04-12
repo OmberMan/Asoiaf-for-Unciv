@@ -190,6 +190,16 @@
 "promotions": ["Unbent"],
 "attackSound": "metalhit",
    },
+{
+		"name": "Thrall",
+		"unitType": "Civilian",
+		"movement": 2,
+"replaces": "Worker",                
+          "uniqueTo": "The Iron Islands",
+                "uniqueTo": "The Iron Islands",
+		"uniques": ["Can build [Land] improvements on tiles", "[+33]% construction time for [Land] improvements", "Can build [Water] improvements on tiles", "[-50]% maintenance costs"],
+		"cost": 60
+	},
             {
 "name": "Ironborn Reaver",
   "unitType": "Sword",
@@ -199,7 +209,7 @@
                 "hurryCostModifier": 20,
                 "requiredTech": "Steel",
 "requiredResource": "Iron",
-"replaces": "Longsowrdsman",                
+"replaces": "Longswordsman",                
           "upgradesTo": "Musketman",
                 "uniqueTo": "The Iron Islands",
                 "uniques": ["[+20]% Strength <vs [Sword] units>", "[+33]% Strength <vs cities> <when attacking>", "May withdraw before melee ([25]%)", "Can move after attacking", "[1] Movement point cost to disembark"],
