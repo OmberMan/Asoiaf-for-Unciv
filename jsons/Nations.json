@@ -191,19 +191,19 @@
 //  "favoredReligion": "The Seven",
 "style": "Slavic",
 
-                "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
+                "declaringWar": "SURROUNDED BY LANNISTERS! EVERY TIME I CLOSE MY EYES I SEE THEIR BLONDE HAIR AND THEIR SMUG, SATISFIED FACES! \NOUT! OUT, DAMN YOU! I'M DONE WITH YOU! GO, RUN BACK TO WINTERFELL! I'LL HAVE YOUR HEAD ON A SPIKE!",
 
-                "attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
+                "attacked": "BACKSTABBING DOESN'T PREPARE YOU FOR A FIGHT! \n\nWINE! WINE! MOOOOOOOOAR WINE!",
 
-                "defeated":  "Ohh, Gods forgive me. All is lost...",
+                "defeated":  "GIVE ME SOMETHING FOR THE PAIN AND LET ME DIE!",
 
-                "introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+                "introduction":  "IN MY DREAMS, I KILL HIM EVERY NIGHT. A THOUSAND DEATHS WILL STILL BE LESS THAN HE DESERVES! \nI WAS NEVER SO ALIVE AS WHEN I WAS WINNING THIS THRONE, OR SO DEAD AS NOW THAT I'VE WON IT! \nI THOUGHT BEING KING MEANT I COULD DO WHATEVER I WANTED! \nALL I WANTED TO DO WAS CRACK SKULLS AND FUCK GIRLS!",
 
-                "neutralHello": "The Samnite federation greets you, foreign emissary.",
+                "neutralHello": "THEY NEVER TELL YOU HOW THEY ALL SHIT THEMSELVES! THEY DON'T PUT THAT PART IN THE SONGS!",
 
-                "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
+                "hateHello": "YOUR MOTHER WAS A DUMB WHORE WITH A FAT ASS, YOU KNOW THAT?",
 
-                "tradeRequest": "Is this to your liking?",
+                "tradeRequest": "GODS I WAS STRONG THEN...",
 
                 "outerColor": [223, 217, 42],
 
@@ -241,17 +241,19 @@
 
   //"favoredReligion": "The Seven",
 
-                "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
+         "hateHello": "I wonder if you’re the worst person I’ve ever met? At a certain age, It’s hard to recall. But the truly vile do stand out through the years.",
 
-                "attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
+                "attacked": "I've known a great number of clever men. I've outlived them all. You know how? I ignored them.",
 
-                "defeated":  "Ohh, Gods forgive me. All is lost...",
+                "defeated":  "Are you going to bring some food or do you mean to starve me to death?", 
 
-                "introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+                "neutralHello": "What is your name again? Barbaro? You look like an angry little boy. Do shut up, dear.",
+	  
+                "introduction":  "I was told you were drunk, impertinent, and thoroughly debauched. You can imagine my disappointment at finding nothing but a browbeaten bookeeper.",
 
-                "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
+                "declaringWar": "The cheese will be served when I want it served, and I want it served now. ",
 
-                "tradeRequest": "Is this to your liking?",
+                "tradeRequest": "Put the pen down, dear. We both know you’re not writing anything.",
 
                 "outerColor": [7, 178, 15],
 
@@ -376,19 +378,19 @@
 
   //"favoredReligion": "The Drowned God",
 
-                "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
+                "declaringWar": "The choice is yours. Live a thrall or die a king. Do you dare to fly? Unless you take the leap, you’ll never know.",
 
-                "attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
+                "tradeRequest": "Kneel. I am your king. I am your god. Worship me, and I will raise you up to be my priest.",
 
-                "defeated":  "Ohh, Gods forgive me. All is lost...",
+                "defeated":  "We... Lost? Shit. I was sure we'd be getting outta this one.",
 
-                "introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+                "introduction":  "We are the ironborn, and once we were conquerors. Our writ ran everywhere the sound of the waves was heard.",
 
-                "neutralHello": "The Samnite federation greets you, foreign emissary.",
+                "neutralHello": "Godless? Why I am the godliest man ever to raise sail! \nYou serve one god, but I have served ten thousand. \nFrom Ib to Asshai, when men see my sails, they pray.",
 
-                "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
+                "hateHello": "I am the strom. The first storm, and the last.",
 
-                "tradeRequest": "Is this to your liking?",
+                "attacked": "Perhaps we can fly. All of us. How will we ever know unless we leap from some tall tower? No man ever truly knows what he can do unless he dares to leap",
 
                 "outerColor": [134, 142, 149],
 
@@ -396,7 +398,7 @@
 
                 "uniqueName": "They forgot how to sow.",
 
-                "uniques": ["[+150]% Production when constructing [Naval] units [in all cities]", "[-50]% maintenance costs <for [Naval] units>", "[-1 Food] from [Farm] tiles [in all cities]", "Earn [100]% of the damage done to [City] units as [Gold]", "Upon capturing a city, receive [3] times its [Gold] production as [Culture] immediately", "[1] Movement point cost to embark", "Earn [50]% of killed [Naval] unit's [Strength] as [Faith]", "[+20]% Strength <when attacking> <for [Naval] units>", "[+10]% Unhappiness from [Population] [in all cities]", "Double quantity of [Iron] produced" ],
+                "uniques": ["[+75]% Production when constructing [Naval] units [in all cities]", "[-25]% maintenance costs <for [Naval] units>", "All newly-trained [Sword] units [in all coastal cities] receive the [Sea Scourge] promotion", "[-1 Food] from [Farm] tiles [in all cities]", "[-1 Food] from [Plantation] tiles [in all cities]", "[1] Movement point cost to embark", "Earn [50]% of killed [Naval] unit's [Strength] as [Faith]", "[+20]% Strength <when attacking> <for [Naval] units>", "Damage is ignored when determining unit Strength <for [Naval] units>" "[+25]% Unhappiness from [Population] [in all cities] <when not at war>", "Double quantity of [Iron] produced" ],
 
                 "cities": ["Pyke","Harlaw","Old Wyk","Great Wyk","Orkmont","Saltcliffe","Blacktyde","Lonely Light","some other birdshit covered pebble out in the middle of nowhere"]
   },
@@ -423,7 +425,7 @@
 		"introduction": "uWu, rar :3",
 		
 		"neutralHello": "I AM THE GOD OF HELLFIRE",
-		"hateHello": "IMAGINE DRAG ON THIS DICK IN YOUR MOUTH.",
+		"hateHello": "IMAGINE DRAG ON THIS DICK ACROSS YOUR MOUTH.",
 		"tradeRequest": "Dragon these nuts across your mouth",
 		
 
@@ -434,6 +436,6 @@
                 "cities": ["King's Landing", "Dragonstone"],
       
 "uniqueName": "Imagine Dragon these Nuts",
-		"uniques": ["[+10]% Strength <within [1] tiles of a [Mountain]>", "Gain [10] Influence with a [Military] gift to a City-State", "[+1 Production] from every [Sheep]", "[+1] population [in capital] <upon conquering a city>", "[-1] population in a random city <upon conquering a city>", "Free [Dragon Knight] appears <upon constructing [Wonder]> <with [50]% chance>", "[-33]% Unhappiness from [Population] [in capital", "[+200]% Unhappiness from number of cities", "Resting point for Influence with City-States is increased by [+30]", "[+15]% Production when constructing [All] wonders [in capital]", "City-State territory always counts as friendly territory", "Militaristic City-States grant units [4] times as fast when you are at war with a common nation"], 
+		"uniques": ["[+10]% Strength <within [1] tiles of a [Mountain]>", "[+1 Production] from every [Sheep]", "[+1] population [in capital] <upon conquering a city>", "[-1] population in a random city <upon conquering a city>", "Free [Dragon Knight] appears <upon constructing [Wonder]> <with [50]% chance>", "[-33]% Unhappiness from [Population] [in capital", "Cannot build [Settler] units", "[+250]% Unhappiness from number of cities", "Resting point for Influence with City-States is increased by [30]", "[+15]% Production when constructing [All] wonders [in capital]", "City-State territory always counts as friendly territory", "Militaristic City-States grant units [4] times as fast when you are at war with a common nation"], 
 }	
 ]
