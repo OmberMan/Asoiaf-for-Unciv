@@ -9,10 +9,10 @@
 	},
 {
 		"name": "Unbowed",
-		"uniques": ["[+1] Movement <in [Desert] [Friendly land] tiles>", "[+1] additional attacks per turn <in [Friendly land] tiles>", "[+20%] Strength <when fighting units from a Civilization with more Cities than you> <when attacking>"]
+		"uniques": ["[+1] additional attacks per turn <in [Friendly land] tiles>", "[+20%] Strength <when fighting units from a Civilization with more Cities than you> <when attacking>"]
 	},
 	{
 		"name": "Unbent",
-		"uniques": ["Invisible to non-adjacent units <in [Desert] tiles>", "[+20]% Strength <when fighting in [Desert] tiles>", "May withdraw before melee ([40]%)", "[+100]% to Flank Attack bonuses"]
+		"uniques": ["Invisible to non-adjacent units <in [Desert] tiles>", "Can move after attacking", "Ignores Zone of Control", "[+20]% Strength <when fighting in [Desert] tiles>", "[+100]% to Flank Attack bonuses"]
 	},
 ]
