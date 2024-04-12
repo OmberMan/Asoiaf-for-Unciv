@@ -171,8 +171,8 @@
                 "upgradesTo": "Musketman",
 "replaces": "Pikeman",
                 "uniqueTo": "Dorne",
-                "uniques": ["[+25]% Strength <when attacking> <vs [non-[Wounded]] units>", "[+25]% Strength <vs [Sword] units>", "Can move after attacking", "No defensive terrain bonus", "[+33]% Strength <vs defending> <in [Desert] tiles>"],
-"promotions": ["Blitz"],
+                "uniques": ["[+25]% Strength <when attacking> <vs [Wounded] units>", "Can move after attacking", "[+50]% Strength <vs [Ranged] units> <when defending> <in [Desert] tiles>"],
+"promotions": ["Unbent"],
 "attackSound": "metalhit",
    },
    {
