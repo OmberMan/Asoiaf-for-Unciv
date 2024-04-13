@@ -9,6 +9,15 @@
 //Crownlands - Various national wonders
 
 [
+{
+		"name": "Sellsword Camp",
+"uniqueTo": "The Westerlands",
+		"replaces": "Barracks",
+		"hurryCostModifier": 10,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[Gold] cost of purchasing [Military] units [-10]%", "Provides a Sellsword unit"],
+		"requiredTech": "Bronze Working"
+	},
 	{
 		"name": "Targaryen Keep",
 		"uniqueTo": "The Crownlands",
