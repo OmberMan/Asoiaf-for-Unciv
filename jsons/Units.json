@@ -217,7 +217,7 @@
 "attackSound": "metalhit",
    },
         {
-                "name": "Dragon Knight",
+                "name": "Dragonrider",
                 "uniqueTo": "The Crownlands",
                 "replaces": "Horseman",
                 "unitType": "Mounted",
@@ -235,7 +235,7 @@
         ]
         },
         {
-                "name": "Gryphon",
+                "name": "Young Dragon",
                 "uniqueTo": "The Crownlands",
                 "unitType": "Bomber",
   "replaces": "Chariot Archer",
