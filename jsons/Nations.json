@@ -39,7 +39,7 @@
                 "uniqueName": "Winter starts coming and it don't stop coming.",
 
                 "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
-                  "[+1 Culture] from [Forest] tiles without [improved] [in all cities]", 
+                  "[+1 Culture] from [Forest] tiles without [Lumber Mill] [in all cities]", 
                   "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
 
                 "cities": ["Winterfell","White Harbor","Torrhen's Square","Karhold","Barrowtown","The Dreadfort","Moat Cailin","Deepwood Motte","Flint's Finger"]
@@ -83,9 +83,8 @@
 
                 "uniques": ["[+1 Food, -1 Production] from [Farm] tiles [in all cities]", 
                   "[+1 Food] from [Farm] tiles [in all cities] <in [River] tiles>", "[+1 Food] from [Marsh] tiles [in all cities]",
-                  "[+1 Gold, +1 Culture] from [Fort] tiles [in all cities]", 
-                  "[+2 Gold, +1 Culture, +1 Food] from [Citadel] tiles [in all cities]", 
-                  "[+20]% [Food] [in all cities] <in [River] tiles>", "[+10]% [Gold] [in all cities] <in [River] tiles>", "[+1] Movement <in [River] tiles> <for [Military] units>" ],
+                  "[+1 Gold, +1 Culture] from [Citadel] tiles [in all cities]", 
+                  "[+2 Food] [in all cities] <in [River] tiles>", "[+10]% [Gold] [in all cities] <in [River] tiles>", "[+1] Movement <in [River] tiles> <for [Military] units>" ],
 
                 "cities": ["Riverrun","Harrenhall","Maidenpool","Stony Sept","The Twin","The 2nd Twin","Fairmarket","Saltpans","Seaguard"]
         },
@@ -168,7 +167,7 @@
 
                 "uniqueName": "Flock of Seagulls.",
 
-                "uniques": ["[+2 Food, +1 Culture, +1 Faith, +1 Production] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
+                "uniques": ["[+1 Food, +1 Culture] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
 
  "uniqueText": "+25 Strength for cities, doubled next to mountains, and +2 [Food], +1 [Culture], +1 [Production] and +1 [Faith] from mountains. \nNo maintenance costs for improvements in [Hill]s.",
 
@@ -356,7 +355,7 @@
 "[+1 Production] from [Desert] tiles [in all cities] <when at war>", 
 "Each city founded increases culture cost of policies [-67]% less than normal", 
 "[-67]% unhappiness from the number of cities",
-"[+1 Culture, +1 Production] from [River] tiles [in all cities]", 
+"[+1 Culture] from [River] tiles [in all cities]", 
 "[+1 Happiness] from all [Culture] buildings <when not at war>"],
 
                 "cities": ["Sunspear","Yronwood","Lemonwood","Starfall","Godsgrace","Sandstone","Saltshore","The Tor","Hellholt"]
@@ -398,7 +397,7 @@
 
                 "uniqueName": "They forgot how to sow.",
 
-                "uniques": ["[+75]% Production when constructing [Naval] units [in all cities]", "[-25]% maintenance costs <for [Naval] units>", "All newly-trained [Sword] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "All newly-trained [Gunpowder] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "[-1 Food] from [Farm] tiles [in all cities]", "[-1 Food] from [Plantation] tiles [in all cities]", "[1] Movement point cost to embark", "Earn [50]% of killed [Naval] unit's [Strength] as [Faith]", "[+20]% Strength <when attacking> <for [Naval] units>", "Damage is ignored when determining unit Strength <for [Naval] units>", "[+25]% Unhappiness from [Population] [in all cities] <when not at war>", "Double quantity of [Iron] produced"],
+                "uniques": ["[+75]% Production when constructing [Naval] units [in all cities]", "[-25]% maintenance costs <for [Naval] units>", "All newly-trained [Sword] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "All newly-trained [Gunpowder] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "[-1 Food] from [Farm] tiles [in all cities]", "[-1 Food] from [Plantation] tiles [in all cities]", "[1] Movement point cost to embark", "Earn [50]% of killed [Naval] unit's [Strength] as [Faith]", "Damage is ignored when determining unit Strength <for [Naval] units>", "[+25]% Unhappiness from [Population] [in all cities] <when not at war>", "Double quantity of [Iron] produced"],
 
                 "cities": ["Pyke","Harlaw","Old Wyk","Great Wyk","Orkmont","Saltcliffe","Blacktyde","Lonely Light","some other birdshit covered pebble out in the middle of nowhere"]
   },
