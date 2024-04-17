@@ -445,6 +445,52 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 "uniqueName": "Imagine Dragon these Nuts",
 		"uniques": ["[+10]% Strength <within [1] tiles of a [Mountain]>", "[+1 Production] from every [Sheep]", "[+1] population [in capital] <upon conquering a city>", "[-1] population in a random city <upon conquering a city>", "Free [Dragon Knight] appears <upon constructing [Wonder]> <with [50]% chance>", "[-33]% Unhappiness from [Population] [in capital]", "Cannot build [Settler] units", "[+250]% Unhappiness from number of cities", "Resting point for Influence with City-States is increased by [30]", "[+15]% Production when constructing [All] wonders [in capital]", "City-State territory always counts as friendly territory", "Militaristic City-States grant units [4] times as fast when you are at war with a common nation"], 
 },
+{                
+  "name": "Braavos",
+
+                "leaderName": "Magnus Valaguahdo",
+
+                "adjective": ["Freeman"],
+
+                "personality": "Titan",
+
+                "startBias": ["Coast"],
+
+                "preferredVictoryType": "Diolomatic",
+
+                "style": "Mediterranean",
+
+  //"favoredReligion": "The Old Gods",
+
+                "declaringWar": "The man who passes the sentence should swing the sword. \nI, Eddard of the House Stark, Lord of Winterfell and Warden of the North, sentence you to die.",
+
+                "attacked": "Why is it always the innocents who suffer most, \nwhen you high lords play your game of thrones?.",
+
+                "defeated":  "I can't believe it turned out like this \nthis is truly the moment Ned Stark became dead Stark...",
+
+
+                "hateHello": "Do you have a shred of honor?",
+
+"introduction":  "Ned.",
+
+
+                "hateLetsHearIt": ["Speak!"],
+
+                "tradeRequest": "When the snows fall and the white winds blow, the lone wolf dies but the pack survives.",
+
+                "outerColor": [        226, 221, 224],
+
+                "innerColor": [        141, 137, 139],
+
+                "uniqueName": "Winter starts coming and it don't stop coming.",
+
+                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
+                  "[+1 Culture] from [Forest] tiles without [Lumber Mill] [in all cities]", 
+                  "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
+
+                "cities": ["Winterfell","White Harbor","Torrhen's Square","Karhold","Barrowtown","The Dreadfort","Moat Cailin","Deepwood Motte","Flint's Finger"]
+        },
+
 {
 		"name": "The Night's Watch",
 		"adjective": ["Wight's Natch"],
