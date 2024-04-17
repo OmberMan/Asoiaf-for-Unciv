@@ -114,6 +114,25 @@
                 "attackSound": "metalhit",
    },
 {
+"name": "Brave Companions",
+                "unitType": "Mounted",
+                "movement": 4,
+                "strength": 20,
+                "cost": 120,
+                "hurryCostModifier": -35,
+                "requiredTech": "Chivalry",
+                "upgradesTo": "Cavalry",
+                "uniqueTo": "The Westerlands",
+                "uniques": ["[+150]% to Flank Attack bonuses", "[+100]% maintenance costs", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"], 
+"promotions": ["Charge"],
+                "civilopediaText": [
+                        {
+                                "text": "Literal Redshirts on horses."
+                        }
+                ],
+                "attackSound": "metalhit",
+   },
+{
 "name": "Stormbringer",
   "unitType": "Mounted",
                 "movement": 4,
