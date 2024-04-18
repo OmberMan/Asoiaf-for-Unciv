@@ -199,37 +199,9 @@ TileSets/FantasyHex/Tiles/Riverside Mud Farm
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Bannerless Brotherhood Bowman
-  rotate: false
-  xy: 4, 32
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/Stark House Guard
   rotate: false
   xy: 4, 32
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Goldcloak Cavalry
-  rotate: false
-  xy: 1300, 40
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Goldcloak Pikeman
-  rotate: false
-  xy: 1615, 324
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Ironborn Reaver
-  rotate: false
-  xy: 1300, 212
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
