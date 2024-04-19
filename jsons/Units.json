@@ -1,5 +1,4 @@
 [
-//
           { 
                 "name": "Falcon Knight",
                 "unitType": "Mounted",
@@ -83,7 +82,7 @@
                 "movement": 2,
                 "strength": 17,
                 "cost": 111,
-                "hurryCostModifier": -35,
+                "hurryCostModifier": -20,
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
                 "uniqueTo": "The Westerlands",
@@ -101,7 +100,7 @@
                 "movement": 4,
                 "strength": 20,
                 "cost": 148,
-                "hurryCostModifier": -35,
+                "hurryCostModifier": -20,
                 "requiredTech": "Chivalry",
                 "upgradesTo": "Cavalry",
                 "uniqueTo": "The Westerlands",
@@ -118,14 +117,14 @@
 "name": "Brave Companions",
                 "unitType": "Mounted",
                 "movement": 4,
-                "strength": 20,
+                "strength": 16,
                 "cost": 120,
-                "hurryCostModifier": -35,
+                "hurryCostModifier": -50,
                 "requiredTech": "Chivalry",
                 "upgradesTo": "Cavalry",
                 "uniqueTo": "The Westerlands",
-                "uniques": ["[+150]% to Flank Attack bonuses", "[+100]% maintenance costs", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"], 
-"promotions": ["Charge"],
+                "uniques": ["This Unit gains [2] XP <upon ending a turn in a [Enemy land] tile>", "[-100]% maintenance costs", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Can move immediately once bought", "Ignores Zone of Control", "May enter foreign tiles without open borders", "Heal this unit by [+10] HP <upon ending a turn in a [{Farm} {Enemy land}] tile>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "Unbuildable", "[+33]% Strength <when attacking> <vs [Wounded] units>", "Can only heal by pillaging", "No movement cost to pillage "], 
+"promotions": ["Drill I", "Drill II", "Shock I", "Shock II"],
                 "civilopediaText": [
                         {
                                 "text": "Literal Redshirts on horses."
