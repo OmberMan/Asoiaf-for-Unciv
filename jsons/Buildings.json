@@ -13,9 +13,9 @@
 		"name": "Sellsword Camp",
 "uniqueTo": "The Westerlands",
 		"replaces": "Barracks",
-		"hurryCostModifier": 10,
+		"hurryCostModifier": 0,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[Gold] cost of purchasing [Military] units [-10]%", "Provides a Sellsword unit"],
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[Gold] cost of purchasing [Military] units [-15]%", "[+1 Gold] from [Fort] tiles [in this city]", "[2] free [Brave Companions] units appear"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -78,6 +78,8 @@
   "replaces": "Shrine",
 		"uniqueTo": "The Iron Islands",
 		"hurryCostModifier": 30,
+  "culture": 1,
+  "faith": 1,
  	"requiredTech": "Sailing",
   "food": -1,
 		"uniques": ["[+1 Faith] from [Coast] tiles [in this city]", "Can only be built <in [Coastal] cities>", "[+2 Faith] from [Ocean] tiles [in this city]", "All newly-trained [Sword] units [in this city] receive the [What is dead may never die] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [What is dead may never die] promotion"],
@@ -185,12 +187,11 @@
 		"requiredTech": "Mathematics",
   "science": 2,
 "requiredResource": "Maester's Chain",
-	 "percentStatBonus": {"Science": -5},
-		"uniques": ["[+33]% Food is carried over after population increases [in this city]",
-			"Science gained from research agreements [+33]%",
-		        "[+33]% Production when constructing [Science] buildings [in this city]"
+	 //"percentStatBonus": {"Science": -5},
+		"uniques": ["[+25]% Food is carried over after population increases [in this city]",
+			"Science gained from research agreements [+25]%",
+		        "[+25]% Production when constructing [Science] buildings [in this city]"
 		]
-		
 	},
 	
 ]
