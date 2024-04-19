@@ -1,4 +1,5 @@
 [
+//
           { 
                 "name": "Falcon Knight",
                 "unitType": "Mounted",
@@ -11,7 +12,7 @@
                 "upgradesTo": "Cavalry",
   "requiredResource": "Horses",
                 "uniqueTo": "The Vale",
-                "uniques": ["Can move after attacking", "[+25]% Strength decreasing with distance from the capital", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"], 
+                "uniques": ["Can move after attacking", "[+20]% Strength <when fighting in [Friendly land] tiles>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "No defensive terrain bonus", "[+20]% Strength <when above [99] HP>" "[-33]% Strength <vs cities> <when attacking>"], 
                 "promotions": ["Death from Above"],
                 "civilopediaText": [
 {
@@ -68,7 +69,7 @@
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
                 "uniqueTo": "The Riverlands",
-                "uniques": ["Can move after attacking", "[+25]% Strength <when above [99] HP>", "[+1] Sight", "No movement cost to pillage", "[-100]% maintenance costs", "[+25]% Strength when stacked with [Great Person]", "May withdraw before melee ([50]%)", "May capture killed [mapUnitFilter] units <with [15]% chance>", "Invisible to non-adjacent units <in [Forest] tiles>", "[+1] Movement <in [Forest] tiles>", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities> <when attacking>"], 
+                "uniques": ["Can move after attacking", "[+1] Sight", "No movement cost to pillage", "[-100]% maintenance costs", "[+33]% Strength when stacked with [Great Person]", "May withdraw before melee ([50]%)", "May capture killed [Land] units <with [15]% chance>", "Invisible to non-adjacent units <in [Forest] tiles>", "[+1] Movement <in [Forest] tiles>", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities> <when attacking>"], 
                 "civilopediaText": [
                         {
                                 "text": "Bannerless Bois on suicide watch after learning a battle is called a fray."
@@ -86,7 +87,7 @@
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
                 "uniqueTo": "The Westerlands",
-                "uniques": ["[+20]% Strength <when defending>", "[+15]% Strength <when adjacent to a [Goldcloak Pikeman] unit>", "[+50]% to Flank Attack bonuses", "[+100]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
+                "uniques": ["[+15]% Strength <when defending>", "[+15]% Strength <when adjacent to a [Goldcloak Pikeman] unit>", "[+50]% to Flank Attack bonuses", "[+100]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
                 "civilopediaText": [
                         {
                                 "text": "Literal Redshirts."
