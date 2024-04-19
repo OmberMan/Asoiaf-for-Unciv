@@ -34,7 +34,7 @@
                 "replaces": "Knight",
                 "movement": 3,
                 "strength": 22,
-                "cost": 145,
+                "cost": 140,
                 "hurryCostModifier": 35,
                 "requiredTech": "Chivalry",
                 "upgradesTo": "Cavalry",
@@ -63,8 +63,8 @@
                 "replaces": "Crossbowman",
                 "movement": 2,
                 "strength": 13,
-  "rangedStrength": 15,
-                "cost": 75,
+  "rangedStrength": 16,
+                "cost": 100,
                 "hurryCostModifier": 150,
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
@@ -87,7 +87,7 @@
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
                 "uniqueTo": "The Westerlands",
-                "uniques": ["[+15]% Strength <when defending>", "[+15]% Strength <when adjacent to a [Goldcloak Pikeman] unit>", "[+50]% to Flank Attack bonuses", "[+100]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
+                "uniques": ["[+15]% Strength <when defending>", "[+15]% Strength <when adjacent to a [Goldcloak Pikeman] unit>", "[+50]% to Flank Attack bonuses", "[+50]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
                 "civilopediaText": [
                         {
                                 "text": "Literal Redshirts."
@@ -105,7 +105,7 @@
                 "requiredTech": "Chivalry",
                 "upgradesTo": "Cavalry",
                 "uniqueTo": "The Westerlands",
-                "uniques": ["[+150]% to Flank Attack bonuses", "[+100]% maintenance costs", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"], 
+                "uniques": ["[+150]% to Flank Attack bonuses", "[+50]% maintenance costs", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"], 
 "promotions": ["Charge"],
                 "civilopediaText": [
                         {
