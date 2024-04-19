@@ -18,14 +18,15 @@
 
                 "declaringWar": "The man who passes the sentence should swing the sword. \nI, Eddard of the House Stark, Lord of Winterfell and Warden of the North, sentence you to die.",
 
-                "attacked": "Why is it always the innocents who suffer most, \nwhen you high lords play your game of thrones?.",
+                "attacked": "Why is it always the innocents who suffer most, \nwhen you high lords play your Game of Thrones?",
 
-                "defeated":  "I can't believe it turned out like this \nthis is truly the moment Ned Stark became dead Stark...",
+                "defeated":  "I cannot believe it all turned out like this... \nI swear to you, this has never happened to me before... \nthis is truly the moment Ned Stark became dead Stark...",
 
-
+"hateHello": "You've called for me, Lord grmbmblgrm?",
+	
                 "hateHello": "Do you have a shred of honor?",
 
-"introduction":  "Ned.",
+"introduction":  "Ned's dead, son.",
 
 
                 "hateLetsHearIt": ["Speak!"],
@@ -93,11 +94,11 @@
 
                 "leaderName": "Tywin Lannister",
 
-                "adjective": ["I'm beginning to think these guys found gold somewhere"],
+                "adjective": ["I'm beginning to think these folk might've found gold somewhere..."],
 
                 "personality": "Lannister",
 
-                "startBias": ["Hill", "Gold Ore"],
+                "startBias": ["Gold Ore"],
 
                 "preferredVictoryType": "Diplomatic",
 
@@ -134,7 +135,7 @@
 {                
                 "name": "The Vale",
 
-                "leaderName": "Jon Arryn",
+                "leaderName": "'Sweetrobin' Arryn",
 
                 "adjective": ["The most mountainous"],
 
@@ -147,27 +148,27 @@
 
  // "favoredReligion": "The Seven",
 
-                "declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
+                "declaringWar": "Chaos is a ladder",
 
                 "attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
 
-                "defeated":  "Ohh, Gods forgive me. All is lost...",
+                "defeated":  "Huh... \n   ...? \n\n ...What? \n\n\n\n\n             What?",
 
                 "introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
 
-                "neutralHello": "The Samnite federation greets you, foreign emissary.",
+                "neutralHello": "Why did you come here? \n    How could you come to the Vale!? \nHaven't you seen my letters?! \n    Have you no decency? \n Who are these people? \n     Why would you bring them here into my home?! \n   Do you realize what you've done? \n  Haven't you seen it yourself? \n The Eyrie is impregnable! \n No one can harm us up here! \nNo one! \n    What do you want!?",
 
-                "hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
+                "hateHello": "I want to see them fly! \n                        Fly out the Moon Door! \nCan we make \nthem fly mama?",
 
-                "tradeRequest": "Is this to your liking?",
+                "tradeRequest": "The sneeed is strong.",
 
-                "outerColor": [78, 222, 242],
+                "outerColor": [72, 222, 242],
 
                 "innerColor": [229, 251, 255],
 
                 "uniqueName": "Flock of Seagulls.",
 
-                "uniques": ["[+1 Food, +1 Culture] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
+                "uniques": ["[+1 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+50]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
 
  "uniqueText": "+25 Strength for cities, doubled next to mountains, and +2 [Food], +1 [Culture], +1 [Production] and +1 [Faith] from mountains. \nNo maintenance costs for improvements in [Hill]s.",
 
