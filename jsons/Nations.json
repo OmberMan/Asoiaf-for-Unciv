@@ -150,7 +150,7 @@
 
                 "declaringWar": "Chaos is a ladder",
 
-                "attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
+                "attacked": "The Vale is unsinkable! \n    You can't! \n  Are you mad?! \n\n\n Are you crazy?",
 
                 "defeated":  "Huh... \n   ...? \n\n ...What? \n\n\n\n\n             What?",
 
@@ -160,7 +160,7 @@
 
                 "hateHello": "I want to see them fly! \n                        Fly out the Moon Door! \nCan we make \nthem fly mama?",
 
-                "tradeRequest": "The sneeed is strong.",
+                "tradeRequest": "The seeed is strong.",
 
                 "outerColor": [72, 222, 242],
 
@@ -168,9 +168,9 @@
 
                 "uniqueName": "Flock of Seagulls.",
 
-                "uniques": ["[+1 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+50]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+1 Faith] from all [Culture] buildings <when not at war>"],
+                "uniques": ["[+1 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+50]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+10]% [Faith] [in capital] <when not at war>", "[+1 Food] from every [{Farm} {Hill}] <when not at war>"],
 
- "uniqueText": "+25 Strength for cities, doubled next to mountains, and +2 [Food], +1 [Culture], +1 [Production] and +1 [Faith] from mountains. \nNo maintenance costs for improvements in [Hill]s.",
+/* "uniqueText": "+25 Strength for cities, doubled next to mountains, and +2 [Food], +1 [Culture], +1 [Production] and +1 [Faith] from mountains. \nNo maintenance costs for improvements in [Hill]s.", */
 
                 "cities": ["Eiyre","Gulletown","Heart's Home","Snakewoods","Bloody Gate","Sweet Sister","Coldwater","Redfort","Longbow Hall"]
         },
@@ -183,7 +183,7 @@
 
                 "personality": "Baratheon",
 
-                "startBias": ["Hill", "Coast", "Avoid [Desert]"],
+                "startBias": ["Forest"],
 
                 "preferredVictoryType": "Domination",
 
@@ -191,17 +191,17 @@
 //  "favoredReligion": "The Seven",
 "style": "Slavic",
 
-                "declaringWar": "SURROUNDED BY LANNISTERS! EVERY TIME I CLOSE MY EYES I SEE THEIR BLONDE HAIR AND THEIR SMUG, SATISFIED FACES! \nOUT! OUT, DAMN YOU! \nI'M DONE WITH YOU! GO, RUN BACK TO WINTERFELL! I'LL HAVE YOUR HEAD ON A SPIKE!",
+                "declaringWar": "SURROUNDED BY LANNISTERS! EVERY TIME I CLOSE MY EYES I SEE THEIR BLONDE HAIR AND THEIR SMUG, SATISFIED FACES! \nOUT! OUT, DAMN YOU! \nI'M DONE WITH YOU! \nGO, RUN BACK TO WINTERFELL! I'LL HAVE YOUR HEAD ON A SPIKE!",
 
-                "attacked": "BACKSTABBING DOESN'T PREPARE YOU FOR A FIGHT! \n\nWINE! WINE! MOOOOOOOOAR WINE!",
+                "attacked": "BACKSTABBING DOESN'T PREPARE YOU FOR A FIGHT! \n\nWINE! \n\n\n\n  WINE! \n\n\n          MOOOOOOOOAR WINE!",
 
                 "defeated": "GIVE ME SOMETHING FOR THE PAIN AND LET ME DIE!",
 
                 "introduction": "IN MY DREAMS, I KILL HIM EVERY NIGHT. A THOUSAND DEATHS WILL STILL BE LESS THAN HE DESERVES! \nI WAS NEVER SO ALIVE AS WHEN I WAS WINNING THIS THRONE, OR SO DEAD AS NOW THAT I'VE WON IT! \nI THOUGHT BEING KING MEANT I COULD DO WHATEVER I WANTED! \nALL I WANTED TO DO WAS CRACK SKULLS AND FUCK GIRLS!",
 
-                "neutralHello": "THEY NEVER TELL YOU HOW THEY ALL SHIT THEMSELVES! THEY DON'T PUT THAT PART IN THE SONGS!",
+                "neutralHello": "THEY NEVER TELL YOU HOW THEY ALL SHIT THEMSELVES! \nTHEY DON'T PUT THAT PART IN THE SONGS!",
 
-                "hateHello": "YOUR MOTHER WAS A DUMB WHORE WITH A FAT ASS, YOU KNOW THAT?",
+                "hateHello": "YOUR MOTHER WAS A DUMB WHORE WITH A FAT ASS \nYOU KNOW THAT?",
 
                 "tradeRequest": "GODS I WAS STRONG THEN...",
 
@@ -241,13 +241,13 @@
 
   //"favoredReligion": "The Seven",
 
-         "hateHello": "I wonder if you’re the worst person I’ve ever met? At a certain age, It’s hard to recall. But the truly vile do stand out through the years.",
+         "hateHello": "I wonder if you’re the worst person I’ve ever met? \nAt a certain age, It’s hard to recall. \n\nBut the truly vile do stand out through the years.",
 
-                "attacked": "I've known a great number of clever men. I've outlived them all. You know how? I ignored them.",
+                "attacked": "I've known a great number of clever men. \nI've outlived them all. You know how? \nI ignored them.",
 
                 "defeated":  "Are you going to bring some food or do you mean to starve me to death?", 
 
-                "neutralHello": "What is your name again? Barbaro? You look like an angry little boy. Do shut up, dear.",
+                "neutralHello": "What is your name again? You look like an angry little boy. \nDo shut up, dear.",
 	  
                 "introduction":  "I was told you were drunk, impertinent, and thoroughly debauched. You can imagine my disappointment at finding nothing but a browbeaten bookeeper.",
 
@@ -378,7 +378,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "personality": "Greyjoy",
 
-                "startBias": ["Coast", "Avoid [Desert]"],
+                "startBias": ["Ocean"],
 
                 "preferredVictoryType": "Domination",
 
@@ -390,7 +390,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "tradeRequest": "Kneel. I am your king. I am your god. Worship me, and I will raise you up to be my priest.",
 
-                "defeated":  "We... Lost? Shit. I was sure we'd be getting outta this one.",
+                "defeated":  "Yarr Harr fiddly dee, I love- \n        What? \n\n\n   We... Lost? \n  Shit, uh... \n\n\nPerhaps we can fly. \n All of us. \n  How will we ever know unless we leap from some tall tower? \n   No man ever truly knows what he can do unless he dares to leap. \n Y'know, fuck, I was sure we'd be getting outta this one.",
 
                 "introduction":  "We are the ironborn, and once we were conquerors. Our writ ran everywhere the sound of the waves was heard.",
 
@@ -398,7 +398,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "hateHello": "I am the strom. The first storm, and the last.",
 
-                "attacked": "Perhaps we can fly. All of us. How will we ever know unless we leap from some tall tower? No man ever truly knows what he can do unless he dares to leap",
+                "attacked": "Huh? \n  Well fuck. \n\nThis is embarrassing. \n Seriously I swear this never happens to me, \n     just... \n\n\n\n          Give me a minute...",
 
                 "outerColor": [134, 142, 149],
 
@@ -430,21 +430,21 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "declaringWar": "You have threathened the balance of this world, we shall remove you!",
 		"attacked": "What a drag...",
 		"defeated": "AaAahhahahhrhd NOO NO NO NO PLEAE!",
-		"introduction": "uWu, rar :3",
+		"introduction": "Rar XD :3",
 		
 		"neutralHello": "I AM THE GOD OF HELLFIRE",
 		"hateHello": "IMAGINE DRAG ON THIS DICK ACROSS YOUR MOUTH.",
 		"tradeRequest": "Dragon these nuts across your mouth",
 		
 
-                "outerColor": [        18, 11, 15],
+                "outerColor": [        28, 21, 25],
 
                 "innerColor": [        174, 57, 53],
 
                 "cities": ["King's Landing", "Dragonstone"],
       
 "uniqueName": "Imagine Dragon these Nuts",
-		"uniques": ["[+10]% Strength <within [1] tiles of a [Mountain]>", "[+1 Production] from every [Sheep]", "[+1] population [in capital] <upon conquering a city>", "[-1] population in a random city <upon conquering a city>", "Free [Dragon Knight] appears <upon constructing [Wonder]> <with [50]% chance>", "[-33]% Unhappiness from [Population] [in capital]", "Cannot build [Settler] units", "[+250]% Unhappiness from number of cities", "Resting point for Influence with City-States is increased by [30]", "[+15]% Production when constructing [All] wonders [in capital]", "City-State territory always counts as friendly territory", "Militaristic City-States grant units [4] times as fast when you are at war with a common nation"], 
+		"uniques": ["[+1] population [in capital] <upon conquering a city>", "[-1] population in a random city <upon conquering a city>", "Free [Dragon Knight] appears <upon constructing [Wonder]> <with [50]% chance>", "[-33]% Unhappiness from [Population] [in capital]", "Cannot build [Settler] units", "[+250]% Unhappiness from number of cities", "Resting point for Influence with City-States is increased by [30]", "[+15]% Production when constructing [All] wonders [in capital]", "City-State territory always counts as friendly territory", "Militaristic City-States grant units [4] times as fast when you are at war with a common nation"], 
 },
 {                
   "name": "Braavos",
