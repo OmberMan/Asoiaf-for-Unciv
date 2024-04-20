@@ -89,14 +89,15 @@
 "replaces": "Garden",
 		"uniqueTo": "The Vale",
   "culture": 1,
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Mountain]", "[+1 Food] from [Hill] tiles [in this city]", "[+1 Food, +1 Faith] from [Mountain] tiles [in this city]", "[+10]% Food is carried over after population increases [in this city]"],
+	"food": 1,
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be on [Hills]", "[+1 Food] from [Hills] tiles [in this city]", "[+1 Food, +1 Faith] from [Mountain] tiles [in this city]", "[+10]% Food is carried over after population increases [in this city]"],
 		"hurryCostModifier": 45,
 		"maintenance": 2,
 		"requiredTech": "Engineering"
 	},
 {
 		"name": "Moon Door",
-		"cityStrength": 14,
+		"cityStrength": 15,
 		"cityHealth": 100,
   "replaces": "Castle",
 		"uniqueTo": "The Vale",
@@ -105,7 +106,7 @@
   "faith": 1
 		"requiredBuilding": "Walls",
 		"requiredTech": "Engineering",
-		"uniques": ["Must be on [Hills]", "[-50]% production cost <within [1] tiles of a [Mountain]>", "[+1 Gold] from [Mountain] tiles [in this city] <when not at war>", "[-15]% Unhappiness from [Population] [in this city] <when not at war>"]
+		"uniques": ["Must be next to [Mountain]", "[+1 Gold] from [Mountain] tiles [in this city] <when not at war>", "[-10]% Unhappiness from [Population] [in this city] <when not at war>"]
 	},
 {
 		"name": "Water Garden",
@@ -116,7 +117,7 @@
 "requiredTech": "Construction",
   "happiness": 1,
   "maintenance": 2,
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [River]", "[+1 Culture] from [Oasis] tiles [in this city]", "[+1 Food, +1 Culture] from [Flood Plains] tiles [in this city]", "[+1 Food] from [Desert] tiles [in this city]"],
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [River]", "[+1 Culture] from [Oasis] tiles [in this city]", "[+1 Food] from [{Desert} {Farm}] tiles [in this city]"],
 		"hurryCostModifier": 35,
    "percentStatBonus": {"Food": 10},
 	}, 
@@ -129,7 +130,7 @@
 		"maintenance": 1,
   "culture": 1,
   "food": 1,
-  "percentStatBonus": {"Culture": 15, "Gold": 10},
+  "percentStatBonus": {"Culture": 10, "Gold": 5},
 		"hurryCostModifier": 55,
 		"uniques": ["[+1 Gold, +1 Culture] from [Trading Post] tiles [in this city] <in [River] tiles>", "[+1 Culture] from all [Greenblood Orphanage] buildings", "[+1 Gold, +1 Culture] from each Trade Route", "[+1] population [in this city], <upon entering a new era>", "[+10]% Production when constructing [Naval] units [in this city]", "Can only be built <within [1] tiles of a [Water]>"],
 	},
@@ -185,9 +186,9 @@
   "specialistSlots": {"Maester": 1},
   "cost": 75,
 		"requiredTech": "Mathematics",
-  "science": 2,
+  "science": 4,
 "requiredResource": "Maester's Chain",
-	 //"percentStatBonus": {"Science": -5},
+	 "percentStatBonus": {"Science": -4},
 		"uniques": ["[+25]% Food is carried over after population increases [in this city]",
 			"Science gained from research agreements [+25]%",
 		        "[+25]% Production when constructing [Science] buildings [in this city]"
