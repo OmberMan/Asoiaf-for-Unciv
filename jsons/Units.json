@@ -11,7 +11,7 @@
                 "upgradesTo": "Cavalry",
   "requiredResource": "Horses",
                 "uniqueTo": "The Vale",
-                "uniques": ["Can move after attacking", "[+20]% Strength <when fighting in [Friendly land] tiles>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "No defensive terrain bonus", "[+20]% Strength <when above [99] HP>" "[-33]% Strength <vs cities> <when attacking>"], 
+                "uniques": ["Can move after attacking", "[+20]% Strength <when fighting in [Friendly land] tiles>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "No defensive terrain bonus", "[+20]% Strength <when above [99] HP>", "[-33]% Strength <vs cities> <when attacking>"], 
                 "promotions": ["Death from Above"],
                 "civilopediaText": [
 {
