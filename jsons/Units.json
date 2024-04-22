@@ -289,18 +289,12 @@
 "name": "Bearded Bishop",
                 "unitType": "Sword",
                 "movement": 2,
-                "strength": 17,
-                "cost": 111,
-                "hurryCostModifier": -20,
-                "requiredTech": "Machinery",
-                "upgradesTo": "Gatling Gun",
-                "uniqueTo": "The Westerlands",
-                "uniques": ["[+15]% Strength <when defending>", "[+15]% Strength <when adjacent to a [Goldcloak Pikeman] unit>", "[+50]% to Flank Attack bonuses", "[+50]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
-                "civilopediaText": [
-                        {
-                                "text": "Literal Redshirts."
-                        }
-                ],
+                "strength": 12,
+                "cost": 75,
+                "hurryCostModifier": 0,
+                "requiredTech": "Construction",
+                "uniqueTo": "Norvos",
+                "uniques": ["[+25]% Strength <vs [Sword] units>", "[+10]% Strength bonus for [Land] units within [2] tiles", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles"], 
                 "attackSound": "metalhit",
    },
 {
