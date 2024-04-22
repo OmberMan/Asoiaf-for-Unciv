@@ -453,57 +453,71 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "adjective": ["Freeman"],
 
-                "personality": "Titan",
-
+"cityStateType": "Titanic",
                 "startBias": ["Coast"],
-
-                "preferredVictoryType": "Diolomatic",
 
                 "style": "Mediterranean",
 
-  //"favoredReligion": "The Old Gods",
-
-                "declaringWar": "The man who passes the sentence should swing the sword. \nI, Eddard of the House Stark, Lord of Winterfell and Warden of the North, sentence you to die.",
-
-                "attacked": "Why is it always the innocents who suffer most, \nwhen you high lords play your game of thrones?.",
-
-                "defeated":  "I can't believe it turned out like this \nthis is truly the moment Ned Stark became dead Stark...",
-
-
-                "hateHello": "Do you have a shred of honor?",
-
-"introduction":  "Ned.",
-
-
-                "hateLetsHearIt": ["Speak!"],
-
-                "tradeRequest": "When the snows fall and the white winds blow, the lone wolf dies but the pack survives.",
-
-                "outerColor": [        226, 221, 224],
-
-                "innerColor": [        141, 137, 139],
-
-                "uniqueName": "Winter starts coming and it don't stop coming.",
-
-                "uniques": ["[+1 Food] from [Tundra] tiles [in all cities]", 
-                  "[+1 Culture] from [Forest] tiles without [Lumber Mill] [in all cities]", 
-                  "[+15]% Strength <when fighting in [Friendly land] tiles>", "[+15]% Strength <when fighting in [Tundra] tiles>"],
-
-                "cities": ["Winterfell","White Harbor","Torrhen's Square","Karhold","Barrowtown","The Dreadfort","Moat Cailin","Deepwood Motte","Flint's Finger"]
+                "declaringWar": "No, you're not defaulting on your loans.",
+                "attacked": "This decision has killed you, and your empire. You just can't see it yet.",
+                "defeated": "It is fine. I die a free man, fortunate for me. As will you, in a couple days, weeks, soon enough. But freedom will never die.",
+                "outerColor": [0, 0, 0],
+  "innerColor": [205, 190, 200],
+  "uniques": ["[+3 Gold] from every [Specialist]", "Free [Water Dancer] appears <every [6] turns>"],
+	"cities": ["Braavos", "Braavdos"]
         },
+{                
+  "name": "Norvos",
 
+                "leaderName": "The Magic Monk",
+
+                "adjective": ["Norvoshi"],
+
+"cityStateType": "Bewhiskered",
+                "startBias": ["Hills"],
+
+                "style": "Germanic",
+
+                "declaringWar": "Wait. \n\nYour hair... \n\nTHERE IS NONE!?!  \n\n\n You dandy FUCK! \n\nYou just made the biggest mistake of your life.",
+                "attacked": "Sound the bells of war!",
+                "defeated": "I actually hate this. Always have. I don't even know what are god's called.",
+                "outerColor": [0, 0, 0],
+  "innerColor": [195, 70, 140],
+  "uniques": ["[+1 Happiness] from every [Faith]", "Free [Bearded Bishop] appears <every [5] turns>"],
+	"cities": ["Norvos", "Tellum"]
+        },
+{                
+  "name": "Lys",
+
+                "leaderName": "Kim Sex Machine",
+
+                "adjective": ["Lysene"],
+
+"cityStateType": "Salacious",
+                "startBias": ["Coast"],
+
+                "style": "Mediterranean",
+
+                "declaringWar": "We have a gift for you! Stand still so you can get it between the eyes.",
+                "attacked": "I \n\nwe \n  have prostitutes, \n\n\n\n\n       I \n love you  \n\n uh",
+                "defeated": "uwu",
+                "outerColor": [0, 0, 0],
+  "innerColor": [240, 110, 245],
+  "uniques": ["[+1 Culture] from every [Happiness]", "Free [Sellsword] appears <every [5] turns>"],
+	"cities": ["Lys", "The cum shaft"]
+        },
 {
-		"name": "The Night's Watch",
-		"adjective": ["Wight's Natch"],
-		"cityStateType": "Obstructive",
+                "name": "The Night's Watch",
+                "adjective": ["Wight's Natch"],
+                "cityStateType": "Obstructive",
   "style": "Slavic",
   "leaderName": "Mark Henry",
-		"declaringWar": "We warned you. We made this colony and we can unmake it too.",
-		"attacked": "HOLD THE WALL MEN!",
-		"defeated": "I fought. I lost. And now my watch has ended. \nIf could go back in time, I pray I would've done it all the same.",
-		"outerColor": [0, 0, 0],
+                "declaringWar": "We warned you. We made this colony and we can unmake it too.",
+                "attacked": "HOLD THE WALL MEN!",
+                "defeated": "I fought. I lost. And now my watch has ended. \nIf could go back in time, I pray I would've done it all the same.",
+                "outerColor": [0, 0, 0],
   "innerColor": [200, 190, 200],
   "uniques": ["[+3 Production] from all [Walls] buildings", "[+1 Production] from [Fort] tiles [in all cities]", "New [Scout] units start with [30] Experience [in all cities]", "[+300]% Strength for cities"],
-		"cities": ["The Wall", "Brandon's Gift"]
-	},
+                "cities": ["The Wall", "Brandon's Gift"]
+        },
 ]
