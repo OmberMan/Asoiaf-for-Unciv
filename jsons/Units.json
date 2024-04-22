@@ -270,5 +270,73 @@
                 "civilopediaText": [
                         {"text": "A hybrid Dragon of Eagle and Lion, tamed and trained to be a valuable assets on the battlefield."},
         ]
-        }
+        },
+{
+"name": "Water Dancer",
+                "unitType": "Sword",
+                "movement": 2,
+                "strength": 8,
+                "cost": 75,
+                "hurryCostModifier": 0,
+                "requiredTech": "Drama and Poetry",
+                "replaces": "Swordsman",
+                "uniqueTo": "Braavos",
+                "uniques": ["[+100]% Strength <when attacking>", "[+200]% Strength <when defending> <vs [Sword] units>", "[+50]% to Flank Attack bonuses", "Can move after attacking", "Ignores Zone of Control", "[+1] additional attacks per turn", "Earn [50]% of killed [Enemy] unit's [Strength] as [Culture]"], 
+                
+                "attackSound": "metalhit",
+   },
+{
+"name": "Bearded Bishop",
+                "unitType": "Sword",
+                "movement": 2,
+                "strength": 17,
+                "cost": 111,
+                "hurryCostModifier": -20,
+                "requiredTech": "Machinery",
+                "upgradesTo": "Gatling Gun",
+                "uniqueTo": "The Westerlands",
+                "uniques": ["[+15]% Strength <when defending>", "[+15]% Strength <when adjacent to a [Goldcloak Pikeman] unit>", "[+50]% to Flank Attack bonuses", "[+50]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
+                "civilopediaText": [
+                        {
+                                "text": "Literal Redshirts."
+                        }
+                ],
+                "attackSound": "metalhit",
+   },
+{
+"name": "Goldcloak Pikeman",
+                "unitType": "Sword",
+                "movement": 2,
+                "strength": 17,
+                "cost": 111,
+                "hurryCostModifier": -20,
+                "requiredTech": "Machinery",
+                "upgradesTo": "Gatling Gun",
+                "uniqueTo": "The Westerlands",
+                "uniques": ["[+15]% Strength <when defending>", "[+15]% Strength <when adjacent to a [Goldcloak Pikeman] unit>", "[+50]% to Flank Attack bonuses", "[+50]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
+                "civilopediaText": [
+                        {
+                                "text": "Literal Redshirts."
+                        }
+                ],
+                "attackSound": "metalhit",
+   },
+{
+"name": "Goldcloak Pikeman",
+                "unitType": "Sword",
+                "movement": 2,
+                "strength": 17,
+                "cost": 111,
+                "hurryCostModifier": -20,
+                "requiredTech": "Machinery",
+                "upgradesTo": "Gatling Gun",
+                "uniqueTo": "The Westerlands",
+                "uniques": ["[+15]% Strength <when defending>", "[+15]% Strength <when adjacent to a [Goldcloak Pikeman] unit>", "[+50]% to Flank Attack bonuses", "[+50]% maintenance costs", "[+50]% Strength <vs [Mounted] units>"], 
+                "civilopediaText": [
+                        {
+                                "text": "Literal Redshirts."
+                        }
+                ],
+                "attackSound": "metalhit",
+   },
 ]
