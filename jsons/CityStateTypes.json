@@ -9,11 +9,25 @@
   {  
           "name": "Bewhiskered",  
           "friendBonusUniques": [   
-              "[+25]% XP gained from combat <for [Mounted] units>", "[+1] Movement <for [Armor] units>", "[+50]% XP gained from combat <for [Armor] units>", "[+1 Happiness] from [{Trading Post} {Road}] tiles [in all cities]", "[+1 Production] from [{Road} {Desert}] tiles [in all cities]"],  
-          "allyBonusUniques": ["[+2] free [Rough Rider] units appear <upon entering a Golden Age>", "[+50]% XP gained from combat <for [Mounted] units>", "[+1] Sight <for [Mounted] units>", "[+1] Movement <for [Armor] units>", "[+1] Sight <for [Armor] units>", "[+100]% XP gained from combat <for [Armor] units>", "Damage is ignored when determining unit Strength <for [Armor] units>", "[+1 Culture] from [Road] tiles [in all cities] <when at war>", "[+2 Happiness] from [{Road} {Trading Post}] tiles [in all cities]", "[+1 Production] from [{Road} {Desert}] tiles [in all cities]"],  
-                "outerColor": [0, 0, 0],
-"innerColor": [],
-        },
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]",
+			"[+1 Happiness] from all [Faith] buildings <before the [Medieval era]>",
+"[+2 Happiness] from all [Faith] buildings <starting from the [Medieval era]>"
+        ],
+        "allyBonusUniques":  [
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
+			"[+2 Faith] from [Trading post] tiles [in all cities]",
+"[+2 Happiness] from all [Faith] buildings <before the [Medieval era]>",
+"[+3 Happiness] from all [Faith] buildings <starting from the [Medieval era]>"
+            "Provides [1] [Caravan Camp res]", "[Cannon] units gain the [Desert Bombard] promotion", 
+            "Unique Building [Caravan Camp]", "Unique Unit [Desert Bombard]"
+        ],
+        "color": [255, 255, 255]
+    },
+                
     {
         "name": "Titanic",
         "friendBonusUniques": [
@@ -22,6 +36,8 @@
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
+"Free [Water Dancer] appears",
+ "Unique Building [Essosi Sellsword Camp]"
         ],
         "allyBonusUniques": [
             "[+2 Gold] per [1] social policies adopted <before the [Medieval era]>",
@@ -31,8 +47,8 @@
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
             "Provides a unique luxury",
-            "Unique Building [Essosi Sellsword Camp]", "Free [Water Dancer] appears", "[Gold] cost of purchasing [Water Dancer] units [-33]%", "Unique Building [Iron Bank Delegation]",
-            "Unique Unit [Bearded Bishop]",
+            "Unique Building [Essosi Sellsword Camp]", "Free [Water Dancer] appears", "[Gold] cost of purchasing [Water Dancer] units [-33]%", "Unique Building [Iron Bank Delegation]", "Provides [1] [Caravan Camp res]",
+            "Unique Unit [Water Dancer]",
         ],
         "color": [255, 216, 0]
     },
