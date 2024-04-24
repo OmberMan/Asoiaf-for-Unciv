@@ -64,6 +64,7 @@
                 "strength": 13,
   "rangedStrength": 16,
                 "cost": 100,
+                "uniqueTo": "The Riverlands",
                 "hurryCostModifier": 150,
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
