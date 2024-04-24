@@ -124,8 +124,8 @@
                 "requiredTech": "Chivalry",
                 "upgradesTo": "Cavalry",
                 "uniqueTo": "The Westerlands",
-                "uniques": ["This Unit gains [2] XP <upon ending a turn in a [Enemy land] tile>", "[-100]% maintenance costs", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Can move immediately once bought", "Ignores Zone of Control", "May enter foreign tiles without open borders", "Heal this unit by [+10] HP <upon ending a turn in a [{Farm} {Enemy land}] tile>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "Unbuildable", "[+33]% Strength <when attacking> <vs [Wounded] units>", "Can only heal by pillaging", "No movement cost to pillage "], 
-"promotions": ["Drill I", "Drill II", "Shock I", "Shock II"],
+                "uniques": ["This Unit gains [2] XP <upon ending a turn in a [Enemy land] tile>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Can move immediately once bought", "Ignores Zone of Control", "May enter foreign tiles without open borders", "Heal this unit by [+20] HP <upon ending a turn in a [{Farm} {Enemy land}] tile>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "Unbuildable", "[+33]% Strength <when attacking> <vs [Wounded] units>", "Can only heal by pillaging", "No movement cost to pillage "], 
+"promotions": ["Drill I", "Shock I"],
                 "civilopediaText": [
                         {
                                 "text": "Literal Redshirts on horses."
@@ -153,7 +153,7 @@
 "name": "Dismounted Stormbringer",
   "unitType": "Sword",
                 "movement": 2,
-                "strength": 21,
+                "strength": 22,
                 "cost": 130,
                 "hurryCostModifier": 25,
                 "requiredTech": "Chivalry",
@@ -309,6 +309,30 @@
                 "uniqueTo": "Braavos",
                 "uniques": ["[+500]% Strength <when attacking> <vs [{Land} {Military}] units>", "Ignores Zone of Control", "Earn [-500]% of killed [Land] unit's [Strength] as [Gold]", "May enter foreign tiles without open borders", "Can only attack [Military] units", "May withdraw before melee ([67]%)", "Invisible to non-adjacent units", "Unable to capture cities", "Unable to pillage tiles", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [House of Black and White]>"], 
                 "attackSound": "throw",
+   },
+{
+"name": "Unsullied",
+                "unitType": "Sword",
+                "movement": 2,
+                "strength": 18,
+                "cost": 90,
+                "hurryCostModifier": 50,
+                "requiredTech": "Bronze Working",
+                "uniques": ["Heal this unit by [15] HP <upon losing at least [25] HP in a single attack>", "[+10]% Strength <when adjacent to a [Unsullied] unit>", "[+20]% Strength <vs [Ranged] units> <when attacking>", "[+20]% Strength <vs [Melee] units> <when defending>", "Can move immediately once bought", "[-100]% maintenance costs", "[-10] HP when healing", "[-50]% XP gained from combat", "Damage is ignored when determining unit Strength", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
+                "attackSound": "metalhit",
+"promotions": ["Drill I", "Drill II", "Shock I", "Shock II"]
+   },
+{
+"name": "Lockstep Legion",
+                "unitType": "Sword",
+                "movement": 2,
+                "strength": 17,
+                "cost": 90,
+                "hurryCostModifier": 25,
+                "requiredTech": "Engineering",
+                "uniques": ["[+15]% Strength <when adjacent to a [Lockstep Legion] unit>", "[+15]% Strength <when defending> <when fighting in [Open terrain] tiles>", "[+20]% Strength <when defending> <when adjacent to a [Lockstep Legion] unit>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
+"promotions": ["March"],
+                "attackSound": "metalhit",
    },
 {
 "name": "Dothraki Screamer",
