@@ -277,11 +277,11 @@
                 "movement": 2,
                 "strength": 8,
                 "cost": 75,
-                "hurryCostModifier": 0,
+                "hurryCostModifier": 20,
                 "requiredTech": "Drama and Poetry",
                 "replaces": "Swordsman",
                 "uniqueTo": "Braavos",
-                "uniques": ["[+100]% Strength <when attacking>", "[+200]% Strength <when defending> <vs [Sword] units>", "[+50]% to Flank Attack bonuses", "Can move after attacking", "Ignores Zone of Control", "[+1] additional attacks per turn", "Earn [50]% of killed [Enemy] unit's [Strength] as [Culture]"], 
+                "uniques": ["[+100]% Strength <when attacking>", "[+200]% Strength <when defending> <vs [Sword] units>", "[+50]% to Flank Attack bonuses", "Can move after attacking", "Ignores Zone of Control", "[+1] additional attacks per turn", "Earn [25]% of killed [Enemy] unit's [Strength] as [Culture]","Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
                 
                 "attackSound": "metalhit",
    },
@@ -289,12 +289,12 @@
 "name": "Bearded Bishop",
                 "unitType": "Sword",
                 "movement": 2,
-                "strength": 12,
-                "cost": 75,
-                "hurryCostModifier": 0,
+                "strength": 18,
+                "cost": 90,
+                "hurryCostModifier": 20,
                 "requiredTech": "Construction",
                 "uniqueTo": "Norvos",
-                "uniques": ["[+20]% Strength <vs [Sword] units>", "[+10]% Strength bonus for [Land] units within [1] tiles", "[+5]% Strength bonus for [Land] units within [2] tiles", "[-5]% Strength for enemy [Land] units in adjacent [Land] tiles"], 
+                "uniques": ["[+20]% Strength <vs [Sword] units>", "[+10]% Strength bonus for [Land] units within [1] tiles", "[+5]% Strength bonus for [Land] units within [2] tiles", "[-5]% Strength for enemy [Land] units in adjacent [Land] tiles", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can be purchased with [Faith] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
                 "attackSound": "metalhit",
    },
 {
@@ -306,7 +306,7 @@
                 "hurryCostModifier": -75,
                 "requiredTech": "Mathematics",
                 "uniqueTo": "Braavos",
-                "uniques": ["[+500]% Strength <when attacking> <vs [{Land} {Military}] units>", "Ignores Zone of Control", "Earn [-500]% of killed [Land] unit's [Strength] as [Gold]", "May enter foreign tiles without open borders", "Can only attack [Military] units", "May withdraw before melee ([67]%)", "Invisible to non-adjacent units", "Unable to capture cities", "Unable to pillage tiles", "Can move after attacking", "Can move immediately once bought", "Uncapturable"], 
+                "uniques": ["[+500]% Strength <when attacking> <vs [{Land} {Military}] units>", "Ignores Zone of Control", "Earn [-500]% of killed [Land] unit's [Strength] as [Gold]", "May enter foreign tiles without open borders", "Can only attack [Military] units", "May withdraw before melee ([67]%)", "Invisible to non-adjacent units", "Unable to capture cities", "Unable to pillage tiles", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [House of Black and White]>"], 
                 "attackSound": "throw",
    },
 {
@@ -315,15 +315,10 @@
                 "movement": 4,
                 "strength": 18,
                 "cost": 100,
-                "hurryCostModifier": -20,
+                "hurryCostModifier": 40,
                 "requiredTech": "Horseback Riding",
                 "upgradesTo": "Calvary",
-                "uniques": ["[+50]% Strength <when attacking>", "Can move after attacking", "[+1] additional attacks per turn", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "[-75]% Strength <vs cities> <when attacking>"], 
-                "civilopediaText": [
-                        {
-                                "text": "Literal Redshirts."
-                        }
-                ],
-                "attackSound": "metalhit",
+                "uniques": ["[+50]% Strength <when attacking>", "Can move after attacking", "[+1] additional attacks per turn", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "[-75]% Strength <vs cities> <when attacking>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"],
+                "attackSound": "horse",
    },
 ]
