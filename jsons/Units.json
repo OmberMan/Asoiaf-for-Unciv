@@ -335,6 +335,18 @@
                 "attackSound": "metalhit",
    },
 {
+"name": "Sellsail",
+                "unitType": "Sword",
+                "movement": 2,
+                "strength": 17,
+                "cost": 90,
+                "hurryCostModifier": 25,
+                "requiredTech": "Engineering",
+                "uniques": ["[+15]% Strength <when adjacent to a [Lockstep Legion] unit>", "[+15]% Strength <when defending> <when fighting in [Open terrain] tiles>", "[+20]% Strength <when defending> <when adjacent to a [Lockstep Legion] unit>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
+"promotions": ["March"],
+                "attackSound": "metalhit",
+   },
+{
 "name": "Dothraki Screamer",
                 "unitType": "Mounted",
                 "movement": 4,
