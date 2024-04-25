@@ -358,4 +358,16 @@
                 "uniques": ["[+50]% Strength <when attacking>", "Can move after attacking", "[+1] additional attacks per turn", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "[-75]% Strength <vs cities> <when attacking>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"],
                 "attackSound": "horse",
    },
+{
+"name": "Sellsail",
+                "unitType": "Sword",
+                "movement": 2,
+                "strength": 19,
+                "cost": 100,
+                "hurryCostModifier": 40,
+                "requiredTech": "Horseback Riding",
+                "upgradesTo": "Musketman",
+                "uniques": ["[+67]% Strength <when attacking> <with [33]% chance>", "Can move after attacking", "[1] Movement point cost to disembark", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "[-75]% Strength <vs cities> <when attacking>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"],
+                "attackSound": "horse",
+   },
 ]
