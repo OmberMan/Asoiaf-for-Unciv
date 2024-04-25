@@ -66,8 +66,6 @@
         "allyBonusUniques": [
             "[+3 Gold] from all [Happiness] buildings <before the [Medieval era]>",
 "[+6 Gold] from all [Happiness] buildings <starting from the [Medieval era]>",
-
-
 "[+1 Culture] <when above [5] Happiness>", "[+1 Culture] <when above [10] Happiness>","[+1 Culture] <when above [15] Happiness>","[+1 Culture] <when above [20] Happiness>","[+1 Culture] <when above [25] Happiness>","[+2 Culture] <when above [30] Happiness>","[+2 Culture] <when above [35] Happiness>","[+2 Culture] <when above [40] Happiness>","[+2 Culture] <when above [45] Happiness>","[+2 Culture] <when above [50] Happiness>","[+3 Culture] <when above [55] Happiness>","[+3 Culture] <when above [60] Happiness>","[+3 Culture] <when above [65] Happiness>","[+3 Culture] <when above [70] Happiness>","[+3 Culture] <when above [75] Happiness>","[+4 Culture] <when above [80] Happiness>","[+4 Culture] <when above [85] Happiness>","[+4 Culture] <when above [90] Happiness>","[+4 Culture] <when above [95] Happiness>","[+4 Culture] <when above [100] Happiness>", "Comment: [Gain an increasing [Culture bonus] for every 5 [Happiness] in your empire (e.g 5 [Happiness] = 1 [Culture], 25 [Happiness] = 7 [Culture], 50 [Happiness] = 18 [Culture], 100 [Happiness] = 50 [Culture])]",
             "[+4 Gold] per [1] social policies adopted <starting from the [Medieval era]>",
 "[-4]% Culture cost of adopting new Policies <after adopting [Liberty]> <starting from the [Medieval era]>",
@@ -75,11 +73,9 @@
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
             "Provides a unique luxury",
-            "Unique Building [Essosi Sellsword Camp]", "Free [Water Dancer] appears", "[Gold] cost of purchasing [Water Dancer] units [-33]%", "Unique Building [Iron Bank Delegation]", "Provides [1] [Caravan Camp res]",
+            "Unique Building [Essosi Sellsword Camp]", "Free [Sellsail] appears", "[Gold] cost of purchasing [Water Dancer] units [-33]%", "Unique Building [Iron Bank Delegation]", "Provides [1] [Check]",
             "Unique Unit [Sellsail]",
         ],
-        "color": [255, 216, 0]
-    },
-[240, 110, 245],
-  "uniques": ["[+1 Culture] from every [Happiness]", "Free [Sellsail] appears <every [5] turns>"
+        "color": [240, 110, 245],
+    }, 
 ]
