@@ -2,8 +2,10 @@
 {  
           "name": "Obstructive",  
           "friendBonusUniques": [   
-              "[+25]% XP gained from combat <for [Mounted] units>", "[+1] Movement <for [Armor] units>", "[+50]% XP gained from combat <for [Armor] units>", "[+1 Happiness] from [{Trading Post} {Road}] tiles [in all cities]", "[+1 Production] from [{Road} {Desert}] tiles [in all cities]"],  
-          "allyBonusUniques": ["[+2] free [Rough Rider] units appear <upon entering a Golden Age>", "[+50]% XP gained from combat <for [Mounted] units>", "[+1] Sight <for [Mounted] units>", "[+1] Movement <for [Armor] units>", "[+1] Sight <for [Armor] units>", "[+100]% XP gained from combat <for [Armor] units>", "Damage is ignored when determining unit Strength <for [Armor] units>", "[+1 Culture] from [Road] tiles [in all cities] <when at war>", "[+2 Happiness] from [{Road} {Trading Post}] tiles [in all cities]", "[+1 Production] from [{Road} {Desert}] tiles [in all cities]"],  
+              "[+50]% Strength] <vs [Barbarian] units>",  "[-25]% maintenance costs <for [Land] units>", "[+50]% Strength for cities"
+],
+
+          "allyBonusUniques": ["[+100]% Strength] <vs [Barbarian] units>",  "[-50]% maintenance costs <for [Land] units>", "[+100]% Strength for cities"],  
           "color": [200, 190, 200]
       },                
   {  
@@ -22,8 +24,7 @@
 			"[+2 Faith] from [Trading post] tiles [in all cities]",
 "[+2 Happiness] from all [Faith] buildings <before the [Medieval era]>",
 "[+3 Happiness] from all [Faith] buildings <starting from the [Medieval era]>"
-            "Provides [1] [Caravan Camp res]", "[Cannon] units gain the [Desert Bombard] promotion", 
-            "Unique Building [Caravan Camp]", "Unique Unit [Desert Bombard]"
+            "Unique Building [Essosi Sellsword Camp]", "Free [Bearded Bishop] appears <every [20] turns>", "[Gold] cost of purchasing [Bearded Bishop] units [-33]%", "Unique Building [Bell Tower]", "Provides [1] [Brass Bell]",
         ],
         "color": [255, 255, 255]
     },
@@ -47,8 +48,7 @@
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
             "Provides a unique luxury",
-            "Unique Building [Essosi Sellsword Camp]", "Free [Water Dancer] appears", "[Gold] cost of purchasing [Water Dancer] units [-33]%", "Unique Building [Iron Bank Delegation]", "Provides [1] [Caravan Camp res]",
-            "Unique Unit [Water Dancer]",
+            "Unique Building [Essosi Sellsword Camp]", "Free [Water Dancer] appears <every [20] turns>", "[Gold] cost of purchasing [Faceless Man] units [-75]%", "Unique Building [Iron Bank Delegation]", "Provides [1] [Square Coin]",
         ],
         "color": [255, 216, 0]
     },
