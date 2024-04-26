@@ -25,7 +25,7 @@
 	},
 	{
 		"name": "Sellout",
-		"uniques": ["Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "[+10]% Strength <when above [300] [Gold]>", "[+10]% Strength <when above [600] [Gold]>", "[+10]% Strength <when above [900] [Gold]>", "[+10]% Strength <when above [1200] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]"]
+		"uniques": ["Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Comment [Gains strengh the more [Gold] you have in your possession]", "Earn [-10]% of the damage done to [Enemy] units as [Gold]"]
 	}
 ]
  
