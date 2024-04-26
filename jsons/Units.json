@@ -358,4 +358,17 @@
                 "uniques": ["[+67]% Strength <when attacking> <with [33]% chance>", "Can move after attacking", "[1] Movement point cost to disembark", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "[+10]% Strength <when above [300] [Gold]>", "[+10]% Strength <when above [600] [Gold]>", "[+10]% Strength <when above [900] [Gold]>", "[+10]% Strength <when above [1200] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Earn [33]% of killed [Military] unit's [Strength] as [Gold]"],
                 "attackSound": "metalhit",
    },
+{
+"name": "Swanwood Bowman",
+                "unitType": "Sword",
+                "movement": 2,
+                "strength": 11,
+                "rangedStrength": 18,
+                "cost": 120,
+                "hurryCostModifier": 40,
+                "requiredTech": "Metallurgy",
+                "upgradesTo": "Musketman",
+                "uniques": ["[+1] Range", "Can move after attacking", "[1] Movement point cost to disembark", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "[+10]% Strength <when above [300] [Gold]>", "[+10]% Strength <when above [600] [Gold]>", "[+10]% Strength <when above [900] [Gold]>", "[+10]% Strength <when above [1200] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Earn [33]% of killed [Military] unit's [Strength] as [Gold]"],
+                "attackSound": "metalhit",
+   },
 ]
