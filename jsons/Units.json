@@ -124,7 +124,7 @@
                 "requiredTech": "Chivalry",
                 "upgradesTo": "Cavalry",
                 "uniqueTo": "The Westerlands",
-                "uniques": ["This Unit gains [2] XP <upon ending a turn in a [Enemy land] tile>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Can move immediately once bought", "Ignores Zone of Control", "May enter foreign tiles without open borders", "Heal this unit by [+20] HP <upon ending a turn in a [{Farm} {Enemy land}] tile>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "Unbuildable", "[+33]% Strength <when attacking> <vs [Wounded] units>", "Can only heal by pillaging", "No movement cost to pillage "], 
+                "uniques": ["This Unit gains [2] XP <upon ending a turn in a [Enemy land] tile>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Can move immediately once bought", "Ignores Zone of Control", "May enter foreign tiles without open borders", "Heal this unit by [+20] HP <upon ending a turn in a [{Farm} {Enemy land}] tile>", "[+10]% Strength <when above [250] [Gold]>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [750] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1250] [Gold]>", "Unbuildable", "[+33]% Strength <when attacking> <vs [Wounded] units>", "Can only heal by pillaging", "No movement cost to pillage "], 
 "promotions": ["Drill I", "Shock I"],
                 "civilopediaText": [
                         {
@@ -362,12 +362,12 @@
 "name": "Sellsail",
                 "unitType": "Sword",
                 "movement": 2,
-                "strength": 19,
+                "strength": 18,
                 "cost": 100,
                 "hurryCostModifier": 40,
-                "requiredTech": "Horseback Riding",
+                "requiredTech": "Metallurgy",
                 "upgradesTo": "Musketman",
-                "uniques": ["[+67]% Strength <when attacking> <with [33]% chance>", "Can move after attacking", "[1] Movement point cost to disembark", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "[-75]% Strength <vs cities> <when attacking>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"],
-                "attackSound": "horse",
+                "uniques": ["[+67]% Strength <when attacking> <with [33]% chance>", "Can move after attacking", "[1] Movement point cost to disembark", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Earn [33]% of killed [Military] unit's [Strength] as [Gold]"],
+                "attackSound": "metalhit",
    },
 ]
