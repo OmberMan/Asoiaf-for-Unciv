@@ -283,8 +283,8 @@
                 "replaces": "Swordsman",
                 "uniqueTo": "Braavos",
                 "uniques": ["[+100]% Strength <when attacking>", "[+200]% Strength <when defending> <vs [Sword] units>", "[+50]% to Flank Attack bonuses", "Can move after attacking", "Ignores Zone of Control", "[+1] additional attacks per turn", "Earn [25]% of killed [Enemy] unit's [Strength] as [Culture]", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
-                
-                "attackSound": "metalhit",
+                "promotions": ["Sellout"],
+                "attackSound": "metalhit"
    },
 {
 "name": "Bearded Bishop",
@@ -296,6 +296,7 @@
                 "requiredTech": "Construction",
                 "uniqueTo": "Norvos",
                 "uniques": ["[+20]% Strength <vs [Sword] units>", "[+10]% Strength bonus for [Land] units within [1] tiles", "[+5]% Strength bonus for [Land] units within [2] tiles", "[-5]% Strength for enemy [Land] units in adjacent [Land] tiles", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can be purchased with [Faith] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
+"promotions": ["Sellout"],
                 "attackSound": "metalhit",
    },
 {
@@ -320,7 +321,7 @@
                 "requiredTech": "Bronze Working",
                 "uniques": ["Heal this unit by [15] HP <upon losing at least [25] HP in a single attack>", "[+10]% Strength <when adjacent to a [Unsullied] unit>", "[+20]% Strength <vs [Ranged] units> <when attacking>", "[+20]% Strength <vs [Melee] units> <when defending>", "Can move immediately once bought", "[-100]% maintenance costs", "[-10] HP when healing", "[-50]% XP gained from combat", "Damage is ignored when determining unit Strength", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
                 "attackSound": "metalhit",
-"promotions": ["Drill I", "Drill II", "Shock I", "Shock II"]
+"promotions": ["Drill I", "Drill II", "Shock I", "Shock II", " Neutered"]
    },
 {
 "name": "Lockstep Legion",
@@ -331,7 +332,7 @@
                 "hurryCostModifier": 25,
                 "requiredTech": "Engineering",
                 "uniques": ["[+15]% Strength <when adjacent to a [Lockstep Legion] unit>", "[+15]% Strength <when defending> <when fighting in [Open terrain] tiles>", "[+20]% Strength <when defending> <when adjacent to a [Lockstep Legion] unit>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
-"promotions": ["March"],
+"promotions": ["March", "Sellout"],
                 "attackSound": "metalhit",
    },
 {
@@ -344,6 +345,7 @@
                 "requiredTech": "Horseback Riding",
                 "upgradesTo": "Calvary",
                 "uniques": ["[+50]% Strength <when attacking>", "Can move after attacking", "[+1] additional attacks per turn", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "[-75]% Strength <vs cities> <when attacking>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"],
+"promotions": ["Sellout"],
                 "attackSound": "horse",
    },
 {
@@ -356,6 +358,7 @@
                 "requiredTech": "Metallurgy",
                 "upgradesTo": "Musketman",
                 "uniques": ["[+67]% Strength <when attacking> <with [33]% chance>", "Can move after attacking", "[1] Movement point cost to disembark", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "[+10]% Strength <when above [300] [Gold]>", "[+10]% Strength <when above [600] [Gold]>", "[+10]% Strength <when above [900] [Gold]>", "[+10]% Strength <when above [1200] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Earn [33]% of killed [Military] unit's [Strength] as [Gold]"],
+"promotions": ["Sellout"],
                 "attackSound": "metalhit",
    },
 {
@@ -369,6 +372,7 @@
                 "requiredTech": "Metallurgy",
                 "upgradesTo": "Musketman",
                 "uniques": ["[+1] Range", "Can move after attacking", "[1] Movement point cost to disembark", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "[+10]% Strength <when above [300] [Gold]>", "[+10]% Strength <when above [600] [Gold]>", "[+10]% Strength <when above [900] [Gold]>", "[+10]% Strength <when above [1200] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Earn [33]% of killed [Military] unit's [Strength] as [Gold]"],
+"promotions": ["Sellout"],
                 "attackSound": "metalhit",
    },
 ]
