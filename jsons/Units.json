@@ -319,7 +319,7 @@
                 "cost": 90,
                 "hurryCostModifier": 50,
                 "requiredTech": "Bronze Working",
-                "uniques": ["Heal this unit by [15] HP <upon losing at least [25] HP in a single attack>", "[+10]% Strength <when adjacent to a [Unsullied] unit>", "[+20]% Strength <vs [Ranged] units> <when attacking>", "[+20]% Strength <vs [Melee] units> <when defending>", "Can move immediately once bought", "[-100]% maintenance costs", "[-10] HP when healing", "[-50]% XP gained from combat", "Damage is ignored when determining unit Strength", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
+                "uniques": ["Heal this unit by [15] HP <upon losing at least [25] HP in a single attack>", "[+10]% Strength <when adjacent to a [Unsullied] unit>", "Can move immediately once bought", "[-100]% maintenance costs", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
                 "attackSound": "metalhit",
 "promotions": ["Drill I", "Drill II", "Shock I", "Shock II", " Neutered"]
    },
