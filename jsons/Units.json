@@ -321,7 +321,7 @@
                 "requiredTech": "Bronze Working",
                 "uniques": ["Heal this unit by [15] HP <upon losing at least [25] HP in a single attack>", "[+10]% Strength <when adjacent to a [Unsullied] unit>", "Can move immediately once bought", "[-100]% maintenance costs", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"], 
                 "attackSound": "metalhit",
-"promotions": ["Drill I", "Drill II", "Shock I", "Shock II", " Neutered"]
+"promotions": ["Drill I", "Drill II", "Shock I", "Shock II", "Neutered"]
    },
 {
 "name": "Lockstep Legion",
@@ -343,7 +343,7 @@
                 "cost": 100,
                 "hurryCostModifier": 40,
                 "requiredTech": "Horseback Riding",
-                "upgradesTo": "Calvary",
+                "upgradesTo": "Cavalry",
                 "uniques": ["[+50]% Strength <when attacking>", "Can move after attacking", "[+1] additional attacks per turn", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "[-75]% Strength <vs cities> <when attacking>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>"],
 "promotions": ["Sellout"],
                 "attackSound": "horse",
@@ -369,8 +369,8 @@
                 "rangedStrength": 18,
                 "cost": 120,
                 "hurryCostModifier": 40,
-                "requiredTech": "Metallurgy",
-                "upgradesTo": "Musketman",
+                "requiredTech": "Engineering",
+                "upgradesTo": "Gatling Gun",
                 "uniques": ["[+1] Range", "Defense bonus when embarked", "[1] Movement point cost to embark", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]"],
 "promotions": ["Sellout"],
                 "attackSound": "Arrow",
