@@ -14,11 +14,11 @@
 "requiredTech": "Currency",
 		"cost": 120,
 		"isNationalWonder": "true",
-  "maintenance": 5,
+  "maintenance": 6,
 		"requiredResource": "Square Coin",
-  "percentStatBonus": {"Gold": 45},
+  "percentStatBonus": {"Gold": 33},
 		"hurryCostModifier": 55,
-		"uniques": ["[+3 Gold] from all [Gold] buildings [in all cities]", "[+3 Gold] from each Trade Route"],
+		"uniques": ["[+2 Gold] from every [Merchant]", "[+33]% Yield from every [Gold]"],
 	},
 {
 		"name": "Sellsword Camp",
@@ -33,7 +33,7 @@
 		"name": "Essosi Sellsword Camp",
 		"hurryCostModifier": 0,
 	        "requiredResource": "Eastern Check",
-		"uniques": ["Destroyed when the city is captured", "[Gold] cost of purchasing [Military] units [-15]%", "[+1 Gold] from [Fort] tiles [in this city]"],
+		"uniques": ["Destroyed when the city is captured", "[Gold] cost of purchasing [Military] units [-15]%"],
 		"requiredTech": "Bronze Working"
 	},
 	{
