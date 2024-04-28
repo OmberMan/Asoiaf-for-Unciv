@@ -194,6 +194,16 @@
 		        "[+25]% Production when constructing [Science] buildings [in this city]"
 		]
 	},
+	{
+		"name": "House of Black and White",
+		"maintenance": 1,
+		"hurryCostModifier": 20,
+  "cost": 175,
+"requiredResource": "Square Coin",
+		"uniques": ["[-25]% Food is carried over after population increases [in this city]",
+			"[-25]% Unhappiness from [Population] in this city"
+		]
+	},
 	
 ]
 
