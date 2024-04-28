@@ -9,13 +9,30 @@
 //Crownlands - Various national wonders
 
 [
+	{
+		"name": "Iron Bank Delegation",
+"requiredTech": "Currency",
+		"cost": 120,
+		"isNationalWonder": "true",
+  "maintenance": -5,
+  "percentStatBonus": {"Gold": 45},
+		"hurryCostModifier": 55,
+		"uniques": ["[+3 Gold] from all [Gold] buildings", "[+3 Gold] from each Trade Route"],
+	},
 {
 		"name": "Sellsword Camp",
 "uniqueTo": "The Westerlands",
 		"replaces": "Barracks",
 		"hurryCostModifier": 0,
-		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[Gold] cost of purchasing [Military] units [-15]%", "[+1 Gold] from [Fort] tiles [in this city]", "[2] free [Brave Companions] units appear"],
+		"requiredTech": "Bronze Working"
+	},
+	
+{
+		"name": "Essosi Sellsword Camp",
+		"hurryCostModifier": 0,
+	        "requiredResource": "Eastern Check",
+		"uniques": ["Destroyed when the city is captured", "[Gold] cost of purchasing [Military] units [-15]%", "[+1 Gold] from [Fort] tiles [in this city]"],
 		"requiredTech": "Bronze Working"
 	},
 	{
