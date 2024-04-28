@@ -14,10 +14,11 @@
 "requiredTech": "Currency",
 		"cost": 120,
 		"isNationalWonder": "true",
-  "maintenance": -5,
+  "maintenance": 5,
+		"requiredResource": "Square Coin",
   "percentStatBonus": {"Gold": 45},
 		"hurryCostModifier": 55,
-		"uniques": ["[+3 Gold] from all [Gold] buildings", "[+3 Gold] from each Trade Route"],
+		"uniques": ["[+3 Gold] from all [Gold] buildings [in all cities]", "[+3 Gold] from each Trade Route"],
 	},
 {
 		"name": "Sellsword Camp",
@@ -149,13 +150,14 @@
   "food": 1,
   "percentStatBonus": {"Culture": 10, "Gold": 5},
 		"hurryCostModifier": 55,
-		"uniques": ["[+1 Gold, +1 Culture] from [Trading Post] tiles [in this city] <in [River] tiles>", "[+1 Culture] from all [Greenblood Orphanage] buildings", "[+1 Gold, +1 Culture] from each Trade Route", "[+1] population [in this city], <upon entering a new era>", "[+10]% Production when constructing [Naval] units [in this city]", "Can only be built <within [1] tiles of a [Water]>"],
+		"uniques": ["[+1 Gold, +1 Culture] from [Trading Post] tiles [in this city] <in [River] tiles>", "[+1 Culture] from all [Greenblood Orphanage] buildings", "[+1 Culture] from each Trade Route", "[+1] population [in this city], <upon entering a new era>", "[+10]% Production when constructing [Naval] units [in this city]", "Can only be built <within [1] tiles of a [Water]>"],
 	},
 {
 		"name": "Tourney Grounds",
   "replaces": "Colosseum",
 		"uniqueTo": "The Stormlands",
   "production": 1,
+   "culture": 1,
   "happiness": 2,
 "requiredTech": "Horseback Riding",
 		"maintenance": 1,
@@ -218,7 +220,7 @@
   "cost": 175,
 "requiredResource": "Square Coin",
 		"uniques": ["[-25]% Food is carried over after population increases [in this city]",
-			"[-25]% Unhappiness from [Population] in this city"
+			"[-25]% Unhappiness from [Population] [in this city]"
 		]
 	},
 	
