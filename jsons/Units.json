@@ -272,6 +272,19 @@
                         {"text": "A hybrid Dragon of Eagle and Lion, tamed and trained to be a valuable assets on the battlefield."},
         ]
         },
+	{
+"name": "Crow",
+                "unitType": "Sword",
+                "movement": 3,
+                "strength": 16,
+                "cost": 90,
+                "hurryCostModifier": 0,
+                "requiredTech": "Metallurgy",
+                "upgradesTo": "Musketman",
+                "uniques": ["[+67]% Strength <when attacking> <with [33]% chance>", "This Unit gains [1] XP <upon ending a turn in a [Enemy land] tile>", "May withdraw before melee ([20]%)", "Can move after attacking", "[1] Movement point cost to disembark", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "[+10]% Strength <when above [300] [Gold]>", "[+10]% Strength <when above [600] [Gold]>", "[+10]% Strength <when above [900] [Gold]>", "[+10]% Strength <when above [1200] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [33]% of killed [Military] unit's [Strength] as [Gold]", "Can build [Fort] improvements on tiles"],
+"promotions": ["Sellout"],
+                "attackSound": "metalhit",
+   },
 {
 "name": "Water Dancer",
                 "unitType": "Sword",
