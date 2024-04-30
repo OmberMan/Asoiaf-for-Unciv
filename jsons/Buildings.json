@@ -150,7 +150,7 @@
   "food": 1,
   "percentStatBonus": {"Culture": 10, "Gold": 5},
 		"hurryCostModifier": 55,
-		"uniques": ["[+1 Gold, +1 Culture] from [Trading Post] tiles [in this city] <in [River] tiles>", "[+1 Culture] from all [Greenblood Orphanage] buildings", "[+1 Culture] from each Trade Route", "[+1] population [in this city], <upon entering a new era>", "[+10]% Production when constructing [Naval] units [in this city]", "Can only be built <within [1] tiles of a [Water]>"],
+		"uniques": ["[+1 Gold, +1 Culture] from [Trading Post] tiles [in this city] <in [River] tiles>", "[+1 Culture] from all [Greenblood Orphanage] buildings", "[+1 Culture] from each Trade Route", "[+1] population [in this city] <upon entering a new era>", "[+10]% Production when constructing [Naval] units [in this city]", "Can only be built <within [1] tiles of a [Water]>"],
 	},
 {
 		"name": "Tourney Grounds",
@@ -192,7 +192,7 @@
 	        "percentStatBonus": {"Science": 10},
 		"uniqueTo": "The Reach",
 		"replaces": "National Epic",
-		"uniques": ["provides [9] [Maester's Chain]", 
+		"uniques": ["Provides [9] [Maester's Chain]", 
 			"Never destroyed when the city is captured", 
 			"[+25]% Great Person generation [in this city]",
 			"Gain a free [Maester's Chambers] [in this city]",
