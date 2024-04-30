@@ -281,7 +281,7 @@
                 "hurryCostModifier": 0,
                 "requiredTech": "Metallurgy",
                 "upgradesTo": "Musketman",
-                "uniques": ["[+50]% Strength <vs [Barbarian] units>", "This Unit gains [2] XP <upon ending a turn in a [Enemy land] tile>", "May withdraw before melee ([20]%)", "Can move after attacking", "Uncapturable", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", " "Invisible to non-adjacent units <in [Rough terrain] tiles> <in tiles without [Enemy land]>", "[+1] Sight", "Earn [50]% of killed [Barbarian] unit's [Strength] as [Culture]", "[-10] HP when healing", "[-100]% maintenance costs", "Ignores terrain cost", "Can build [Fort] improvements on tiles"],
+                "uniques": ["[+50]% Strength <vs [Barbarian] units>", "This Unit gains [2] XP <upon ending a turn in a [Enemy land] tile>", "May withdraw before melee ([20]%)", "Can move after attacking", "Uncapturable", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Invisible to non-adjacent units <in [Rough terrain] tiles> <in tiles without [Enemy land]>", "[+1] Sight", "Earn [50]% of killed [Barbarian] unit's [Strength] as [Culture]", "[-10] HP when healing", "[-100]% maintenance costs", "Ignores terrain cost", "Can build [Fort] improvements on tiles"],
 "promotions": ["Drill I"],
                 "attackSound": "metalhit",
    },
