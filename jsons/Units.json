@@ -316,7 +316,7 @@
                 "unitType": "Sword",
                 "movement": 2,
                 "strength": 7,
-                "cost": 1000,
+                "cost": 750,
                 "hurryCostModifier": -75,
                 "requiredTech": "Mathematics",
                 
