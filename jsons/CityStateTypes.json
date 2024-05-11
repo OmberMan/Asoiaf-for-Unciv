@@ -78,4 +78,27 @@
         ],
         "color": [240, 110, 245],
     }, 
+{
+        "name": "Revanchist",
+        "friendBonusUniques": [
+            "[+2]% [Food] from every [Building] <before the [Medieval era]>",
+            "[+3]% [Food] from every [Building] <starting from the [Medieval era]>",
+            "[+2 Gold] <before the [Medieval era]>",
+            "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Gold] <starting from the [Industrial era]>",
+"Free [Tiger Cloak Guard] appears",
+ "Unique Building [Essosi Sellsword Camp]"
+        ],
+        "allyBonusUniques": [
+            "[+4]% [Food] from every [Building] <before the [Medieval era]>",
+            "[+6]% [Food] from every [Building] <starting from the [Medieval era]>",
+"[+1 Gold] from [River] tiles [in all cities]" 
+            "[+2 Gold] <before the [Medieval era]>",
+            "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Gold] <starting from the [Industrial era]>",
+            "Provides a unique luxury",
+            "Unique Building [Essosi Sellsword Camp]", "Free [Tiger Cloak Guard] appears <every [20] turns>", "[Gold] cost of purchasing [Tiger Cloak Guard] units [-75]%", "Provides [1] [Eastern Check]"
+        ],
+        "color": [210, 204, 80]
+    },
 ]
