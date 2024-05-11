@@ -519,8 +519,10 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "style": "Mediterranean",
 
                 "declaringWar": "Time to learn your place.",
-                "attacked": "Augh!",
-                "defeated": "This is it huh? The pearl of Valyria turns from a city built on slaves to one built on catacombs.",
+                "attacked": "Your faith was strong but you needed proof
+\nSaw her bathing on the roof
+\nHer beauty and the moonlight overthrew her",
+                "defeated": "Augh! From a city built on slaves to one built on catacombs. What a fate for the pearl of old Valyria.",
                 "outerColor": [0, 0, 0],
   "innerColor": [210, 2040, 80],
   "uniques": ["[+1 Food] from every [Gold]", "Free [Tiger Cloak Guard] appears <every [5] turns>"],
