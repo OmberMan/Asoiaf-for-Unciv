@@ -506,6 +506,26 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
   "uniques": ["[+1 Culture] from every [Happiness]", "Free [Sellsail] appears <every [5] turns>"],
 	"cities": ["Lys", "The cum shaft"]
         },
+{                
+  "name": "Volantis",
+
+                "leaderName": "Jerry and the Pacemakers",
+
+                "adjective": ["Volantine"],
+
+"cityStateType": "Revanchist",
+                "startBias": ["River"],
+
+                "style": "Mediterranean",
+
+                "declaringWar": "Time to learn your place.",
+                "attacked": "Augh!",
+                "defeated": "This is it huh? The pearl of Valyria turns from a city built on slaves to one built on catacombs.",
+                "outerColor": [0, 0, 0],
+  "innerColor": [210, 2040, 80],
+  "uniques": ["[+1 Food] from every [Gold]", "Free [Tiger Cloak Guard] appears <every [5] turns>"],
+        "cities": ["Volantis", "Gimmie the shlock shock jock"]
+        },
 {
                 "name": "The Night's Watch",
                 "adjective": ["Wight's Natch"],
@@ -560,25 +580,5 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
   "innerColor": [220, 40, 120],
   "uniques": ["[+1 Gold] from every [Food]", "Free [Windblown Mercenary] appears <every [9] turns>"],
 	"cities": ["Pentos", "Actually the rest of the continent is empty"]
-        },
-{                
-  "name": "Volantis",
-
-                "leaderName": "Jerry and the Pacemakers",
-
-                "adjective": ["Volantine"],
-
-"cityStateType": "Revanchist",
-                "startBias": ["River"],
-
-                "style": "Mediterranean",
-
-                "declaringWar": "Time to learn your place.",
-                "attacked": "Augh!",
-                "defeated": "This is it huh? The pearl of Valyria turns from a city built on slaves to one built on catacombs.",
-                "outerColor": [0, 0, 0],
-  "innerColor": [210, 2040, 80],
-  "uniques": ["[+1 Food] from every [Gold]", "Free [Tiger Cloak Guard] appears <every [5] turns>"],
-	"cities": ["Volantis", "Gimmie the shlock shock jock"]
-        },
+        }, 
 */
