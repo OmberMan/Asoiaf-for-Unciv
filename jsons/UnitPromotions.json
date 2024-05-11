@@ -25,7 +25,7 @@
 	},
 	{
 		"name": "Sellout",
-		"uniques": ["Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Comment [Gains strengh the more [Gold] you have in your possession, but may flee from combat]", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Can move immediately once bought"]
+		"uniques": ["Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>", "Comment [Gains strengh the more [Gold] you have in your possession, but may flee from combat]", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Can move immediately once bought"]
 	},
 {
 "name": "Neutered",
