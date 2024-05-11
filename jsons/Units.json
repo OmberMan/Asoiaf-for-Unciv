@@ -324,6 +324,18 @@
                 "attackSound": "throw",
    },
 {
+"name": "Tiger Cloak Guard",
+                "unitType": "Sword",
+                "movement": 2,
+                "strength": 16,
+                "cost": 90,
+                "hurryCostModifier": 25,
+                "requiredTech": "Civil Service",
+                "uniques": ["[+15]% Strength <in tiles adjacent to [City center]>", "[-100]% maintenance cost", "Eliminates combat penalty for attacking over a river", "[+25]% Strength <when defending>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can move immediately once bought", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>"], 
+"promotions": ["Drill I", "Shock I"],
+                "attackSound": "metalhit",
+   },
+{
 "name": "Unsullied",
                 "unitType": "Sword",
                 "movement": 2,
