@@ -2,10 +2,10 @@
 {  
           "name": "Obstructive",  
           "friendBonusUniques": [   
-              "[+50]% Strength] <vs [Barbarian] units>",  "[-25]% maintenance costs <for [Land] units>", "[+50]% Strength for cities"
+              "[+50]% Strength] <vs [Barbarian] units>",  "[-25]% maintenance costs <for [Land] units>", "Free [Crow] appears <[in capital]>", "[+50]% Strength for cities"
 ],
 
-          "allyBonusUniques": ["[+100]% Strength] <vs [Barbarian] units>",  "[-50]% maintenance costs <for [Land] units>", "[+100]% Strength for cities"],  
+          "allyBonusUniques": ["[+100]% Strength] <vs [Barbarian] units>",  "[-50]% maintenance costs <for [Land] units>", "Free [Crow] appears <[in capital]> <every [10] turns>", "[+100]% Strength for cities"],  
           "color": [200, 190, 200]
       },                
   {  
@@ -24,7 +24,7 @@
 			"[+2 Faith] from [Trading post] tiles [in all cities]",
 "[+2 Happiness] from all [Faith] buildings <before the [Medieval era]>",
 "[+3 Happiness] from all [Faith] buildings <starting from the [Medieval era]>"
-            "Unique Building [Essosi Sellsword Camp]", "Free [Bearded Bishop] appears <every [20] turns>", "[Gold] cost of purchasing [Bearded Bishop] units [-33]%", "Unique Building [Bell Tower]", "Provides [1] [Eastern Check]"
+            "Unique Building [Essosi Sellsword Camp]", "Free [Bearded Bishop] appears <[in capital]> <every [20] turns>", "[Gold] cost of purchasing [Bearded Bishop] units [-33]%", "Unique Building [Bell Tower]", "Provides [1] [Eastern Check]"
         ],
         "color": [255, 255, 255]
     },
@@ -37,7 +37,7 @@
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
-"Free [Water Dancer] appears",
+"Free [Water Dancer] appears <[in capital]>",
  "Unique Building [Essosi Sellsword Camp]"
         ],
         "allyBonusUniques": [
@@ -60,7 +60,7 @@
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
-"Free [Sellsail] appears",
+"Free [Sellsail] appears <[in capital]>",
  "Unique Building [Essosi Sellsword Camp]"
         ],
         "allyBonusUniques": [
@@ -73,7 +73,7 @@
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
             "Provides a unique luxury",
-            "Unique Building [Essosi Sellsword Camp]", "Free [Sellsail] appears", "[Gold] cost of purchasing [Water Dancer] units [-33]%", "Unique Building [Iron Bank Delegation]", "Provides [1] [Eastern Check]",
+            "Unique Building [Essosi Sellsword Camp]", "Free [Sellsail] appears <[in capital]>", "[Gold] cost of purchasing [Water Dancer] units [-33]%", "Unique Building [Iron Bank Delegation]", "Provides [1] [Eastern Check]",
             "Unique Unit [Sellsail]",
         ],
         "color": [240, 110, 245],
@@ -86,7 +86,7 @@
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
-"Free [Tiger Cloak Guard] appears",
+"Free [Tiger Cloak Guard] appears <[in capital]>",
  "Unique Building [Essosi Sellsword Camp]"
         ],
         "allyBonusUniques": [
