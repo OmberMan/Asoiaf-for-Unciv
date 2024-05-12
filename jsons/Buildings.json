@@ -196,7 +196,7 @@
 			"Never destroyed when the city is captured", 
 			"[+25]% Great Person generation [in this city]",
 			"Gain a free [Maester's Chambers] [in this city]",
-		        "[+1 Science] per [4] population [in all cities]", "[-33]% enemy spy effectiveness [in this city]",]
+		        "[+1 Science] per [4] population [in all cities]", "[-33]% enemy spy effectiveness [in this city]"]
 	},
 	{
 		"name": "Maester's Chambers",
