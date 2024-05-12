@@ -150,7 +150,7 @@
   "food": 1,
   "percentStatBonus": {"Culture": 10, "Gold": 5},
 		"hurryCostModifier": 55,
-		"uniques": ["[+1 Gold, +1 Culture] from [Trading Post] tiles [in this city] <in [River] tiles>", "[+1 Culture] from all [Greenblood Orphanage] buildings", "[+1 Culture] from each Trade Route", "[+1] population [in this city] <upon entering a new era>", "[+10]% Production when constructing [Naval] units [in this city]", "Can only be built <within [1] tiles of a [Water]>"],
+		"uniques": ["[+1 Gold, +1 Culture] from [Trading Post] tiles [in this city] <in [River] tiles>", "[+1 Culture] from all [Greenblood Orphanage] buildings", "[+1 Culture] from each Trade Route", "[+10]% Production when constructing [Naval] units [in this city]", "Can only be built <within [1] tiles of a [Water]>"],
 	},
 {
 		"name": "Tourney Grounds",
@@ -189,14 +189,26 @@
                 "science": 4,
 		"culture": 1,
 "isNationalWonder": true,
-	        "percentStatBonus": {"Science": 10},
+	        "percentStatBonus": {"Science": 40},
 		"uniqueTo": "The Reach",
-		"replaces": "National Epic",
+		"replaces": "National College",
 		"uniques": ["Provides [9] [Maester's Chain]", 
 			"Never destroyed when the city is captured", 
-			"[+25]% Great Person generation [in this city]",
+			"[+15]% Great Person generation [in this city]",
 			"Gain a free [Maester's Chambers] [in this city]",
 		        "[+1 Science] per [4] population [in all cities]", "[-33]% enemy spy effectiveness [in this city]"]
+	},
+{
+		"name": "Guild of Alchemists",
+  "replaces": "National College",
+  "uniqueTo": "The Crownlands"
+		"cost": 210,
+		"science": 3,
+		"culture": 1,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 30},
+		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"requiredTech": "Philosophy"
 	},
 	{
 		"name": "Maester's Chambers",
