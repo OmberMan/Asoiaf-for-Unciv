@@ -427,9 +427,9 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
   //"favoredReligion": "The Old Gods",
 
-                "declaringWar": "You have threathened the balance of this world, we shall remove you!",
+                "declaringWar": "The Dragon treads where it pleases!",
 		"attacked": "What a drag...",
-		"defeated": "AaAahhahahhrhd NOO NO NO NO PLEAE!",
+		"defeated": "BURN THEM ALL! BURN THEM ALL! BURN THEM IN THEIR CASTLES! BURN THEM IN THEIR HOMES! BURN THEM IN THEIR ARMOR! BURN THEM IN THEIR M-",
 		"introduction": "Rar XD :3",
 		
 		"neutralHello": "You stand before the one true King of Westeros, the Andals, the Rhoynar, and the First Men.",
@@ -437,7 +437,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 		"tradeRequest": "Uhm",
 		
 
-                "outerColor": [        28, 21, 25],
+                "outerColor": [        24, 19, 21],
 
                 "innerColor": [        174, 57, 43],
 
@@ -482,7 +482,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "attacked": "Sound the bells of war!",
                 "defeated": "I actually hate this. Always have. I don't even know what our god is called.",
                 "outerColor": [0, 0, 0],
-  "innerColor": [195, 70, 140],
+  "innerColor": [195, 140, 70],
   "uniques": ["[+1 Happiness] from every [Faith]", "Free [Bearded Bishop] appears <every [5] turns>"],
 	"cities": ["Norvos", "Tellum"]
         },
@@ -502,7 +502,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "attacked": "  I  \n           uh, \n\n\n\n\n    uwu?",
                 "defeated": "To the victor go the spoils. Consider yourself blessed.",
                 "outerColor": [0, 0, 0],
-  "innerColor": [240, 110, 245],
+  "innerColor": [240, 90, 245],
   "uniques": ["[+1 Culture] from every [Happiness]", "Free [Sellsail] appears <every [5] turns>"],
 	"cities": ["Lys", "The cum shaft"]
         },
