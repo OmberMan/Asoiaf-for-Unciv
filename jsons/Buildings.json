@@ -50,7 +50,7 @@
 			 "[-3] population [in this city] <upon constructing [Targaryen Keep]>", "[+1] population in a random city <upon constructing [Targaryen Keep]>", "[+1] population [in capital] <upon constructing [Targaryen Keep]>", "[+2 Production, +1 Gold] [in capital]"],
 		"requiredTech": "Mathematics",
                 "civilopediaText": [
-			{"text": "Monument for the Old Sods. An altar of whoreship."},
+			{"text": "Kep"}
         ]
 	},
 		{
