@@ -4,7 +4,6 @@
 		"science": 2,
 		"culture": 2,
   "food": 1,
-    "gold": -1,
 		"greatPersonPoints": {"Great Engineer":1},
 		"color": [173, 142, 166]
 	},
