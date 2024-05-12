@@ -24,7 +24,7 @@ BuildingIcons/Arbor Vineyard
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Citadel of the Maesters
+BuildingIcons/Maester's Citadel
   rotate: false
   xy: 1876, 717
   size: 100, 100
@@ -94,7 +94,7 @@ BuildingIcons/Moon Door
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Sellsword Quarters
+BuildingIcons/Sellsword Camp
   rotate: false
   xy: 1420, 120
   size: 100, 100
@@ -136,7 +136,7 @@ CityStateIcons/Obstructive
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Prejudiced
+CityStateIcons/Titanic
   rotate: false
   xy: 1204, 18
   size: 100, 100
@@ -157,7 +157,7 @@ CityStateIcons/Revanchist
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Salacious (2)
+CityStateIcons/Salacious
   rotate: false
   xy: 1045, 220
   size: 120, 120
@@ -185,7 +185,7 @@ ImprovementIcons/Riverside Mud Farm
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Bearded Bishop
+CityStateIcons/Bewhiskered
   rotate: false
   xy: 1615, 715
   size: 145, 145
@@ -220,7 +220,7 @@ NationIcons/Enfranchised
   orig: 240, 240
   offset: 0, 0
   index: -1
-UnitIcons/Enfranchised
+UnitIcons/Tiger Cloak Guard
   rotate: false
   xy: 4, 28
   size: 240, 240
@@ -248,7 +248,7 @@ NationIcons/Preservationist
   orig: 663, 663
   offset: 0, 0
   index: -1
-UnitIcons/Preservationist
+UnitIcons/Sellsail
   rotate: false
   xy: 912, 1361
   size: 663, 663
@@ -527,56 +527,56 @@ BuildingIcons/Wetland Mill
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Batey
+TileSets/FantasyHex/Improvements/Batey
   rotate: false
   xy: 580, 75
   size: 39, 33
   orig: 39, 33
   offset: 0, 0
   index: -1
-ImprovementIcons/Cahokian Kurgan
+TileSets/FantasyHex/Improvements/Cahokian Kurgan
   rotate: false
   xy: 436, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-ImprovementIcons/Crafter's Guild
+TileSets/FantasyHex/Improvements/Crafter's Guild
   rotate: false
   xy: 789, 80
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-ImprovementIcons/Elam Mausoleum
+TileSets/FantasyHex/Improvements/Elam Mausoleum
   rotate: false
   xy: 909, 68
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
-ImprovementIcons/Floating City
+TileSets/FantasyHex/Improvements/Taetaerkt
   rotate: false
   xy: 1029, 68
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
-ImprovementIcons/Idendo-1
+TileSets/FantasyHex/Improvements/Idendo
   rotate: false
   xy: 1109, 80
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-ImprovementIcons/Jolopong
+TileSets/FantasyHex/Improvements/Jolopong
   rotate: false
   xy: 1189, 79
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
-ImprovementIcons/Kampung-2
+TileSets/FantasyHex/Improvements/Kampung
   rotate: false
   xy: 1229, 76
   size: 32, 32
@@ -590,7 +590,7 @@ ImprovementIcons/Loko_Archer
   orig: 32, 28
   offset: 0, 0
   index: -1
-ImprovementIcons/Mahavihara
+TileSets/FantasyHex/Improvements/Mahavihara
   rotate: false
   xy: 1389, 78
   size: 32, 30
@@ -604,21 +604,21 @@ ImprovementIcons/Motte_and_Bailey
   orig: 32, 32
   offset: 0, 0
   index: -1
-ImprovementIcons/Nubian_Pyramid
+TileSets/FantasyHex/Improvements/Nubian_Pyramid
   rotate: false
   xy: 1509, 71
   size: 32, 37
   orig: 32, 37
   offset: 0, 0
   index: -1
-ImprovementIcons/Oasis Farm
+TileSets/FantasyHex/Improvements/Oasis Farm
   rotate: false
   xy: 1549, 78
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
-ImprovementIcons/Outback_Station
+TileSets/FantasyHex/Improvements/Meat Mill
   rotate: false
   xy: 1629, 68
   size: 32, 40
@@ -632,14 +632,14 @@ ImprovementIcons/Pa
   orig: 32, 32
   offset: 0, 0
   index: -1
-ImprovementIcons/Tibetan Kumbum
+TileSets/FantasyHex/Improvements/Tibetan Kumbum
   rotate: false
   xy: 627, 76
   size: 34, 32
   orig: 34, 32
   offset: 0, 0
   index: -1
-ImprovementIcons/Triumphal Arch
+TileSets/FantasyHex/Improvements/Triumphal Arch
   rotate: false
   xy: 1589, 36
   size: 32, 32
