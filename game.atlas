@@ -1,0 +1,858 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Sand Viper
+  rotate: false
+  xy: 4, 4
+  size: 1500, 1500
+  orig: 1500, 1500
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Arbor Vineyard
+  rotate: false
+  xy: 1768, 717
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Citadel of the Maesters
+  rotate: false
+  xy: 1876, 717
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Crescent Gardens
+  rotate: false
+  xy: 880, 61
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Essosi Sellsword Camp
+  rotate: false
+  xy: 1287, 238
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+BuildingIcons/Godswood
+  rotate: false
+  xy: 1723, 607
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Greenblood Orphanage
+  rotate: false
+  xy: 4, 276
+  size: 840, 840
+  orig: 840, 840
+  offset: 0, 0
+  index: -1
+BuildingIcons/Greenwood Orphanage
+  rotate: false
+  xy: 1615, 391
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/House of Black and White
+  rotate: false
+  xy: 1723, 391
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Iron Bank Delegation
+  rotate: false
+  xy: 1452, 1247
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mistwood Smithy
+  rotate: false
+  xy: 1096, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Moon Door
+  rotate: false
+  xy: 1204, 126
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sellsword Quarters
+  rotate: false
+  xy: 1420, 120
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Thrall Billet
+  rotate: false
+  xy: 1939, 285
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tourney Grounds
+  rotate: false
+  xy: 1937, 175
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Histrionic
+  rotate: false
+  xy: 912, 1145
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+CityStateIcons/Neon Flamingos
+  rotate: false
+  xy: 1399, 652
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+CityStateIcons/Obstructive
+  rotate: false
+  xy: 1096, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Prejudiced
+  rotate: false
+  xy: 1204, 18
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/The Extreme Prejudice Society
+  rotate: false
+  xy: 1204, 18
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Revanchist
+  rotate: false
+  xy: 1312, 120
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Salacious (2)
+  rotate: false
+  xy: 1045, 220
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+CityStateIcons/The Night's Watch
+  rotate: false
+  xy: 1744, 67
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Young Dragon
+  rotate: false
+  xy: 252, 64
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Riverside Mud Farm
+  rotate: false
+  xy: 1772, 1033
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Bearded Bishop
+  rotate: false
+  xy: 1615, 715
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+UnitIcons/Bearded Bishop
+  rotate: false
+  xy: 1615, 715
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+NationIcons/Doctor
+  rotate: false
+  xy: 1397, 228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Dorne
+  rotate: false
+  xy: 1505, 228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Enfranchised
+  rotate: false
+  xy: 4, 28
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+UnitIcons/Enfranchised
+  rotate: false
+  xy: 4, 28
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+NationIcons/Garbage Island
+  rotate: false
+  xy: 1173, 234
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+NationIcons/Joy Lab
+  rotate: false
+  xy: 1723, 283
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Preservationist
+  rotate: false
+  xy: 912, 1361
+  size: 663, 663
+  orig: 663, 663
+  offset: 0, 0
+  index: -1
+UnitIcons/Preservationist
+  rotate: false
+  xy: 912, 1361
+  size: 663, 663
+  orig: 663, 663
+  offset: 0, 0
+  index: -1
+NationIcons/Purple People
+  rotate: false
+  xy: 1399, 868
+  size: 365, 365
+  orig: 365, 365
+  offset: 0, 0
+  index: -1
+UnitIcons/Purple People
+  rotate: false
+  xy: 1399, 868
+  size: 365, 365
+  orig: 365, 365
+  offset: 0, 0
+  index: -1
+NationIcons/The Crownlands
+  rotate: false
+  xy: 1528, 67
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Iron Islands
+  rotate: false
+  xy: 1636, 67
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The North
+  rotate: false
+  xy: 1829, 175
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Reach
+  rotate: false
+  xy: 1852, 67
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Riverlands
+  rotate: false
+  xy: 1823, 499
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Stormlands
+  rotate: false
+  xy: 1931, 501
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Vale
+  rotate: false
+  xy: 1831, 391
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Westerlands
+  rotate: false
+  xy: 1831, 283
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Unanda
+  rotate: false
+  xy: 1772, 825
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Bannerless Brotherhood Bowman
+  rotate: false
+  xy: 1128, 1153
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Brave Companions
+  rotate: false
+  xy: 1583, 1624
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+UnitIcons/Desert Viper
+  rotate: false
+  xy: 1399, 336
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dismounted Stormbringer
+  rotate: false
+  xy: 1507, 336
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dothraki Screamer
+  rotate: false
+  xy: 1399, 444
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Dragonrider
+  rotate: false
+  xy: 1615, 607
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Falcon Knight
+  rotate: false
+  xy: 1607, 499
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Goldcloak Cavalry
+  rotate: false
+  xy: 1715, 499
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Goldcloak Pikeman
+  rotate: false
+  xy: 1831, 609
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ironborn Reaver
+  rotate: false
+  xy: 1615, 283
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Knight of Flowers
+  rotate: false
+  xy: 1613, 175
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lockstep Legion
+  rotate: false
+  xy: 1336, 1245
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+UnitIcons/Mammoth Rider
+  rotate: false
+  xy: 1721, 175
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Marches Skirmisher
+  rotate: false
+  xy: 1939, 609
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Riverside Archer
+  rotate: false
+  xy: 464, 68
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Riverside Warrior
+  rotate: false
+  xy: 672, 68
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Stark House Guard
+  rotate: false
+  xy: 1312, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stormbringer
+  rotate: false
+  xy: 1420, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Swanwood Bowman
+  rotate: false
+  xy: 880, 169
+  size: 157, 171
+  orig: 157, 171
+  offset: 0, 0
+  index: -1
+UnitIcons/Thrall
+  rotate: false
+  xy: 1939, 393
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Water Dancer
+  rotate: false
+  xy: 4, 1124
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Galliance
+  rotate: false
+  xy: 988, 61
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Sellout
+  rotate: false
+  xy: 1583, 1241
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Unbowed
+  rotate: false
+  xy: 852, 348
+  size: 539, 768
+  orig: 539, 768
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Twin Keeps
+  rotate: false
+  xy: 4, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Water Garden
+  rotate: false
+  xy: 220, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Wetland Mill
+  rotate: false
+  xy: 328, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Batey
+  rotate: false
+  xy: 580, 75
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Cahokian Kurgan
+  rotate: false
+  xy: 436, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Crafter's Guild
+  rotate: false
+  xy: 789, 80
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Elam Mausoleum
+  rotate: false
+  xy: 909, 68
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Floating City
+  rotate: false
+  xy: 1029, 68
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Idendo-1
+  rotate: false
+  xy: 1109, 80
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Jolopong
+  rotate: false
+  xy: 1189, 79
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Kampung-2
+  rotate: false
+  xy: 1229, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Loko_Archer
+  rotate: false
+  xy: 1349, 80
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mahavihara
+  rotate: false
+  xy: 1389, 78
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Motte_and_Bailey
+  rotate: false
+  xy: 1469, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Nubian_Pyramid
+  rotate: false
+  xy: 1509, 71
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Oasis Farm
+  rotate: false
+  xy: 1549, 78
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Outback_Station
+  rotate: false
+  xy: 1629, 68
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Pa
+  rotate: false
+  xy: 1669, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Tibetan Kumbum
+  rotate: false
+  xy: 627, 76
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Triumphal Arch
+  rotate: false
+  xy: 1589, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Riverside Mud Farm
+  rotate: false
+  xy: 1749, 80
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bannerless Brotherhood Bowman
+  rotate: false
+  xy: 669, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bearded Bishop
+  rotate: false
+  xy: 709, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Brotherless Bannerhood Bowman
+  rotate: false
+  xy: 749, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crow
+  rotate: false
+  xy: 476, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dismounted Stormbringer
+  rotate: false
+  xy: 516, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dothraki Screamer
+  rotate: false
+  xy: 829, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dragon Rider
+  rotate: false
+  xy: 869, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Faceless Man
+  rotate: false
+  xy: 949, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Falcon Knight
+  rotate: false
+  xy: 989, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Goldcloak Cavalry
+  rotate: false
+  xy: 1069, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Goldcloak Pikeman
+  rotate: false
+  xy: 508, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ironborn Reaver
+  rotate: false
+  xy: 1149, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight of Flowers
+  rotate: false
+  xy: 1269, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lockstep Legion
+  rotate: false
+  xy: 1309, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mammoth Rider
+  rotate: false
+  xy: 1429, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Other
+  rotate: false
+  xy: 1589, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Riverside Archer
+  rotate: false
+  xy: 1709, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Riverside Warrior
+  rotate: false
+  xy: 1789, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sand Viper
+  rotate: false
+  xy: 1829, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sellsail
+  rotate: false
+  xy: 1869, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Stark House Guard
+  rotate: false
+  xy: 1909, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Stormbringer
+  rotate: false
+  xy: 1949, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swanwood Bowman
+  rotate: false
+  xy: 1989, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Thrall
+  rotate: false
+  xy: 580, 35
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tiger Cloak Guardsman
+  rotate: false
+  xy: 1549, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Unsullied
+  rotate: false
+  xy: 1629, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Water Dancer
+  rotate: false
+  xy: 1669, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Despondent
+  rotate: false
+  xy: 436, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Unbroken
+  rotate: false
+  xy: 112, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
