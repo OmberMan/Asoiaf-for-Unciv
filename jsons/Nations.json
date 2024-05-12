@@ -378,7 +378,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "personality": "Greyjoy",
 
-                "startBias": ["Ocean"],
+                "startBias": ["Coast"],
 
                 "preferredVictoryType": "Domination",
 
@@ -432,9 +432,9 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 		"defeated": "AaAahhahahhrhd NOO NO NO NO PLEAE!",
 		"introduction": "Rar XD :3",
 		
-		"neutralHello": "I AM THE GOD OF HELLFIRE",
-		"hateHello": "IMAGINE DRAG ON THIS DICK ACROSS YOUR MOUTH.",
-		"tradeRequest": "Dragon these nuts across your mouth",
+		"neutralHello": "You stand before the one true King of Westeros, the Andals, the Rhoynar, and the First Men.",
+		"hateHello": "IMAGINE DRAG ON THese nuts ACROSS YOUR MOUTH.",
+		"tradeRequest": "Uhm",
 		
 
                 "outerColor": [        28, 21, 25],
