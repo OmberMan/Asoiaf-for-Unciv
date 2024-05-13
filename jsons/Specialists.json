@@ -4,7 +4,15 @@
 		"science": 2,
 		"culture": 2,
   "food": 1,
-		"greatPersonPoints": {"Great Engineer":1},
+		"greatPersonPoints": {"Great Artist":1},
 		"color": [173, 142, 166]
+	},
+{
+		"name": "Pyromancer",
+		"science": 3,
+		"happiness": -1,
+  "production": 1,
+		"greatPersonPoints": {"Great Engineer":1},
+		"color": [189, 237, 66]
 	},
 ]
