@@ -23,6 +23,10 @@
 		"name": "Scourge of the Seas",
 		"uniques": ["May attack when embarked", "Earn [50]% of the damage done to [City] units as [Gold]", "Earn [20]% of the damage done to [Naval] units as [Gold]", "No movement cost to pillage"]
 	},
+{
+		"name": "Green Flames",
+		"uniques": ["[+50]% maintenance costs", "[+40]% Strength <when attacking> <with [50]% chance", "[+40]% Strength <when attacking> <vs [Water] units>", "[+40]% Strength <when attacking> <vs [Siege] units>", "Self-destructs when attacking <with [4]% chance> <when [wounded]>", "Earn [5]% of the damage done to [Military] units as [Science]", "Destroys tile improvements when attacking"]
+	},
 	{
 		"name": "Sellout",
 		"uniques": ["Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>", "Comment [Gains strengh the more [Gold] you have in your possession, but may flee from combat]", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Can move immediately once bought"]
