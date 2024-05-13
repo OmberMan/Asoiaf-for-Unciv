@@ -67,10 +67,10 @@ BuildingIcons/Greenwood Orphanage
   offset: 0, 0
   index: -1
 BuildingIcons/House of Black and White
-  rotate: false
-  xy: 1723, 391
-  size: 100, 100
-  orig: 100, 100
+rotate: false
+  xy: 912, 1145
+  size: 208, 208
+  orig: 208, 208
   offset: 0, 0
   index: -1
 BuildingIcons/Iron Bank Delegation
@@ -117,9 +117,9 @@ BuildingIcons/Tourney Grounds
   index: -1
 CityStateIcons/Histrionic
   rotate: false
-  xy: 912, 1145
-  size: 208, 208
-  orig: 208, 208
+  xy: 1723, 391
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Neon Flamingos
