@@ -11,7 +11,7 @@
                 "upgradesTo": "Cavalry",
   "requiredResource": "Horses",
                 "uniqueTo": "The Vale",
-                "uniques": ["Can move after attacking", "[+20]% Strength <when fighting in [Friendly land] tiles>", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "No defensive terrain bonus", "[+20]% Strength <when above [99] HP>", "[-33]% Strength <vs cities> <when attacking>"], 
+                "uniques": ["Can move after attacking", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "No defensive terrain bonus", "[+20]% Strength <when above [99] HP>", "[-33]% Strength <vs cities> <when attacking>"], 
                 "promotions": ["Death from Above"],
                 "civilopediaText": [
 {
@@ -33,7 +33,7 @@
                 "replaces": "Knight",
                 "movement": 3,
                 "strength": 22,
-                "cost": 140,
+                "cost": 136,
                 "hurryCostModifier": 35,
                 "requiredTech": "Chivalry",
                 "upgradesTo": "Cavalry",
@@ -66,7 +66,7 @@
                 "cost": 100,
                 "uniqueTo": "The Riverlands",
                 "hurryCostModifier": 150,
-                "requiredTech": "Machinery",
+                "requiredTech": "Theology",
                 "upgradesTo": "Gatling Gun",
                 "uniqueTo": "The Riverlands",
                 "uniques": ["Can move after attacking", "[+1] Sight", "No movement cost to pillage", "[-100]% maintenance costs", "[+33]% Strength when stacked with [Great Person]", "May withdraw before melee ([50]%)", "May capture killed [Land] units <with [15]% chance>", "Invisible to non-adjacent units <in [Forest] tiles>", "[+1] Movement <in [Forest] tiles>", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities> <when attacking>"], 
@@ -82,8 +82,8 @@
                 "unitType": "Sword",
                 "movement": 2,
                 "strength": 17,
-                "cost": 111,
-                "hurryCostModifier": -20,
+                "cost": 108,
+                "hurryCostModifier": -30,
                 "requiredTech": "Machinery",
                 "upgradesTo": "Gatling Gun",
                 "uniqueTo": "The Westerlands",
@@ -100,8 +100,8 @@
                 "unitType": "Mounted",
                 "movement": 4,
                 "strength": 20,
-                "cost": 148,
-                "hurryCostModifier": -20,
+                "cost": 144,
+                "hurryCostModifier": -30,
                 "requiredTech": "Chivalry",
                 "upgradesTo": "Cavalry",
                 "uniqueTo": "The Westerlands",
@@ -124,19 +124,19 @@
                 "requiredTech": "Chivalry",
                 "upgradesTo": "Cavalry",
                 "uniqueTo": "The Westerlands",
-                "uniques": ["This Unit gains [2] XP <upon ending a turn in a [Enemy land] tile>", "May withdraw before melee ([30]%)", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Can move immediately once bought", "Ignores Zone of Control", "May enter foreign tiles without open borders", "Heal this unit by [+20] HP <upon ending a turn in a [{Farm} {Enemy land}] tile>", "[+10]% Strength <when above [250] [Gold]>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [750] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1250] [Gold]>", "Unbuildable", "[+33]% Strength <when attacking> <vs [Wounded] units>", "Can only heal by pillaging", "No movement cost to pillage "], 
+                "uniques": ["This Unit gains [2] XP <upon ending a turn in a [Enemy land] tile>", "May withdraw before melee ([30]%)", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control", "May enter foreign tiles without open borders", "Heal this unit by [+20] HP <upon ending a turn in a [{Farm} {Enemy land}] tile>", "[+10]% Strength <when above [250] [Gold]>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [750] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1250] [Gold]>", "Unbuildable", "[+33]% Strength <when attacking> <vs [Wounded] units>", "Can only heal by pillaging", "No movement cost to pillage "], 
 "promotions": ["Drill I", "Shock I", "Sellout"],
                 "civilopediaText": [
                         {
                                 "text": "Spoiler Alert - They're actually not."
                         }
                 ],
-                "attackSound": "metalhit",
+                "attackSound": "womp",
    },
 {
 "name": "Stormbringer",
   "unitType": "Mounted",
-                "movement": 4,
+                "movement": 3,
                 "strength": 21,
                 "cost": 130,
                 "hurryCostModifier": 25,
@@ -147,13 +147,13 @@
                 "uniqueTo": "The Stormlands",
                 "uniques": ["[+25]% Strength <vs [Fortified] units>", "[+25]% Strength <vs [Sword] units>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 "promotions": ["Blitz"],
-"attackSound": "metalhit",
+"attackSound": "shockjock",
    },
 {
 "name": "Dismounted Stormbringer",
   "unitType": "Sword",
                 "movement": 2,
-                "strength": 22,
+                "strength": 21,
                 "cost": 130,
                 "hurryCostModifier": 25,
                 "requiredTech": "Chivalry",
@@ -163,20 +163,20 @@
                 "uniqueTo": "The Stormlands",
                 "uniques": ["[+50]% Strength <vs [Fortified] units>", "[+25]% Strength <vs [Sword] units>"],
 "promotions": ["Blitz"],
-"attackSound": "metalhit",
+"attackSound": "shockjock",
    },
           {
 "name": "Stark House Guard",
   "unitType": "Sword",
                 "movement": 2,
-                "strength": 20,
+                "strength": 19,
                 "cost": 105,
                 "hurryCostModifier": 25,
                 "requiredTech": "Metallurgy",
 "replaces": "Longswordsman",                
           "upgradesTo": "Musketman",
                 "uniqueTo": "The North",
-                "uniques": ["[+15]% Strength <when defending>", "[+30]% Strength decreasing with distance from the capital", "[+15]% Strength when stacked with [Great General]"],
+                "uniques": ["[+10]% Strength <when defending>", "[+33]% Strength decreasing with distance from the capital", "[+15]% Strength when stacked with [Great General]"],
 "attackSound": "metalhit",
    },
 {
@@ -190,9 +190,9 @@
                 "upgradesTo": "Musketman",
 "replaces": "Pikeman",
                 "uniqueTo": "Dorne",
-                "uniques": ["[+20]% Strength <when attacking> <vs [Wounded] units>", "[+25]% Strength <vs [Mounted] units>", "May withdraw before melee ([40]%)", "Can move after attacking", "[+50]% Strength <vs [Ranged] units> <when defending> <in [Desert] tiles>"],
+                "uniques": ["[+50]% Strength <when attacking> <vs [Wounded] units>", "[+25]% Strength <vs [Mounted] units>", "May withdraw before melee ([40]%)", "Can move after attacking", "[+50]% Strength <vs [Ranged] units> <when defending> <in [Desert] tiles>"],
 "promotions": ["Unbent"],
-"attackSound": "metalhit",
+"attackSound": "hiss",
    },
    {
 "name": "Marches Skirmisher",
@@ -265,7 +265,7 @@
                 "range": 8,
                 "cost": 300,
                 "requiredTech": "Trapping",
-                "uniques": ["[-10] HP when healing","[+400]% maintenance costs", "[-25]% Strength <vs cities>", "[-25]% Strength <vs [Ranged] units>", "Can transform to [Dragonrider]", "[-20]% Strength <vs [Ranged Gunpowder] units>", "[-20]% Strength <vs [Gunpowder] units>", "[-50]% Strength <vs [Armored] units>", "[-40]% Strength <vs [Air] units>", "[+25]% Strength <vs [Naval] units> <when attacking>", "[+25]% Strength <vs [Siege]> <when attacking>", "[-33]% XP gained from combat"],
+                "uniques": ["[-10] HP when healing","[+400]% maintenance costs", "[-25]% Strength <vs cities>", "[-25]% Strength <vs [Ranged] units>", "Can transform to [Dragonrider]", "[-20]% Strength <vs [Ranged Gunpowder] units>", "[-20]% Strength <vs [Gunpowder] units>", "[-50]% Strength <vs [Armored] units>", "[-40]% Strength <vs [Air] units>", "[+25]% Strength <vs [Naval] units> <when attacking>", "[+25]% Strength <vs [Siege] units> <when attacking>", "[-33]% XP gained from combat"],
                 "hurryCostModifier": 50,
                 "attackSound": "torpedo",
                 "civilopediaText": [
@@ -296,7 +296,7 @@
                 "replaces": "Swordsman",
                 "uniques": ["[+100]% Strength <when attacking>", "[+200]% Strength <when defending> <vs [Sword] units>", "[+50]% to Flank Attack bonuses", "Can move after attacking", "Ignores Zone of Control", "[+1] additional attacks per turn", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>"], 
                 "promotions": ["Sellout"],
-                "attackSound": "metalhit"
+                "attackSound": "swish"
    },
 {
 "name": "Bearded Bishop",
@@ -309,7 +309,7 @@
                 
                 "uniques": ["[+20]% Strength <vs [Sword] units>", "[+15]% Strength <when fighting in [Hill] tiles>", "Prevents spreading of religion to the city it is next to", "[+10]% Strength bonus for [Land] units within [1] tiles", "[+5]% Strength bonus for [Land] units within [2] tiles", "[-5]% Strength for enemy [Land] units in adjacent [Land] tiles", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can be purchased with [Faith] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>"], 
 "promotions": ["Sellout"],
-                "attackSound": "metalhit",
+                "attackSound": "bellend",
    },
 {
 "name": "Faceless Man",
@@ -383,7 +383,7 @@
                 "upgradesTo": "Musketman",
                 "uniques": ["[+67]% Strength <when attacking> <with [33]% chance>", "This Unit gains [1] XP <upon ending a turn in a [Enemy land] tile>", "May withdraw before melee ([20]%)", "Can move after attacking", "Can move immediately once bought", "[1] Movement point cost to disembark", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "[+10]% Strength <when above [300] [Gold]>", "[+10]% Strength <when above [600] [Gold]>", "[+10]% Strength <when above [900] [Gold]>", "[+10]% Strength <when above [1200] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Earn [33]% of killed [Military] unit's [Strength] as [Gold]", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>"],
 "promotions": ["Sellout"],
-                "attackSound": "metalhit",
+                "attackSound": "shank",
    },
 {
 "name": "Swanwood Bowman",
@@ -397,6 +397,6 @@
                 "upgradesTo": "Gatling Gun",
                 "uniques": ["[+1] Range", "Defense bonus when embarked", "[+25]% Strength <when attacking> <vs [non-[Wounded]] units>", "May withdraw before melee ([10]%)", "Can move immediately once bought", "[1] Movement point cost to embark", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [-10]% of the damage done to [Enemy] units as [Gold]"],
 "promotions": ["Sellout"],
-                "attackSound": "Arrow",
+                "attackSound": "arrow",
    },
 ]
