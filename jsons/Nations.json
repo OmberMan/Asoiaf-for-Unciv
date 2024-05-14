@@ -522,7 +522,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "attacked": "Your faith was strong but you needed proof
 \nSaw her bathing on the roof
 \nHer beauty and the moonlight overthrew her",
-                "defeated": "Augh! From a city built on slaves to one built on catacombs. What a fate for the pearl of old Valyria.",
+                "defeated": "Augh! From a city built on slaves to one built on catacombs. The true tragedy is a slow death.",
                 "outerColor": [0, 0, 0],
   "innerColor": [210, 2040, 80],
   "uniques": ["[+1 Food] from every [Gold]", "Free [Tiger Cloak Guard] appears <every [5] turns>"],
@@ -541,9 +541,10 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
   "innerColor": [200, 190, 200],
   "uniques": ["[+3 Production] from all [Walls] buildings", "[+1 Production] from [Fort] tiles [in all cities]", "New [Scout] units start with [30] Experience [in all cities]", "[+300]% Strength for cities"],
                 "cities": ["The Wall", "Brandon's Gift"]
-        },
+        }
 ]
-/*{                
+/*
+{     
   "name": "Myr",
 
                 "leaderName": "Carmine Lupertazzi",
@@ -555,11 +556,11 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "style": "Mediterranean",
 
-                "declaringWar": "Your time has come. I won't bother explaining it to you.",
+                "declaringWar": "Your time's up. I won't bother explaining it to you.",
                 "attacked": "What's the meaning of this shit!",
-                "defeated": "The only beacon of progress and enlightenment in this godforsaken world has been snuffed out. \nEnjoy the eternal dark age you have damned us all to.",
+                "defeated": "The only beacon of progress and enlightenment in this godforsaken world has been snuffed out. I couldn't stand living here another hour longer anyways. Enjoy living with the guilt for the rest of your life!",
                 "outerColor": [0, 0, 0],
-  "innerColor": [40, 220, 20],
+  "innerColor": [60, 225, 30],
   "uniques": ["[+1 Science] from every [Culture]", "Free [Myrish Crossbowman] appears <every [5] turns>"],
 	"cities": ["Myr", "New West Grestin"]
         },
