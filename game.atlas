@@ -583,6 +583,132 @@ TileSets/FantasyHex/Improvements/Kampung
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Loko_Archer
+  rotate: false
+  xy: 1349, 80
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Mahavihara
+  rotate: false
+  xy: 1389, 78
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Motte_and_Bailey
+  rotate: false
+  xy: 1469, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Nubian_Pyramid
+  rotate: false
+  xy: 1509, 71
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Oasis Farm
+  rotate: false
+  xy: 1549, 78
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Meat Mill
+  rotate: false
+  xy: 1629, 68
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/ImprovementsPa
+  rotate: false
+  xy: 1669, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Tibetan Kumbum
+  rotate: false
+  xy: 627, 76
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Triumphal Arch
+  rotate: false
+  xy: 1589, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Riverside Mud Farm
+  rotate: false
+  xy: 1749, 80
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Batey
+  rotate: false
+  xy: 580, 75
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Cahokian Kurgan
+  rotate: false
+  xy: 436, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Crafter's Guild
+  rotate: false
+  xy: 789, 80
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Elam Mausoleum
+  rotate: false
+  xy: 909, 68
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Taetaerkt
+  rotate: false
+  xy: 1029, 68
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Idendo
+  rotate: false
+  xy: 1109, 80
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Jolopong
+  rotate: false
+  xy: 1189, 79
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Improvements/Kampung
+  rotate: false
+  xy: 1229, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Loko_Archer
   rotate: false
   xy: 1349, 80
