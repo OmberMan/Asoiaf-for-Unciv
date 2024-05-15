@@ -2,10 +2,10 @@
 {  
           "name": "Obstructive",  
           "friendBonusUniques": [   
-              "[+50]% Strength] <vs [Barbarian] units>",  "[-25]% maintenance costs <for [Land] units>", "Free [Crow] appears <in [Capital] cities>", "[+50]% Strength for cities"
+              "[+50]% Strength <vs [Barbarian] units>",  "[-25]% maintenance costs <for [Land] units>", "Free [Crow] appears <in [Capital] cities>", "[+50]% Strength for cities"
 ],
 
-          "allyBonusUniques": ["[+100]% Strength] <vs [Barbarian] units>",  "[-50]% maintenance costs <for [Land] units>", "Free [Crow] appears <in [Capital] cities> <every [10] turns>", "[+100]% Strength for cities"],  
+          "allyBonusUniques": ["[+100]% Strength <vs [Barbarian] units>",  "[-50]% maintenance costs <for [Land] units>", "Free [Crow] appears <in [Capital] cities> <every [10] turns>", "[+100]% Strength for cities"],  
           "color": [200, 190, 200]
       },                
   {  
@@ -21,9 +21,9 @@
             "[+6 Faith] <before the [Medieval era]>",
             "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+26 Faith] <starting from the [Industrial era]>",
-			"[+2 Faith] from [Trading post] tiles [in all cities]",
+			"[+1 Faith, +1 Production] from [{Trading post} {Hill}] tiles [in all cities]",
 "[+2 Happiness] from all [Faith] buildings <before the [Medieval era]>",
-"[+3 Happiness] from all [Faith] buildings <starting from the [Medieval era]>"
+"[+3 Happiness] from all [Faith] buildings <starting from the [Medieval era]>",
             "Unique Building [Essosi Sellsword Camp]", "Free [Bearded Bishop] appears <in [Capital] cities> <every [20] turns>", "[Gold] cost of purchasing [Bearded Bishop] units [-33]%", "Unique Building [Bell Tower]", "Provides [1] [Eastern Check]"
         ],
         "color": [255, 255, 255]
@@ -100,5 +100,27 @@
             "Free [Tiger Cloak Guard] appears <every [20] turns> <in [Capital] cities>", "[Gold] cost of purchasing [Tiger Cloak Guard] units [-75]%", "Provides [1] [Eastern Check]"
         ],
         "color": [210, 204, 80]
+    },
+  {  
+          "name": "Myr",  
+          "friendBonusUniques": [   
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
+			"[+1 Science] from every [Artist]",
+"[+1 Culture] from every [Engineer]"
+        ],
+        "allyBonusUniques":  [
+                    "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
+			"[+1 Science, +1 Gold] from every [Artist]",
+"[+2 Culture] from every [Engineer]",
+"[+2 Culture] from all [Science] buildings <before the [Medieval era]>",
+"[+3 Culture] from all [Science] buildings <starting from the [Medieval era]>",
+"Provides a unique luxury",
+            "Unique Building [Essosi Sellsword Camp]", "Free [Myrish Crossbow] appears <in [Capital] cities> <every [15] turns>", "[Gold] cost of purchasing [Myrish Crossbow] units [-33]%", "Provides [1] [Eastern Check]"
+        ],
+        "color": [255, 255, 255]
     },
 ]
