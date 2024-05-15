@@ -20,13 +20,13 @@
 
                 "attacked": "Why is it always the innocents who suffer most, \nwhen you high lords play your Game of Thrones?",
 
-                "defeated":  "I cannot believe it all turned out like this... \nI swear to you, this has never happened to me before... \nthis is truly the moment Ned Stark became dead Stark...",
+                "defeated":  "Ned's dead son.",
 
 "neutralHello": "You've called for me, Lord grmbmblgrm?",
 	
                 "hateHello": "Do you have a shred of honor?",
 
-"introduction":  "Ned's dead, son.",
+"introduction":  "Aye, I see you.",
 
 
                 "hateLetsHearIt": ["Speak!"],
@@ -64,13 +64,13 @@
 
                 "declaringWar": "You know what, I'm gonna be completely honest. I'm tired of waiting for some kingdom to kick the shit out of us again. \nJust end it, ok? I can't stand this anymore.",
 
-                "attacked": "A war in the 4iverlands? \nAt this time of year? \nAt this time of day? \nIn this part of the country? \nLocalized entirely up my ass?\nIncredible \nunprecedented.",
+                "attacked": "A war in the Riverlands? \nAt this time of year? \nAt this time of day? \nIn this part of the country? \nLocalized entirely up my ass?\nIncredible \nunprecedented.",
 
                 "defeated":  "Better a sword than a rope. Do it.",
 
                 "introduction":  "About time we were invaded again.",
 
-                "neutralHello": "LIFE IS PAIN, I HATE- \noh hello.",
+                "neutralHello": "Should I be flattered by this visit?",
 
                 "hateHello": "You will never know how sick it makes me to see you in this room, cringe player. You will never know how much I despise you",
 
@@ -83,7 +83,7 @@
                 "uniqueName": "It's a hard knock life",
 
                 "uniques": ["[+1 Food, -1 Production] from [Farm] tiles [in all cities]", 
-                  "[+1 Food] from [Farm] tiles [in all cities] <in [River] tiles>", "[+1 Food] from [Marsh] tiles [in all cities]",
+                  "[+1 Food] from [Farm] tiles [in all cities] <in [River] tiles>",
                   "[+1 Gold, +1 Culture] from [Citadel] tiles [in all cities]", 
                   "[+2 Food] [in all cities] <in [River] tiles>", "[+10]% [Gold] [in all cities] <in [River] tiles>", "[+1] Movement <in [River] tiles> <for [Military] units>" ],
 
@@ -154,7 +154,7 @@
 
                 "defeated":  "Huh... \n   ...? \n\n ...What? \n\n\n\n\n             What?",
 
-                "introduction":  "I am a rock, I am an is~land.",
+                "introduction":  "I am a rock, I am an i \n sland.",
 
                 "neutralHello": "Why did you come here? \n    How could you come to the Vale!? \nHaven't you seen my letters?! \n    Have you no decency? \n Who are these people? \n     Why would you bring them here into my home?! \n   Do you realize what you've done? \n  Haven't you seen it yourself? \n The Eyrie is impregnable! \n No one can harm us up here! \nNo one! \n    What do you want!?",
 
@@ -341,13 +341,13 @@ Be bop ba bodda bope
 Bop ba bodda
 Ba-da-ba-da-ba-be bop ba bodda bope",
 
-                "attacked": "Size does not matter when you're flat on your back.",
+                "attacked": "Size does not matter when you're \nflat on your back.",
 
                 "defeated":  "Today is not the day I die.",
 
                 "introduction":  "If the gods were cruel, they would have made me my mother’s firstborn, \nand Doran her third. \n                I am a bloodthirsty man, you see. \n       But it is me you must contend with now, not my patient, prudent, gouty brother",
 
-                "neutralHello": "When It Comes To War, I Fight For Dorne. When It Comes To Love... I Don't Choose Sides.",
+                "neutralHello": "When It Comes To War, I Fight For Dorne. \nWhen It Comes To Love... I Don't Choose Sides.",
 
                 "hateHello": "After I turn sad, I grow angry.",
 
@@ -390,7 +390,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "tradeRequest": "Kneel. I am your king. I am your god. Worship me, and I will raise you up to be my priest.",
 
-                "defeated":  "Yarr Harr fiddly dee, I love- \n        What? \n\n\n   We... Lost? \n  Shit, uh... \n\n\nPerhaps we can fly. \n All of us. \n  How will we ever know unless we leap from some tall tower? \n   No man ever truly knows what he can do unless he dares to leap. \n Y'know, fuck, I was sure we'd be getting outta this one.",
+                "defeated":  "Yarr Harr fiddly dee, I love- \n        What? \n\n\n Wow, ah...  \n\nThis is embarrassing. \n Seriously I swear this never happens to me, \n     just, let me... \n\n\n  Y'know, uh... \n\n\Fuck, I was sure we'd be getting outta this one.",
 
                 "introduction":  "We are the ironborn, and once we were conquerors. Our writ ran everywhere the sound of the waves was heard.",
 
@@ -398,7 +398,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "hateHello": "I am the strom. The first storm, and the last.",
 
-                "attacked": "Huh? \n  Well fuck. \n\nThis is embarrassing. \n Seriously I swear this never happens to me, \n     just... \n\n\n\n          Give me a minute...",
+                "attacked": "How will we ever know unless we leap from some tall tower? \n   No man ever truly knows what he can do unless he dares to leap.",
 
                 "outerColor": [129, 137, 144],
 
@@ -433,8 +433,8 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 		"introduction": "Rar XD :3",
 		
 		"neutralHello": "You stand before the one true King of Westeros, the Andals, the Rhoynar, and the First Men.",
-		"hateHello": "IMAGINE DRAG ON THese nuts ACROSS YOUR MOUTH.",
-		"tradeRequest": "Uhm",
+		"hateHello": "IMAGINE drag on THese nuts across your mouth wa hey.",
+		"tradeRequest": "A king must be gracious when necessary. A dragon may be gracious whenever he wants.",
 		
 
                 "outerColor": [        24, 19, 21],
@@ -561,7 +561,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
   "innerColor": [60, 225, 30],
   "uniques": ["[+1 Culture] from every [Science]", "Free [Myrish Crossbowman] appears <in [All] cities> <every [6] turns>"],
 	"cities": ["Myr", "New West Grestin"]
-        },
+        }
 ]
 /*
 {                
