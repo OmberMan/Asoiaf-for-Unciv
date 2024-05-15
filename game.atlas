@@ -234,7 +234,7 @@ NationIcons/Garbage Island
   orig: 106, 106
   offset: 0, 0
   index: -1
-NationIcons/Joy Lab
+UnitIcons/Unsullied
   rotate: false
   xy: 1723, 283
   size: 100, 100
@@ -653,70 +653,63 @@ TileSets/FantasyHex/Tiles/Riverside Mud Farm
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Batey
+TileSets/HexaRealm/Improvements/Batey
   rotate: false
   xy: 580, 75
   size: 39, 33
   orig: 39, 33
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Cahokian Kurgan
+TileSets/HexaRealm/Improvements/Cahokian Kurgan
   rotate: false
   xy: 436, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Crafter's Guild
+TileSets/HexaRealm/Improvements/Crafter's Guild
   rotate: false
   xy: 789, 80
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Elam Mausoleum
+TileSets/HexaRealm/Improvements/Elam Mausoleum
   rotate: false
   xy: 909, 68
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Taetaerkt
+TileSets/HexaRealm/Improvements/Taetaerkt
   rotate: false
   xy: 1029, 68
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Idendo
+TileSets/HexaRealm/Improvements/Idendo
   rotate: false
   xy: 1109, 80
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Jolopong
+TileSets/HexaRealm/Improvements/Jolopong
   rotate: false
   xy: 1189, 79
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Kampung
+TileSets/HexaRealm/Improvements/Kampung
   rotate: false
   xy: 1229, 76
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-ImprovementIcons/Loko_Archer
-  rotate: false
-  xy: 1349, 80
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Improvements/Mahavihara
+TileSets/HexaRealm/Improvements/Mahavihara
   rotate: false
   xy: 1389, 78
   size: 32, 30
@@ -730,49 +723,49 @@ ImprovementIcons/Motte_and_Bailey
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Nubian_Pyramid
+TileSets/HexaRealm/Improvements/Nubian_Pyramid
   rotate: false
   xy: 1509, 71
   size: 32, 37
   orig: 32, 37
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Oasis Farm
+TileSets/HexaRealm/Improvements/Oasis Farm
   rotate: false
   xy: 1549, 78
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Meat Mill
+TileSets/HexaRealm/Improvements/Meat Mill
   rotate: false
   xy: 1629, 68
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
-ImprovementIcons/Pa
+TileSets/HexaRealm/Improvements/Pa
   rotate: false
   xy: 1669, 76
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Tibetan Kumbum
+TileSets/HexaRealm/Improvements/Tibetan Kumbum
   rotate: false
   xy: 627, 76
   size: 34, 32
   orig: 34, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Triumphal Arch
+TileSets/HexaRealmImprovements/Triumphal Arch
   rotate: false
   xy: 1589, 36
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Riverside Mud Farm
+TileSets/HexaRealm/Tiles/Riverside Mud Farm
   rotate: false
   xy: 1749, 80
   size: 32, 28
