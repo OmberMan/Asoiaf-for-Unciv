@@ -136,7 +136,7 @@ CityStateIcons/Obstructive
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Titanic
+CityStateIcons/Padanian
   rotate: false
   xy: 1204, 18
   size: 100, 100
@@ -241,7 +241,7 @@ UnitIcons/Unsullied
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Preservationist
+CityStateIcons/Bewhiskered
   rotate: false
   xy: 912, 1361
   size: 663, 663
@@ -597,7 +597,7 @@ TileSets/FantasyHex/Improvements/Mahavihara
   orig: 32, 30
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Improvements/Motte_and_Bailey
+TileSets/FantasyHex/Improvements/Twin_Keeps
   rotate: false
   xy: 1469, 76
   size: 32, 32
@@ -625,7 +625,7 @@ TileSets/FantasyHex/Improvements/Meat Mill
   orig: 32, 40
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/ImprovementsPa
+TileSets/FantasyHex/Improvements/Tipi
   rotate: false
   xy: 1669, 76
   size: 32, 32
@@ -716,7 +716,7 @@ TileSets/HexaRealm/Improvements/Mahavihara
   orig: 32, 30
   offset: 0, 0
   index: -1
-ImprovementIcons/Motte_and_Bailey
+TileSets/HexaRealm/Improvements/Motte_and_Bailey
   rotate: false
   xy: 1469, 76
   size: 32, 32
@@ -744,7 +744,7 @@ TileSets/HexaRealm/Improvements/Meat Mill
   orig: 32, 40
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Improvements/Pa
+TileSets/HexaRealm/Improvements/Tipi
   rotate: false
   xy: 1669, 76
   size: 32, 32
