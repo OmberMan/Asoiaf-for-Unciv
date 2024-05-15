@@ -541,9 +541,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
   "innerColor": [200, 190, 200],
   "uniques": ["[+3 Production] from all [Walls] buildings", "[+1 Production] from [Fort] tiles [in all cities]", "New [Scout] units start with [30] Experience [in all cities]", "[+150]% Strength for cities", "Free [Crow] appears <every [4] turns> <in [All] cities],
                 "cities": ["The Wall", "Brandon's Gift"]
-        }
-]
-/*
+        },
 {     
   "name": "Myr",
 
@@ -556,14 +554,16 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "style": "Mediterranean",
 
-                "declaringWar": "Your time's up. I won't bother explaining it to you.",
+                "declaringWar": "Your time is up. I won't bother explaining it to you.",
                 "attacked": "What's the meaning of this shit!",
-                "defeated": "The only beacon of progress and enlightenment in this godforsaken world has been snuffed out. I couldn't stand living here another hour longer anyways. Enjoy living with the guilt for the rest of your life!",
+                "defeated": "The only beacon of progress and enlightenment in this godforsaken world has been snuffed out. Y'know, I couldn't stand living here another hour longer anyways. Enjoy living with the guilt for the rest of your life!",
                 "outerColor": [0, 0, 0],
   "innerColor": [60, 225, 30],
-  "uniques": ["[+1 Science] from every [Culture]", "Free [Myrish Crossbowman] appears <in [All] cities> <every [6] turns>"],
+  "uniques": ["[+1 Culture] from every [Science]", "Free [Myrish Crossbowman] appears <in [All] cities> <every [6] turns>"],
 	"cities": ["Myr", "New West Grestin"]
         },
+]
+/*
 {                
   "name": "Pentos",
 
