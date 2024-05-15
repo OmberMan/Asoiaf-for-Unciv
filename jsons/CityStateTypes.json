@@ -121,6 +121,6 @@
 "Provides a unique luxury",
             "Unique Building [Essosi Sellsword Camp]", "Free [Myrish Crossbow] appears <in [Capital] cities> <every [15] turns>", "[Gold] cost of purchasing [Myrish Crossbow] units [-33]%", "Provides [1] [Eastern Check]"
         ],
-        "color": [255, 255, 255]
+        "color": [60, 225, 30]
     },
 ]
