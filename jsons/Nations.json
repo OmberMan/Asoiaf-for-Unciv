@@ -22,7 +22,7 @@
 
                 "defeated":  "I cannot believe it all turned out like this... \nI swear to you, this has never happened to me before... \nthis is truly the moment Ned Stark became dead Stark...",
 
-"hateHello": "You've called for me, Lord grmbmblgrm?",
+"neutralHello": "You've called for me, Lord grmbmblgrm?",
 	
                 "hateHello": "Do you have a shred of honor?",
 
@@ -463,7 +463,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "defeated": "This is fine. I die a free man, fortunate for me. You will too, in a couple days, weeks, soon enough. But liberty will never die.",
                 "outerColor": [0, 0, 0],
   "innerColor": [205, 190, 200],
-  "uniques": ["[+3 Gold] from every [Specialist]", "Free [Water Dancer] appears <every [6] turns>"],
+  "uniques": ["[+3 Gold] from every [Specialist]", "Free [Water Dancer] appears <every [6] turns> <in [All] cities>", "Free [Faceless Man] appears <every [21] turns> <in [All] cities>"],
 	"cities": ["Braavos", "Braavdos"]
         },
 {                
@@ -483,7 +483,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "defeated": "I actually hate this. Always have. I don't even know what our god is called.",
                 "outerColor": [0, 0, 0],
   "innerColor": [195, 140, 70],
-  "uniques": ["[+1 Happiness] from every [Faith]", "Free [Bearded Bishop] appears <every [5] turns>"],
+  "uniques": ["[+1 Happiness] from every [Faith]", "Free [Bearded Bishop] appears <every [6] turns> <in [All] cities>"], 
 	"cities": ["Norvos", "Tellum"]
         },
 {                
@@ -503,7 +503,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "defeated": "To the victor go the spoils. Consider yourself blessed.",
                 "outerColor": [0, 0, 0],
   "innerColor": [240, 90, 245],
-  "uniques": ["[+1 Culture] from every [Happiness]", "Free [Sellsail] appears <every [5] turns>"],
+  "uniques": ["[+1 Culture] from every [Happiness]", "Free [Sellsail] appears <every [6] turns> <in [All] cities>"],
 	"cities": ["Lys", "The cum shaft"]
         },
 {                
@@ -525,7 +525,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "defeated": "Augh! From a city built on slaves to one built on catacombs. The true tragedy is a slow death.",
                 "outerColor": [0, 0, 0],
   "innerColor": [210, 2040, 80],
-  "uniques": ["[+1 Food] from every [Gold]", "Free [Tiger Cloak Guard] appears <every [5] turns>"],
+  "uniques": ["[+1 Food] from every [Gold]", "Free [Tiger Cloak Guard] appears <every [5] turns> <in [All] cities>"],
         "cities": ["Volantis", "Gimmie the shlock shock jock"]
         },
 {
@@ -539,7 +539,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "defeated": "I fought. I lost. And now my watch has ended. \nIf could go back in time, I pray I would've done it all the same.",
                 "outerColor": [0, 0, 0],
   "innerColor": [200, 190, 200],
-  "uniques": ["[+3 Production] from all [Walls] buildings", "[+1 Production] from [Fort] tiles [in all cities]", "New [Scout] units start with [30] Experience [in all cities]", "[+300]% Strength for cities"],
+  "uniques": ["[+3 Production] from all [Walls] buildings", "[+1 Production] from [Fort] tiles [in all cities]", "New [Scout] units start with [30] Experience [in all cities]", "[+150]% Strength for cities", "Free [Crow] appears <every [4] turns> <in [All] cities],
                 "cities": ["The Wall", "Brandon's Gift"]
         }
 ]
@@ -561,7 +561,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "defeated": "The only beacon of progress and enlightenment in this godforsaken world has been snuffed out. I couldn't stand living here another hour longer anyways. Enjoy living with the guilt for the rest of your life!",
                 "outerColor": [0, 0, 0],
   "innerColor": [60, 225, 30],
-  "uniques": ["[+1 Science] from every [Culture]", "Free [Myrish Crossbowman] appears <every [5] turns>"],
+  "uniques": ["[+1 Science] from every [Culture]", "Free [Myrish Crossbowman] appears <in [All] cities> <every [6] turns>"],
 	"cities": ["Myr", "New West Grestin"]
         },
 {                
