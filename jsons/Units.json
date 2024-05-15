@@ -25,7 +25,7 @@
                                 "text": "Holy guacamole is that a motherfucking berserk reference?!?"
                         }
                 ],
-                "attackSound": "horse",
+                "attackSound": "falcon",
    },
 {
 "name": "Knight of Flowers",
@@ -131,7 +131,7 @@
                                 "text": "Spoiler Alert - They're actually not."
                         }
                 ],
-                "attackSound": "womp",
+                "attackSound": "wally",
    },
 {
 "name": "Stormbringer",
@@ -283,7 +283,7 @@
                 "upgradesTo": "Musketman",
                 "uniques": ["[+50]% Strength <vs [Barbarian] units>", "This Unit gains [2] XP <upon ending a turn in a [Enemy land] tile>", "May withdraw before melee ([20]%)", "Can move after attacking", "Uncapturable", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Invisible to non-adjacent units <in [Rough terrain] tiles> <in tiles without [Enemy land]>", "[+1] Sight", "Earn [50]% of killed [Barbarian] unit's [Strength] as [Culture]", "[-10] HP when healing", "[-100]% maintenance costs", "Ignores terrain cost", "Can build [Fort] improvements on tiles"],
 "promotions": ["Drill I"],
-                "attackSound": "metalhit",
+                "attackSound": "shank",
    },
 {
 "name": "Water Dancer",
@@ -296,7 +296,7 @@
                 "replaces": "Swordsman",
                 "uniques": ["[+100]% Strength <when attacking>", "[+200]% Strength <when defending> <vs [Sword] units>", "[+50]% to Flank Attack bonuses", "Can move after attacking", "Ignores Zone of Control", "[+1] additional attacks per turn", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>"], 
                 "promotions": ["Sellout"],
-                "attackSound": "swish"
+                "attackSound": "florish"
    },
 {
 "name": "Bearded Bishop",
@@ -321,7 +321,7 @@
                 "requiredTech": "Mathematics",
                 
                 "uniques": ["[+500]% Strength <when attacking> <vs [{Land} {Military}] units>", "Ignores Zone of Control", "Earn [-500]% of killed [Land] unit's [Strength] as [Gold]", "May enter foreign tiles without open borders", "Can only attack [Military] units", "May withdraw before melee ([67]%)", "Invisible to non-adjacent units", "Unable to capture cities", "Unable to pillage tiles", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [House of Black and White]>"], 
-                "attackSound": "throw",
+                "attackSound": "Woah",
    },
 {
 "name": "Tiger Cloak Guard",
@@ -370,7 +370,7 @@
                 "upgradesTo": "Cavalry",
                 "uniques": ["[+50]% Strength <when attacking>", "May withdraw before melee ([10]%)", "Can move after attacking", "[+1] additional attacks per turn", "No defensive terrain bonus", "[-10]% Strength for enemy [Land] units in adjacent [Land] tiles", "[-75]% Strength <vs cities> <when attacking>", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Can move immediately once bought", "Earn [-10]% of the damage done to [Enemy] units as [Gold]", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>"],
 "promotions": ["Sellout"],
-                "attackSound": "horse",
+                "attackSound": "screm",
    },
 {
 "name": "Sellsail",
