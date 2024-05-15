@@ -413,4 +413,17 @@
 "promotions": ["Sellout", "Shock I"],
                 "attackSound": "arrow",
    },
+{
+"name": "Other",
+  "unitType": "Sword",
+                "movement": 1,
+                "strength": 29,
+                "cost": 240,
+                "hurryCostModifier": 0,
+                "requiredTech": "Engineering",
+                "uniqueTo": "The Barbarians",
+                "uniques": ["[+25]% Strength <vs [Fortified] units>", "[+25]% Strength <vs [Sword] units>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+"promotions": ["March"],
+"attackSound": "shockjock",
+   },
 ]
