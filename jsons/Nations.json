@@ -85,7 +85,7 @@
                 "uniques": ["[+1 Food, -1 Production] from [Farm] tiles [in all cities]", 
                   "[+1 Food] from [Farm] tiles [in all cities] <in [River] tiles>",
                   "[+1 Gold, +1 Culture] from [Citadel] tiles [in all cities]", 
-                  "[+2 Food] [in all cities] <in [River] tiles>", "[+10]% [Gold] [in all cities] <in [River] tiles>", "[+1] Movement <in [River] tiles> <for [Military] units>" ],
+                  "[+15]% [Gold] [in all cities] <in [River] tiles>", "[+1] Movement <in [River] tiles> <for [Military] units>"],
 
                 "cities": ["Riverrun","Harrenhall","Maidenpool","Stony Sept","The Twin","The 2nd Twin","Fairmarket","Saltpans","Seaguard"]
         },
@@ -189,7 +189,7 @@
 
 
 //  "favoredReligion": "The Seven",
-"style": "Slavic",
+"style": "Germanic",
 
                 "declaringWar": "SURROUNDED BY LANNISTERS! EVERY TIME I CLOSE MY EYES I SEE THEIR BLONDE HAIR AND THEIR SMUG, SATISFIED FACES! \nOUT! OUT, DAMN YOU! \nI'M DONE WITH YOU! \nGO, RUN BACK TO WINTERFELL! I'LL HAVE YOUR HEAD ON A SPIKE!",
 
@@ -353,7 +353,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "tradeRequest": "It's a big and beautiful world. Most of us live and die in the same corner where we were born and never get to see any of it. I don’t want to be most of us.",
 
-                "outerColor": [202, 91, 21],
+                "outerColor": [202, 61, 21],
 
                 "innerColor": [248, 225, 86],
 
@@ -396,7 +396,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "neutralHello": "Godless? Why I am the godliest man ever to raise sail! \nYou serve one god, but I have served ten thousand. \nFrom Ib to Asshai, when men see my sails, they pray.",
 
-                "hateHello": "I am the strom. The first storm, and the last.",
+                "hateHello": "I am the storm. The first storm, and the last.",
 
                 "attacked": "How will we ever know unless we leap from some tall tower? \n   No man ever truly knows what he can do unless he dares to leap.",
 
@@ -419,7 +419,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "personality": "Targaryen",
 
-                "startBias": ["Coast"],
+                "startBias": ["Hill"],
 
                 "preferredVictoryType": "Diplomatic",
 
@@ -427,14 +427,14 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
   //"favoredReligion": "The Old Gods",
 
-                "declaringWar": "The Dragon treads where it pleases!",
+                "declaringWar": "BURN THEM! \nBURN THEM NOOOOOW!",
 		"attacked": "What a drag...",
 		"defeated": "BURN THEM ALL! BURN THEM ALL! BURN THEM IN THEIR CASTLES! BURN THEM IN THEIR HOMES! BURN THEM IN THEIR ARMOR! BURN THEM IN THEIR M-",
 		"introduction": "Rar XD :3",
 		
-		"neutralHello": "You stand before the one true King of Westeros, the Andals, the Rhoynar, and the First Men.",
+		"neutralHello": "You stand before Aerys Targaryen, second of his name: the one true King of Westeros, the Andals, the Rhoynar, and the First Men.",
 		"hateHello": "IMAGINE drag on THese nuts across your mouth wa hey.",
-		"tradeRequest": "A king must be gracious when necessary. A dragon may be gracious whenever he wants.",
+		"tradeRequest": "A king must be gracious when necessary. A dragon may be gracious whenever he pleases.",
 		
 
                 "outerColor": [        24, 19, 21],
