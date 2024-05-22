@@ -940,7 +940,7 @@ TileSets/FantasyHex/Units/Thrall
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Tiger Cloak Guardsman
+TileSets/FantasyHex/Units/Tiger Cloak Guard
   rotate: false
   xy: 1549, 38
   size: 32, 32
