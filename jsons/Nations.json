@@ -1,3 +1,4 @@
+// Septism Weirdwood Worship The Cult of the Drowned God
 [
 {                
   "name": "The North",
@@ -14,7 +15,7 @@
 
                 "style": "Slavic",
 
-  //"favoredReligion": "The Old Gods",
+  "favoredReligion": "Weirdwood Worship",
 
                 "declaringWar": "The man who passes the sentence should swing the sword. \nI, Eddard of the House Stark, Lord of Winterfell and Warden of the North, sentence you to die.",
 
@@ -60,7 +61,7 @@
 
                 "style": "Germanic",
 
-  //"favoredReligion": "The Seven",
+  "favoredReligion": "Septism",
 
                 "declaringWar": "You know what, I'm gonna be completely honest. I'm tired of waiting for some kingdom to kick the shit out of us again. \nJust end it, ok? I can't stand this anymore.",
 
@@ -102,7 +103,7 @@
 
                 "preferredVictoryType": "Diplomatic",
 
-  //"favoredReligion": "The Seven",
+  "favoredReligion": "Septism",
 
                 "declaringWar": "I'm in the world a little while longer, to defend the Lannisters, to defend my blood.",
 
@@ -146,7 +147,7 @@
                 "preferredVictoryType": "Cultural",
 
 
- // "favoredReligion": "The Seven",
+ "favoredReligion": "Septism",
 
                 "declaringWar": "Chaos is a ladder",
 
@@ -188,7 +189,7 @@
                 "preferredVictoryType": "Domination",
 
 
-//  "favoredReligion": "The Seven",
+ "favoredReligion": "Septism",
 "style": "Germanic",
 
                 "declaringWar": "SURROUNDED BY LANNISTERS! EVERY TIME I CLOSE MY EYES I SEE THEIR BLONDE HAIR AND THEIR SMUG, SATISFIED FACES! \nOUT! OUT, DAMN YOU! \nI'M DONE WITH YOU! \nGO, RUN BACK TO WINTERFELL! I'LL HAVE YOUR HEAD ON A SPIKE!",
@@ -239,7 +240,7 @@
                 "preferredVictoryType": "Cultural",
 
 
-  //"favoredReligion": "The Seven",
+  "favoredReligion": "Septism",
 
          "hateHello": "I wonder if you’re the worst person I’ve ever met? \nAt a certain age, It’s hard to recall. \n\nBut the truly vile do stand out through the years.",
 
@@ -329,7 +330,7 @@
 
                 "style": "Mesopotamian",
 
-  //"favoredReligion": "The Seven",
+  "favoredReligion": "Septism",
 
                 "declaringWar": "Ski-bi dibby dib yo da dub dub
 Yo da dub dub
@@ -384,7 +385,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "style": "Nordic",
 
-  //"favoredReligion": "The Drowned God",
+  "favoredReligion": "The cult of the Drowned God",
 
                 "declaringWar": "The choice is yours. Live a thrall or die a king. Do you dare to fly? Unless you take the leap, you’ll never know.",
 
@@ -394,9 +395,9 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "introduction":  "We are the ironborn, and once we were conquerors. Our writ ran everywhere the sound of the waves was heard.",
 
-                "neutralHello": "Godless? Why I am the godliest man ever to raise sail! \nYou serve one god, but I have served ten thousand. \nFrom Ib to Asshai, when men see my sails, they pray.",
+                "hateHello": "Godless? Why I am the godliest man ever to raise sail! \nYou serve one god, but I have served ten thousand. \nFrom Ib to Asshai, when men see my sails, they pray.",
 
-                "hateHello": "I am the storm. The first storm, and the last.",
+                "neutralHello": "I am the storm. \nThe first storm, and the last. \nKneel. \nI am your king. \nI am your god. \nWorship me, and one day you may sit at my feet in the Hall beneath the Depths.",
 
                 "attacked": "How will we ever know unless we leap from some tall tower? \n   No man ever truly knows what he can do unless he dares to leap.",
 
@@ -406,7 +407,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "uniqueName": "They forgot how to sow",
 
-                "uniques": ["[+75]% Production when constructing [Naval] units [in all cities]", "[-25]% maintenance costs <for [Naval] units>", "All newly-trained [Sword] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "All newly-trained [Gunpowder] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "[-1 Food] from [Farm] tiles [in all cities]", "[-1 Food] from [Plantation] tiles [in all cities]", "[1] Movement point cost to embark", "Earn [50]% of killed [Naval] unit's [Strength] as [Faith]", "Damage is ignored when determining unit Strength <for [Naval] units>", "[+25]% Unhappiness from [Population] [in all cities] <when not at war>", "Double quantity of [Iron] produced"],
+                "uniques": ["[+75]% Production when constructing [Naval] units [in all cities]", "[-25]% maintenance costs <for [Naval] units>", "All newly-trained [Sword] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "All newly-trained [Gunpowder] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "[-1 Food] from [Farm] tiles [in all cities]", "[-1 Food] from [Plantation] tiles [in all cities]", "[1] Movement point cost to embark", "Earn [75]% of killed [Naval] unit's [Strength] as [Faith]", "Damage is ignored when determining unit Strength <for [Naval] units>", "[+25]% Unhappiness from [Population] [in all cities] <when not at war>", "Double quantity of [Iron] produced"],
 
                 "cities": ["Pyke","Harlaw","Old Wyk","Great Wyk","Orkmont","Saltcliffe","Blacktyde","Lonely Light","some other birdshit covered pebble out in the middle of nowhere"]
   },
