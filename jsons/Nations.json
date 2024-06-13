@@ -397,7 +397,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "hateHello": "Godless? Why I am the godliest man ever to raise sail! \nYou serve one god, but I have served ten thousand. \nFrom Ib to Asshai, when men see my sails, they pray.",
 
-                "neutralHello": "I am the storm. \nThe first storm, and the last. \nKneel. \nI am your king. \nI am your god. \nWorship me, and one day you may sit at my feet in the Hall beneath the Depths.",
+                "neutralHello": "                                     I am the storm. \n                          The first storm, and the last. \n                                           Kneel. \n                                     I am your king. \n                                     I am your god. \n                                       Worship me, \nand one day you may sit at my feet in the Halls of the Depths.",
 
                 "attacked": "How will we ever know unless we leap from some tall tower? \n   No man ever truly knows what he can do unless he dares to leap.",
 
@@ -409,7 +409,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "uniques": ["[+75]% Production when constructing [Naval] units [in all cities]", "[-25]% maintenance costs <for [Naval] units>", "All newly-trained [Sword] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "All newly-trained [Gunpowder] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "[-1 Food] from [Farm] tiles [in all cities]", "[-1 Food] from [Plantation] tiles [in all cities]", "[1] Movement point cost to embark", "Earn [75]% of killed [Naval] unit's [Strength] as [Faith]", "Damage is ignored when determining unit Strength <for [Naval] units>", "[+25]% Unhappiness from [Population] [in all cities] <when not at war>", "Double quantity of [Iron] produced"],
 
-                "cities": ["Pyke","Harlaw","Old Wyk","Great Wyk","Orkmont","Saltcliffe","Blacktyde","Lonely Light","some other birdshit covered pebble out in the middle of nowhere"]
+                "cities": ["Pyke","Harlaw","Old Wyk","Great Wyk","Orkmont","Saltcliffe","Blacktyde","Lonely Light", "The Riverlands", "Some other birdshit covered pebble out in the middle of nowhere"]
   },
   {                
   "name": "The Crownlands",
@@ -445,7 +445,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "cities": ["King's Landing", "Dragonstone"],
       
 "uniqueName": "Imagine Dragon these Nuts",
-		"uniques": ["[+1] population [in capital] <upon conquering a city>", "[-1] population in a random city <upon conquering a city>", "[-33]% Unhappiness from [Population] [in capital]", "Cannot build [Settler] units", "[+250]% Unhappiness from number of cities", "Resting point for Influence with City-States is increased by [30]", "[+10]% Production when constructing [All] wonders [in capital]", "City-State territory always counts as friendly territory", "Militaristic City-States grant units [5] times as fast when you are at war with a common nation"], 
+		"uniques": ["[+1] population [in capital] <upon conquering a city>", "[-1] population in a random city <upon conquering a city>", "[-33]% Unhappiness from [Population] [in capital]", "Cannot build [Settler] units", "[+200]% Unhappiness from number of cities", "Resting point for Influence with City-States is increased by [30]", "[+17]% Production when constructing [All] wonders [in capital] <during a Golden Age>", "City-State territory always counts as friendly territory", "Militaristic City-States grant units [5] times as fast when you are at war with a common nation"], 
 },
 {                
   "name": "Braavos",
@@ -517,7 +517,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 "cityStateType": "Revanchist",
                 "startBias": ["River"],
 
-                "style": "Mediterranean",
+                "style": "Mesopotamian",
 
                 "declaringWar": "Time to learn your place.",
                 "attacked": "Your faith was strong but you needed proof
@@ -527,7 +527,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "outerColor": [0, 0, 0],
   "innerColor": [210, 2040, 80],
   "uniques": ["[+1 Food] from every [Gold]", "Free [Tiger Cloak Guard] appears <every [5] turns> <in [All] cities>"],
-        "cities": ["Volantis", "Gimmie the shlock shock jock"]
+        "cities": ["Volantis", "Gimme the shlock shock jock"]
         },
 {
                 "name": "The Night's Watch",
@@ -536,7 +536,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
   "style": "Slavic",
   "leaderName": "Mark Henry",
                 "declaringWar": "At six years old I was 5'4 and '216.",
-                "attacked": "HOLD THE WALL MEN!",
+                "attacked": "HOLD THE WALL, MEN!",
                 "defeated": "I fought. I lost. And now my watch has ended. \nIf could go back in time, I pray I would've done it all the same.",
                 "outerColor": [0, 0, 0],
   "innerColor": [200, 190, 200],
