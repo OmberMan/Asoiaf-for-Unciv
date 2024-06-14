@@ -255,7 +255,7 @@ UnitIcons/Sellsail
   orig: 663, 663
   offset: 0, 0
   index: -1
-NationIcons/Purple People
+ReligionIcons/Septism
   rotate: false
   xy: 1399, 868
   size: 365, 365
@@ -276,9 +276,23 @@ NationIcons/The Crownlands
   orig: 100, 100
   offset: 0, 0
   index: -1
+ReligionIcons/The cult of the Drowned God
+rotate: false
+  xy: 1636, 67
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/The Iron Islands
   rotate: false
   xy: 1636, 67
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Weirdwood Worship
+rotate: false
+  xy: 1829, 175
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
