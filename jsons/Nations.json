@@ -169,9 +169,9 @@
 
                 "uniqueName": "Flock of Seagulls.",
 
-                "uniques": ["[+1 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+50]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+10]% [Faith] [in capital] <when not at war>", "[+1 Food] from every [{Farm} {Hill}] <when not at war>", "[-20]% enemy spy effectiveness [in capital]"],
+                "uniques": ["[+1 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+10]% [Faith] [in capital] <when not at war>", "[+1 Food] from every [{Farm} {Hill}] <when not at war>", "[-20]% enemy spy effectiveness [in capital]"],
 
-/* "uniqueText": "+25 Strength for cities, doubled next to mountains, and +2 [Food], +1 [Culture], +1 [Production] and +1 [Faith] from mountains. \nNo maintenance costs for improvements in [Hill]s.", */
+/* "uniqueText": "+25 Strength for cities, doubled next to mountains, and +1 [Food], +1 [Culture] and +1 [Faith] from mountains. \nNo maintenance costs for improvements in [Hill]s.", */
 
                 "cities": ["Eiyre","Gulletown","Heart's Home","Snakewoods","Bloody Gate","Sweet Sister","Coldwater","Redfort","Longbow Hall"]
         },
