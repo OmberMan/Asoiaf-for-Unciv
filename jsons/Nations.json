@@ -359,7 +359,10 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "innerColor": [248, 225, 86],
 
                 "uniqueName": "Inexplicable fiesty Latin analogue.",
-
+                "uniqueText": "All land units receive the Unbowed promotion, and wounded enemy units suffer a movement penalty in your borders while Dorne is above 20 [Happiness].
+\n+1 [Culture] from River tiles.
+\n+1 [Production] from Desert tiles during war and +1 [Happiness] from [Culture] buildings while at peace.
+\nLower happiness and culture penalty from founding cities after the Classical Era.",
                 "uniques": ["All newly-trained [Land] units [in all cities] receive the [Unbowed] promotion",
 "Enemy [Wounded] units must spend [1] extra movement points when inside your territory <when above [20] Happiness>",
 "[+1 Production] from [Desert] tiles [in all cities] <when at war>", 
@@ -407,7 +410,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "uniqueName": "They forgot how to sow",
 
-                "uniques": ["[+75]% Production when constructing [Naval] units [in all cities]", "[-25]% maintenance costs <for [Naval] units>", "All newly-trained [Sword] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "All newly-trained [Gunpowder] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "[-1 Food] from [Farm] tiles [in all cities]", "[-1 Food] from [Plantation] tiles [in all cities]", "[1] Movement point cost to embark", "Earn [75]% of killed [Naval] unit's [Strength] as [Faith]", "Damage is ignored when determining unit Strength <for [Naval] units>", "[+25]% Unhappiness from [Population] [in all cities] <when not at war>", "Double quantity of [Iron] produced"],
+                "uniques": ["[+50]% Production when constructing [Naval] units [in all cities]", "[-25]% maintenance costs <for [Naval] units>", "All newly-trained [Sword] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "All newly-trained [Gunpowder] units [in all coastal cities] receive the [Scourge of the Seas] promotion", "[-1 Food] from [Farm] tiles [in all cities]", "[-1 Food] from [Plantation] tiles [in all cities]", "[1] Movement point cost to embark", "Earn [75]% of killed [Naval] unit's [Strength] as [Faith]", "Damage is ignored when determining unit Strength <for [Naval] units>", "[+25]% Unhappiness from [Population] [in all cities] <when not at war>", "Double quantity of [Iron] produced"],
 
                 "cities": ["Pyke","Harlaw","Old Wyk","Great Wyk","Orkmont","Saltcliffe","Blacktyde","Lonely Light", "The Riverlands", "Some other birdshit covered pebble out in the middle of nowhere"]
   },
@@ -434,8 +437,8 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 		"introduction": "Rar XD :3",
 		
 		"neutralHello": "You stand before Aerys Targaryen, second of his name: the one true King of Westeros, the Andals, the Rhoynar, and the First Men.",
-		"hateHello": "IMAGINE drag on THese nuts across your mouth wa hey.",
-		"tradeRequest": "A king must be gracious when necessary. A dragon may be gracious whenever he pleases.",
+		"hateHello": "TRAITORS, DECEIVERS EVERY ONE OF YOU!",
+		"tradeRequest": "A king must be gracious when necessary. But a dragon may be gracious whenever he pleases. And it's unwise to displease a dragon...",
 		
 
                 "outerColor": [        24, 19, 21],
