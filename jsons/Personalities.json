@@ -177,22 +177,26 @@
 }
 },
         {
-"name": "Big Bazza",
-                "preferredVictoryType": "Diplomatic",
-                "food": 7,
-                "production": 5,
-                "gold": 8,
-                "culture": 6,
-                "science": 5,
-                "faith": 6,
-                "military": 2,
-                "warMongering": 5,
+"name": "Baratheon",
+                "preferredVictoryType": "Domination",
+                "food": 3,
+                "production": 6,
+                "gold": 4,
+                "culture": 5,
+                "science": 4,
+                "faith": 4,
+                "military": 9,
+                //"warMongering": 5,
+"aggressive": 6,
+      "declareWar": 7,
+      "commerce": 4,
+      "diplomacy": 6,
+      "loyal": 8,
+      "expansion": 6,
 "priorities": {
-    "Piety": 10,
-    "Commerce": 30,
-    "Rationalism": 10,
-    "Aesthetics": 20,
-    "Patronage": 50
+    "Honor": 40,
+    "Tradition": 20,
+    "Patronage": 10
 }
 },
       {
