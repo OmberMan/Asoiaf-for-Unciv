@@ -18,7 +18,7 @@
 		"requiredResource": "Square Coin",
   "percentStatBonus": {"Gold": 33},
 		"hurryCostModifier": 55,
-		"uniques": ["[+2 Gold] from every [Merchant]", "[+33]% Yield from every [Gold]"],
+		"uniques": ["[+2 Gold] from every [Merchant]", "[+2]% Yield from every [Gold]"],
 	},
 {
 		"name": "Sellsword Camp",
@@ -32,7 +32,7 @@
 		"name": "Essosi Sellsword Camp",
 		"hurryCostModifier": 0,
 	        "requiredResource": "Eastern Check",
-		"uniques": ["Destroyed when the city is captured", "[Gold] cost of purchasing [Military] units [-15]%"],
+		"uniques": ["Destroyed when the city is captured", "[Gold] cost of purchasing [Military] units [-15]%", "[1] free [Sellsail] units appear", "[1] free [Water Dancer] units appear"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -205,7 +205,7 @@
 		"culture": 1,
   "cityStrength": 9,
 		"isNationalWonder": true,
-		"percentStatBonus": {"science": 30},
+		"percentStatBonus": {"science": 20},
 		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [Naval] units [in this city] receive the [Green Flames] promotion", "All newly-trained [Siege] units [in this city] receive the [Green Flames] promotion"],
 		"requiredTech": "Philosophy"
 	},
@@ -218,9 +218,9 @@
 		"requiredTech": "Mathematics",
   "science": 4,
 "requiredResource": "Maester's Chain",
-	 "percentStatBonus": {"Science": -4},
+	 "percentStatBonus": {"Science": -2},
 		"uniques": ["[+25]% Food is carried over after population increases [in this city]",
-			"Science gained from research agreements [+25]%", "[+15]% enemy spy effectiveness [in this city]",
+			"Science gained from research agreements [+25]%", "[+25]% enemy spy effectiveness [in this city]",
 		        "[+25]% Production when constructing [Science] buildings [in this city]"
 		]
 	},
@@ -230,9 +230,10 @@
 		"hurryCostModifier": 20,
   "cost": 175,
   "culture": 1,
+  "faith": 1
 "requiredResource": "Square Coin",
 		"uniques": ["[-25]% Food is carried over after population increases [in this city]",
-			"[-25]% Unhappiness from [Population] [in this city]", "[-40]% enemy spy effectiveness [in this city]" 
+			"[-25]% Unhappiness from [Population] [in this city]", "[-60]% enemy spy effectiveness [in this city]" 
 		]
 	},
 	
