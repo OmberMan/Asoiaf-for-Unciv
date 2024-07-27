@@ -32,7 +32,7 @@
 		"name": "Essosi Sellsword Camp",
 		"hurryCostModifier": 0,
 	        "requiredResource": "Eastern Check",
-		"uniques": ["Destroyed when the city is captured", "[Gold] cost of purchasing [Military] units [-15]%", "[1] free [Sellsail] units appear", "[1] free [Water Dancer] units appear"],
+		"uniques": ["Destroyed when the city is captured", "[Gold] cost of purchasing [Military] units [-15]%", "[1] free [Sellsail] units appear", "[1] free [Water Dancer] units appear", "Provides [1] [Master's Chain]"],
 		"requiredTech": "Bronze Working"
 	},
 	{
