@@ -2,9 +2,8 @@
 {
 		"name": "Maester",
 		"science": 2,
-		"culture": 2,
+		"culture": 1,
   "food": 1,
-		"greatPersonPoints": {"Great Artist":1},
 		"color": [173, 142, 166]
 	},
 {
