@@ -84,9 +84,9 @@
                 "uniqueName": "It's a hard knock life",
 
                 "uniques": ["[+1 Food, -1 Production] from [Farm] tiles [in all cities]", 
-                  "[+1 Food] from [Farm] tiles [in all cities] <in [River] tiles>",
+                  "[+1 Food] from [Farm] tiles [in all cities] <in [River] tiles>", "[+10]% [Gold] [in all cities] <in [River] tiles>",
                   "[+1 Gold, +1 Culture] from [Citadel] tiles [in all cities]", 
-                  "[+15]% [Gold] [in all cities] <in [River] tiles>", "[+1] Movement <in [River] tiles> <for [Military] units>"],
+                   "[+1] Movement <in [River] tiles> <for [Military] units>"],
 
                 "cities": ["Riverrun","Harrenhall","Maidenpool","Stony Sept","The Twin","The 2nd Twin","Fairmarket","Saltpans","Seaguard"]
         },
@@ -127,8 +127,8 @@
 
                 "uniques": ["[+3 Gold, +1 Culture] from [Gold Ore] tiles [in all cities]", "Double quantity of [Gold Ore] produced",
                   "[+1 Gold] from [Mine] tiles [in all cities]", 
-                  "[-33]% maintenance costs <for [Land] units>", 
-                  "[Gold] cost of purchasing [Land] units [-33]%", 
+                  "[-20]% maintenance costs <for [Land] units>", 
+                  "[Gold] cost of purchasing [Land] units [-20]%", 
                   "[+1 Culture, +1 Happiness, +1 Science] per every [75] [Gold]"],
 
                 "cities": ["Casterly Rock","Lannisport","Kayce","Faircastle","Ashenmark","The Crag","Silverhill","Crakehall","Golden Tooth"]
@@ -169,9 +169,9 @@
 
                 "uniqueName": "Flock of Seagulls.",
 
-                "uniques": ["[+1 Food, +1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+10]% [Faith] [in capital] <when not at war>", "[+1 Food] from every [{Farm} {Hill}] <when not at war>", "[-20]% enemy spy effectiveness [in capital]"],
+                "uniques": ["[+1 Culture, +1 Faith] from [Mountain] tiles [in all cities]", "[+25]% Strength for cities", "[+25]% Strength for cities <within [1] tiles of a [Mountain]>", "No Maintenance costs for improvements in [Hill] tiles", "[+20]% [Faith] [in capital] <when not at war>", "[+1 Food] from every [{Farm} {Hill}] <when not at war>", "[-20]% enemy spy effectiveness [in capital]"],
 
-/* "uniqueText": "+25 Strength for cities, doubled next to mountains, and +1 [Food], +1 [Culture] and +1 [Faith] from mountains. \nNo maintenance costs for improvements in [Hill]s.", */
+"uniqueText": "+25 Strength for cities, doubled in cities adjacent to mountains. +1 [Culture] and +1 [Faith] from mountains. +1 Food from farms on [Hills] while at peace. \nNo maintenance costs for improvements in [Hill]s.",
 
                 "cities": ["Eiyre","Gulletown","Heart's Home","Snakewoods","Bloody Gate","Sweet Sister","Coldwater","Redfort","Longbow Hall"]
         },
@@ -262,9 +262,8 @@
 
                 "uniqueName": "Growing strong",
 
-                "uniques": ["[+1 Food] from [Bonus resource] tiles [in all cities] <in [Grassland] tiles>", 
-"[+1 Culture] from [Luxury resource] tiles [in all cities] <in [Grassland] tiles>", 
-"[+15]% growth [in all non-occupied cities]", 
+                "uniques": ["[+1 Food] from [Bonus resource] tiles [in all cities] <in [Grassland] tiles>", "[+1 Gold] from [Strategic resource] tiles [in all cities] <in [Grassland] tiles>", "[+1 Culture] from [Luxury resource] tiles [in all cities] <in [Grassland] tiles>", 
+"[+10]% growth [in all non-occupied cities]", 
 "Gain [+6] [Culture] (modified by game speed) <upon gaining a [Mounted] unit>", "[+15]% spy effectiveness [in non-enemy foreign cities]",
                 "[+1 Science] from [Farm] tiles [in all cities] <in tiles adjacent to [Academy]>",
                 "[+1 Gold] from [Farm] tiles [in all cities] <in tiles adjacent to [Custom House]>",
@@ -311,7 +310,7 @@
                 "[+2 Gold] from [Landmark] tiles [in all cities] <with [3] to [4] neighboring [Plantation] tiles>",
                 "[+3 Gold] from [Landmark] tiles [in all cities] <with [5] to [6] neighboring [Plantation] tiles>"],
 
-"uniqueText": "+15% Growth in all cities. \nOn Grassland, Bonus Resources yield +1 [Food] and Luxuries yield +1 [Culture]. \n\nFarms, Pastures and Plantations add to the yield of adjacent Great Person improvements, which in turn bleed their yields to adjacent farms. \nGain [Culture] when producting mounted units.",
+"uniqueText": "+10% Growth in all cities. \nOn Grassland Bonus Resources yield +1 [Food] Strategic Resources yield +1 [Gold] and Luxuries yield +1 [Culture]. \n\nFarms, Pastures and Plantations add to the yield of adjacent Great Person improvements, which in turn bleed their yields to adjacent farms. \nGain [Culture] when producting mounted units.",
 
                 "cities": ["Highgarden","Oldtown","Ashford","The Arbor","Tumbleton","Brightwater Keep","Grassy Vale","Goldengrove","Bitterbridge"]
         },
@@ -363,8 +362,8 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "uniques": ["All newly-trained [Land] units [in all cities] receive the [Unbowed] promotion",
 "Enemy [Wounded] units must spend [1] extra movement points when inside your territory <when above [20] Happiness>",
 "[+1 Production] from [Desert] tiles [in all cities] <when at war>", 
-"Each city founded increases culture cost of policies [-67]% less than normal", 
-"[-67]% unhappiness from the number of cities",
+"Each city founded increases culture cost of policies [-33]% less than normal", 
+"[-33]% unhappiness from the number of cities",
 "[+1 Culture] from [River] tiles [in all cities]", 
 "[+1 Happiness] from all [Culture] buildings <when not at war>"],
 
@@ -445,7 +444,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "cities": ["King's Landing", "Dragonstone"],
       
 "uniqueName": "Imagine Dragon these Nuts",
-		"uniques": ["[+1] population [in capital] <upon conquering a city>", "[-1] population in a random city <upon conquering a city>", "[-33]% Unhappiness from [Population] [in capital]", "Cannot build [Settler] units", "[+200]% Unhappiness from number of cities", "Resting point for Influence with City-States is increased by [30]", "[+17]% Production when constructing [All] wonders [in capital] <during a Golden Age>", "City-State territory always counts as friendly territory", "Militaristic City-States grant units [5] times as fast when you are at war with a common nation"], 
+		"uniques": ["[+1] population [in capital] <upon conquering a city>", "[-1] population in a random city <upon conquering a city>", "[-33]% Unhappiness from [Population] [in capital]", "Cannot build [Settler] units", "[+200]% Unhappiness from number of cities", "Resting point for Influence with City-States is increased by [30]", "[+12]% Production when constructing [All] wonders [in capital] <during a Golden Age>", "City-State territory always counts as friendly territory", "Militaristic City-States grant units [5] times as fast when you are at war with a common nation"], 
 },
 {                
   "name": "Braavos",
@@ -540,7 +539,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "defeated": "I fought. I lost. And now my watch has ended. \nIf could go back in time, I pray I would've done it all the same.",
                 "outerColor": [0, 0, 0],
   "innerColor": [200, 190, 200],
-  "uniques": ["[+3 Production] from all [Walls] buildings", "[+1 Production] from [Fort] tiles [in all cities]", "New [Scout] units start with [30] Experience [in all cities]", "[+150]% Strength for cities", "Free [Crow] appears <every [4] turns> <in [All] cities"],
+  "uniques": ["[+3 Production] from all [Walls] buildings", "[+3 Production] from [Fort] tiles [in all cities]", "New [Scout] units start with [30] Experience [in all cities]", "[+150]% Strength for cities", "Free [Crow] appears <every [4] turns> <in [All] cities>"],
                 "cities": ["The Wall", "Brandon's Gift"]
         },
 {     
