@@ -328,7 +328,7 @@
                 "unitType": "Sword",
                 "movement": 2,
                 "strength": 16,
-                "cost": 90,
+                "cost": 100,
                 "hurryCostModifier": 25,
                 "requiredTech": "Civil Service",
                 "uniques": ["[+15]% Strength <in tiles adjacent to [City center]>", "May capture killed [Land] units <with [10]% chance>", "[-100]% maintenance cost", "Eliminates combat penalty for attacking over a river", "[+25]% Strength <when defending>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can move immediately once bought", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>"], 
