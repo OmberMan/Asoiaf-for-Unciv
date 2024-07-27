@@ -106,7 +106,7 @@
 "replaces": "Garden",
 		"uniqueTo": "The Vale",
   "culture": 1,
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Mountain]", "[+2 Food] from [Mountain] tiles [in this city]", "[+10]% Food is carried over after population increases [in this city] <when not at war"],
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Mountain]", "[+2 Food] from [Mountain] tiles [in this city]", "[+10]% Food is carried over after population increases [in this city] <when not at war>"],
 		"hurryCostModifier": 45,
 		"maintenance": 2,
 		"requiredTech": "Engineering"
@@ -115,11 +115,11 @@
 		"name": "Moon Door",
 		"cityStrength": 15,
 		"cityHealth": 60,
-  "replaces": "Castle",
+  "replaces": "Arsenal",
 		"uniqueTo": "The Vale",
 		"hurryCostModifier": 100,
   "cost": 200,
-		"requiredBuilding": "Walls",
+		"requiredBuilding": "Castle",
 		"requiredTech": "Engineering",
 		"uniques": ["Must be on [Hills]", "[+1 Gold] from [Mountain] tiles [in this city] <when not at war>"]
 	},
@@ -141,12 +141,12 @@
   "replaces": "Water Mill",
 		"uniqueTo": "Dorne",
 "requiredTech": "Sailing",
-		"cost": 120,
+		"cost": 100,
 		"maintenance": 1,
   "culture": 1,
   "percentStatBonus": {"Culture": 5, "Gold": 5},
 		"hurryCostModifier": 55,
-		"uniques": ["[+1 Gold] from [Trading Post] tiles [in this city] <in [River] tiles>", "[+1 Culture] from [River] tiles [in this city]", "[+1 Culture] from all [Greenblood Orphanage] buildings", "[+1 Culture] from each Trade Route", "[+15]% Production when constructing [Naval] units [in this city]", "Can only be built <within [1] tiles of a [Water]>"],
+		"uniques": ["[+1 Gold, +1 Food] from [Trading Post] tiles [in this city] <in [River] tiles>", "[+1 Culture] from [River] tiles [in this city]", "[+1 Culture] from all [Greenblood Orphanage] buildings", "[+1 Culture] from each Trade Route", "[+15]% Production when constructing [Naval] units [in this city]", "Can only be built <within [1] tiles of a [Water]>"],
 	},
 {
 		"name": "Tourney Grounds",
@@ -217,7 +217,7 @@
 "requiredResource": "Maester's Chain",
 	 "percentStatBonus": {"Science": -2},
 		"uniques": ["[+25]% Food is carried over after population increases [in this city]",
-			"Science gained from research agreements [+25]%", "[+25]% enemy spy effectiveness [in this city]",
+			"Science gained from research agreements [+25]%", "[+15]% enemy spy effectiveness [in this city]",
 		        "[+25]% Production when constructing [Science] buildings [in this city]"
 		]
 	},
