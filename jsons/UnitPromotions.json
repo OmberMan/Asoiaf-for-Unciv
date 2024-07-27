@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "What is dead may never die",
-		"uniques": ["Heal this unit by [15] HP <upon losing at least [30] HP in a single attack>", "Free [Thrall] appears <upon defeating a [Land] unit> <with [20]% chance>", "Defense bonus when embarked"]
+		"uniques": ["Heal this unit by [5] HP <upon losing at least [25] HP in a single attack>", "Free [Thrall] appears <upon defeating a [Land] unit> <with [20]% chance>", "Defense bonus when embarked"]
 	},
 	{
 		"name": "Scourge of the Seas",
@@ -33,7 +33,7 @@
 	},
 {
 "name": "Neutered",
-		"uniques": ["Heal this unit by [15] HP <upon losing at least [25] HP in a single attack>", "[+20]% Strength <vs [Ranged] units> <when attacking>", "[+20]% Strength <vs [Melee] units> <when defending>", "[-100]% maintenance costs", "[-10] HP when healing", "[-50]% XP gained from combat", "Damage is ignored when determining unit Strength"]
+		"uniques": ["Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[+20]% Strength <vs [Ranged] units> <when attacking>", "[+20]% Strength <vs [Melee] units> <when defending>", "[-100]% maintenance costs", "[-10] HP when healing", "[-50]% XP gained from combat", "Damage is ignored when determining unit Strength"]
 }
 ]
  
