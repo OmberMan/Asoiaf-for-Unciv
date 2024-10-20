@@ -293,7 +293,6 @@
                 "cost": 75,
                 "hurryCostModifier": 20,
                 "requiredTech": "Drama and Poetry",
-                "replaces": "Swordsman",
                 "uniques": ["[+100]% Strength <when attacking>", "[+200]% Strength <when defending> <vs [Sword] units>", "[+50]% to Flank Attack bonuses", "Can move after attacking", "Ignores Zone of Control", "[+1] additional attacks per turn", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]", "[+10]% Strength <when above [500] [Gold]>", "[+10]% Strength <when above [1000] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>"], 
                 "promotions": ["Sellout"],
                 "attackSound": "florish"
