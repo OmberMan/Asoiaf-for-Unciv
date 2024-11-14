@@ -14,11 +14,11 @@
 "requiredTech": "Currency",
 		"cost": 120,
 		"isNationalWonder": "true",
-  "maintenance": 6,
+  "maintenance": 4,
 		"requiredResource": "Square Coin",
   "percentStatBonus": {"Gold": 33},
 		"hurryCostModifier": 55,
-		"uniques": ["[+2 Gold] from every [Merchant]", "[+2]% Yield from every [Gold]"],
+		"uniques": ["[+2 Gold] from every [Merchant]", "[+1]% Yield from every [Gold]"],
 	},
 {
 		"name": "Sellsword Camp",
@@ -106,7 +106,7 @@
 "replaces": "Garden",
 		"uniqueTo": "The Vale",
   "culture": 1,
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Mountain]", "[+2 Food] from [Mountain] tiles [in this city]", "[+10]% Food is carried over after population increases [in this city] <when not at war>"],
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Mountain]", "[+1 Food] from [Mountain] tiles [in this city]", "[+15]% Food is carried over after population increases [in this city] <when not at war>"],
 		"hurryCostModifier": 45,
 		"maintenance": 2,
 		"requiredTech": "Engineering"
@@ -121,7 +121,7 @@
   "cost": 200,
 		"requiredBuilding": "Castle",
 		"requiredTech": "Engineering",
-		"uniques": ["Must be on [Hills]", "[+1 Gold] from [Mountain] tiles [in this city] <when not at war>"]
+		"uniques": ["Must be on [Hills]", "[+2 Gold] from [Mountain] tiles [in this city] <when not at war>"]
 	},
 {
 		"name": "Water Garden",
@@ -146,7 +146,7 @@
   "culture": 1,
   "percentStatBonus": {"Culture": 5, "Gold": 5},
 		"hurryCostModifier": 55,
-		"uniques": ["[+1 Gold, +1 Food] from [Trading Post] tiles [in this city] <in [River] tiles>", "[+1 Culture] from [River] tiles [in this city]", "[+1 Culture] from all [Greenblood Orphanage] buildings", "[+1 Culture] from each Trade Route", "[+15]% Production when constructing [Naval] units [in this city]", "Can only be built <within [1] tiles of a [Water]>"],
+		"uniques": ["[+1 Gold, +1 Food] from [Trading Post] tiles [in this city] <in [River] tiles>", "[+1 Culture] from [River] tiles [in this city]", "[+2 Culture] from all [Greenblood Orphanage] buildings", "[+1 Culture] from each Trade Route", "[+10]% Production when constructing [Naval] units [in this city]", "Can only be built <within [1] tiles of a [Water]>"],
 	},
 {
 		"name": "Tourney Grounds",
@@ -157,8 +157,8 @@
 "requiredTech": "Horseback Riding",
 		"maintenance": 1,
 		"hurryCostModifier": 15,
-	"uniques": ["New [Land] units start with [5] Experience [in this city]", "[+10]% Production when constructing [Sword] units [in this city]",  
-"[+10]% Production when constructing [Mounted] units [in this city]"],
+	"uniques": ["New [Land] units start with [10] Experience [in this city]", "[+5]% Production when constructing [Sword] units [in this city]",  
+"[+5]% Production when constructing [Mounted] units [in this city]"],
 	},
 	{
 		"name": "Mistwood Smithy",
@@ -186,7 +186,7 @@
 	        "percentStatBonus": {"Science": 40},
 		"uniqueTo": "The Reach",
 		"replaces": "National College",
-		"uniques": ["Provides [9] [Maester's Chain]", 
+		"uniques": ["Provides [14] [Maester's Chain]", 
 			"Never destroyed when the city is captured", 
 			"[+15]% Great Person generation [in this city]",
 			"Gain a free [Maester's Chambers] [in this city]",
@@ -214,10 +214,11 @@
   "cost": 75,
 		"requiredTech": "Mathematics",
   "science": 4,
+  "culture": 1,
 "requiredResource": "Maester's Chain",
-	 "percentStatBonus": {"Science": -2},
+	 "percentStatBonus": {"Science": -3},
 		"uniques": ["[+25]% Food is carried over after population increases [in this city]",
-			"Science gained from research agreements [+25]%", "[+15]% enemy spy effectiveness [in this city]",
+			"Science gained from research agreements [+25]%", "[+10]% enemy spy effectiveness [in this city]",
 		        "[+25]% Production when constructing [Science] buildings [in this city]"
 		]
 	},
