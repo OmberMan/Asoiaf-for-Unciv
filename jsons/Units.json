@@ -69,7 +69,7 @@
                 "requiredTech": "Theology",
                 "upgradesTo": "Gatling Gun",
                 "uniqueTo": "The Riverlands",
-                "uniques": ["Can move after attacking", "[+1] Sight", "No movement cost to pillage", "[-100]% maintenance costs", "[+33]% Strength when stacked with [Great Person]", "May withdraw before melee ([50]%)", "May capture killed [Land] units <with [15]% chance>", "Invisible to non-adjacent units <in [Forest] tiles>", "[+1] Movement <in [Forest] tiles>", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities> <when attacking>"], 
+                "uniques": ["Can move after attacking", "[+1] Sight", "No movement cost to pillage", "[-100]% maintenance costs", "[+33]% Strength when stacked with [Great Person]", "Withdraws before melee combat <with [50]% chance>", "May capture killed [Land] units <with [15]% chance>", "Invisible to non-adjacent units <in [Forest] tiles>", "[+1] Movement <in [Forest] tiles>", "May enter foreign tiles without open borders", "[-33]% Strength <vs cities> <when attacking>"], 
                 "civilopediaText": [
                         {
                                 "text": "Bannerless Bois on suicide watch after learning a battle is called a fray."
@@ -190,7 +190,7 @@
                 "upgradesTo": "Musketman",
 "replaces": "Pikeman",
                 "uniqueTo": "Dorne",
-                "uniques": ["[+50]% Strength <when attacking> <vs [Wounded] units>", "[+25]% Strength <vs [Mounted] units>", "May withdraw before melee ([40]%)", "Can move after attacking", "[+50]% Strength <vs [Ranged] units> <when defending> <in [Desert] tiles>"],
+                "uniques": ["[+50]% Strength <when attacking> <vs [Wounded] units>", "[+25]% Strength <vs [Mounted] units>", "Withdraws before melee combat <with [40]% chance>", "Can move after attacking", "[+50]% Strength <vs [Ranged] units> <when defending> <in [Desert] tiles>"],
 "promotions": ["Unbent", "Poisoned Tips"],
 "attackSound": "hiss",
    },
@@ -206,7 +206,7 @@
 "replaces": "Knight",                
           "upgradesTo": "Lancer",
                 "uniqueTo": "Dorne",
-                "uniques": ["[+1] additional attacks per turn", "Ignores terrain cost", "May withdraw before melee ([60]%)", "Can move after attacking", "[-33]% Strength <vs cities> <when attacking>"],
+                "uniques": ["[+1] additional attacks per turn", "Ignores terrain cost", "Withdraws before melee combat <with [60]% chance>", "Can move after attacking", "[-33]% Strength <vs cities> <when attacking>"],
 "promotions": ["Unbent"],
 "attackSound": "metalhit",
    },
@@ -321,7 +321,7 @@
                 "hurryCostModifier": -75,
                 "requiredTech": "Mathematics",
                 
-                "uniques": ["[+700]% Strength <when attacking> <vs [{Land} {Military}] units>", "Ignores Zone of Control", "Earn [-500]% of killed [Land] unit's [Strength] as [Gold]", "May enter foreign tiles without open borders", "Can only attack [Military] units", "May withdraw before melee ([67]%)", "Invisible to non-adjacent units", "Unable to capture cities", "Unable to pillage tiles", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [House of Black and White]>"], 
+                "uniques": ["[+500]% Strength <when attacking> <vs [{Land} {Military}] units>", "Ignores Zone of Control", "Earn [-500]% of killed [Land] unit's [Strength] as [Gold]", "May enter foreign tiles without open borders", "Can only attack [Military] units", "Withdraws before melee combat <with [70]% chance>", "Invisible to non-adjacent units", "Unable to capture cities", "Unable to pillage tiles", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [House of Black and White]>"], 
 "promotions": ["Sellout", "Poisoned Tips"],
                 "attackSound": "Woah",
    },
@@ -397,7 +397,7 @@
                 "hurryCostModifier": 40,
                 "requiredTech": "Metallurgy",
                 "upgradesTo": "Musketman",
-                "uniques": ["[+67]% Strength <when attacking> <with [33]% chance>", "This Unit gains [1] XP <upon ending a turn in a [Enemy land] tile>", "May withdraw before melee ([20]%)", "Can move after attacking", "Can move immediately once bought", "[1] Movement point cost to disembark", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "[+10]% Strength <when above [300] [Gold]>", "[+10]% Strength <when above [600] [Gold]>", "[+10]% Strength <when above [900] [Gold]>", "[+10]% Strength <when above [1200] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [33]% of killed [Military] unit's [Strength] as [Gold]", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>"],
+                "uniques": ["[+67]% Strength <when attacking> <with [33]% chance>", "This Unit gains [1] XP <upon ending a turn in a [Enemy land] tile>", "Withdraws before melee combat <with [30]% chance>", "Can move after attacking", "Can move immediately once bought", "[1] Movement point cost to disembark", "Unbuildable", "Can be purchased with [Gold] [in all cities] <in cities with a [Essosi Sellsword Camp]>", "[+10]% Strength <when above [300] [Gold]>", "[+10]% Strength <when above [600] [Gold]>", "[+10]% Strength <when above [900] [Gold]>", "[+10]% Strength <when above [1200] [Gold]>", "[+10]% Strength <when above [1500] [Gold]>", "Earn [33]% of killed [Military] unit's [Strength] as [Gold]", "Can be purchased with [Gold] [in all cities] <in cities with a [Sellsword Quarters]>"],
 "promotions": ["Sellout", "Poisoned Tips"],
                 "attackSound": "shank",
    },
@@ -424,7 +424,7 @@
                 "hurryCostModifier": 0,
                 "requiredTech": "Construction",
                 "uniqueTo": "Barbarians",
-                "uniques": ["[+25]% Strength <vs [Fortified] units>", "[+33]% Strength <vs [Sword] units>", "Can move after attacking", "No defensive terrain bonus", "May capture killed Land] units <with [70]% chance>"],
+                "uniques": ["[+25]% Strength <vs [Fortified] units>", "No damage penalty for wounded units", "[+33]% Strength <vs [Sword] units>", "Can move after attacking", "No defensive terrain bonus", "May capture killed Land] units <with [70]% chance>"],
 "promotions": ["March"],
 "attackSound": "shockjock",
    },
