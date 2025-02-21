@@ -47,6 +47,14 @@
         "name": "Disorganized!",
         "uniques": ["[-30]% Strength", "Cannot Move"]
     },
+	 {
+        "name": "Frosty",
+        "uniques": ["[Target Unit] gains the [Frozen!] status for [1] turn(s) <with [30]% chance> <upon damaging a [Land] unit>"]
+    },
+	     {
+        "name": "Disorganized!",
+        "uniques": ["[-50]% Strength", "Cannot Move"]
+    },
 {
         "name": "Death from Above",
         "uniques": ["[+2] Movement <in [Hill] tiles>", "[+25]% Strength decreasing with distance from the capital"]
@@ -73,7 +81,8 @@
 	},
 {
 		"name": "Green Flames",
-		"uniques": ["[+50]% maintenance costs", "[+40]% Strength <when attacking> <with [50]% chance", "[+40]% Strength <when attacking> <vs [Water] units>", "[+40]% Strength <when attacking> <vs [Siege] units>", "Self-destructs when attacking <with [4]% chance> <when [wounded]>", "Earn [5]% of the damage done to [Military] units as [Science]", "Destroys tile improvements when attacking"]
+		"uniques": ["[+50]% maintenance costs", "[+30]% Strength <when attacking> <vs [Water] units>", "[+30]% Strength <when attacking> <vs [Siege] units>", "Self-destructs when attacking <with [4]% chance> <when [wounded]>", "[Target Unit] gains the [Burning!] status for [3] turn(s) <with [40]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Fire on Deck!] status for [3] turn(s) <with [40]% chance> <upon damaging a [Water] unit> <when attacking>"]
+        ", "Destroys tile improvements when attacking"]
 	},
 	{
 		"name": "Sellout",
@@ -81,7 +90,7 @@
 	},
 {
 "name": "Neutered",
-		"uniques": ["Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[+20]% Strength <vs [Ranged] units> <when attacking>", "[+20]% Strength <vs [Melee] units> <when defending>", "[-100]% maintenance costs", "[-10] HP when healing", "[-50]% XP gained from combat", "Damage is ignored when determining unit Strength"]
+		"uniques": ["Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[+20]% Strength <vs [Ranged] units> <when attacking>", "[+20]% Strength <vs [Melee] units> <when defending>", "[-100]% maintenance costs", "[-10] HP when healing", "[-50]% XP gained from combat", "No damage penalty for wounded units <with [30]% chance>"]
 }
 ]
  
