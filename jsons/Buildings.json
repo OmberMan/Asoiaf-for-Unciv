@@ -17,7 +17,7 @@
 		"uniqueTo": "The Crownlands",
 		"isNationalWonder": "true",
   "maintenance": 2,
-		"uniques": ["Only available <when number of [Units] is more than [0]>"],
+		"uniques": ["Instantly provides [1] [Dragon Egg] Only available <when number of [Dragon Rider] is more than [1]>"],
 	},
 	{
 		"name": "Iron Bank Delegation",
