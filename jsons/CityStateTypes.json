@@ -79,16 +79,16 @@
 {
         "name": "Revanchist",
         "friendBonusUniques": [
-            "[+1]% [Food] from every [Building] <before the [Medieval era]>",
-            "[+2]% [Food] from every [Building] <starting from the [Medieval era]>",
+            "[+1]% [Food] from every [Building] <before the [Medieval era]> <in [capital] cities>",
+            "[+2]% [Food] from every [Building] <starting from the [Medieval era]> <in [capital]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
 "Free [Tiger Cloak Guard] appears <in [Capital] cities>",
         ],
         "allyBonusUniques": [
-            "[+2]% [Food] from every [Building] <before the [Medieval era]>",
-            "[+3]% [Food] from every [Building] <starting from the [Medieval era]>",
+            "[+1]% [Food] from every [Building] <before the [Medieval era]>",
+            "[+2]% [Food] from every [Building] <starting from the [Medieval era]>",
 "[+5]% [Food] from every [Wonder]",
 "[+1 Production] from [River] tiles [in all cities]" 
             "[+2 Gold] <before the [Medieval era]>",
