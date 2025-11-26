@@ -246,13 +246,14 @@
                 "rangedStrength": 33,
                 "range": 1,
                 "cost": 300,
+			    "requiredResource": "Dragon Egg",
                 "hurryCostModifier": 100,
                 "requiredTech": "Horseback Riding",
                 "uniques": ["Can pass through impassable tiles", "All tiles cost 1 movement", "Ignores Zone of Control", "May Paradrop up to [7] tiles from inside friendly territory", "Can transform to [Young Dragon]", "[-20]% Strength for enemy [All] units in adjacent [All] tiles", "May withdraw before melee ([66]%)", "Destroys tile improvements when attacking","[-25]% Strength <vs cities> <when attacking>", "[+25]% Strength <vs [Naval] units> <when attacking>", "[+25]% Strength <vs [Siege]> <when attacking>", "[-50]% Strength <vs [Armored] units>", "[-50]% Strength <vs [Gunpowder] units> <when defending>", "[+50]% Strength <vs [Spearman] units> <when attacking>", "[+50]% Strength <vs [Pikeman] units> <when attacking>", "[+50]% Strength <vs [Lancer] units> <when attacking>", "[-25]% Strength <vs [Ranged Gunpowder] units> <when defending>", "[-25]% Strength <vs [Ranged] units> <when defending>", "[-50]% Strength <vs [Air] units> <when defending>", "Eliminates combat penalty for attacking across a coast", "[+1] Sight", "[-10] HP when healing", "No defensive terrain bonus", "Can move after attacking", "Unable to capture cities", "No defensive terrain penalty", "[-33]% XP gained from combat", "[+700]% maintenance costs", "May travel on Water tiles without embarking"],
 "promotions": ["Scorching"],
                 "attackSound": "fire",
                 "civilopediaText": [
-                        {"text": "Ahahaha ha ayayaya ha haa"},
+                        {"text": "Try not to get it killed."},
         ]
         },
         {
@@ -265,6 +266,7 @@
                 "rangedStrength": 30,
                 "range": 8,
                 "cost": 300,
+			    "requiredResource": "Dragon Egg",
                 "requiredTech": "Trapping",
                 "uniques": ["[-10] HP when healing","[+400]% maintenance costs", "[-25]% Strength <vs cities>", "[-25]% Strength <vs [Ranged] units>", "Can transform to [Dragonrider]", "[-20]% Strength <vs [Ranged Gunpowder] units>", "[-20]% Strength <vs [Gunpowder] units>", "[-50]% Strength <vs [Armored] units>", "[-40]% Strength <vs [Air] units>", "[+25]% Strength <vs [Naval] units> <when attacking>", "[+25]% Strength <vs [Siege] units> <when attacking>", "[-33]% XP gained from combat"],
 "promotions": ["Scorching"],
@@ -338,7 +340,7 @@
                 "attackSound": "metalhit",
    },
 {
-"name": "Myrish Crossbow",
+"name": "Myrish Crossbowman",
                 "unitType": "Archery",
                 "movement": 2,
                 "strength": 14,
