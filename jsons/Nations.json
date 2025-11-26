@@ -23,7 +23,7 @@
 
                 "defeated":  "Ned's dead son.",
 
-"neutralHello": "You've called for me, Lord grmbmblgrm?",
+"neutralHello": "What's this all about?",
 	
                 "hateHello": "Do you have a shred of honor?",
 
@@ -63,13 +63,13 @@
 
   "favoredReligion": "Septism",
 
-                "declaringWar": "You know what, I'm gonna be completely honest. I'm tired of waiting for some kingdom to kick the shit out of us again. \nJust end it, ok? I can't stand this anymore.",
+                "declaringWar": "Yeah, how's it feel?",
 
                 "attacked": "A war in the Riverlands? \nAt this time of year? \nAt this time of day? \nIn this part of the country? \nLocalized entirely up my ass?\nIncredible \nunprecedented.",
 
                 "defeated":  "Better a sword than a rope. Do it.",
 
-                "introduction":  "About time we were invaded again.",
+                "introduction":  "Welcome to the Riverlands. It aint much,",
 
                 "neutralHello": "Should I be flattered by this visit?",
 
@@ -155,13 +155,13 @@
 
                 "defeated":  "Huh... \n   ...? \n\n ...What? \n\n\n\n\n             What?",
 
-                "introduction":  "I am a rock, I am an i \n sland.",
+                "introduction":  "I am a rock, I am an i~ \n sland.",
 
                 "neutralHello": "Why did you come here? \n    How could you come to the Vale!? \nHaven't you seen my letters?! \n    Have you no decency? \n Who are these people? \n     Why would you bring them here into my home?! \n   Do you realize what you've done? \n  Haven't you seen it yourself? \n The Eyrie is impregnable! \n No one can harm us up here! \nNo one! \n    What do you want!?",
 
                 "hateHello": "I want to see them fly! \n                        Fly out the Moon Door! \nCan we make \nthem fly mama?",
 
-                "tradeRequest": "The seeed is strong.",
+                "tradeRequest": "The seed is strong.",
 
                 "outerColor": [72, 222, 242],
 
@@ -331,15 +331,7 @@
 
   "favoredReligion": "Septism",
 
-                "declaringWar": "Ski-bi dibby dib yo da dub dub
-Yo da dub dub
-Ski-bi dibby dib yo da dub dub
-Yo da dub dub
-Ba-da-ba-da-ba-be bop bop bodda bope
-Bop ba bodda bope
-Be bop ba bodda bope
-Bop ba bodda
-Ba-da-ba-da-ba-be bop ba bodda bope",
+                "declaringWar": "Vengence will be had.",
 
                 "attacked": "Size does not matter when you're \nflat on your back.",
 
@@ -390,7 +382,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
 
                 "tradeRequest": "Kneel. I am your king. I am your god. Worship me, and I will raise you up to be my priest.",
 
-                "defeated":  "Yarr Harr fiddly dee, I love- \n        What? \n\n\n Wow, ah...  \n\nThis is embarrassing. \n Seriously I swear this never happens to me, \n     just, let me... \n\n\n  Y'know, uh... \n\nFuck, I was sure we'd be getting outta this one.",
+                "defeated":  "I swear this never happens to me, \n     just, let me... \n\n\n  Y'know, uh... \n\nFuck, I was sure we'd be getting outta this one.",
 
                 "introduction":  "We are the ironborn, and once we were conquerors. Our writ ran everywhere the sound of the waves was heard.",
 
@@ -519,9 +511,7 @@ Ba-da-ba-da-ba-be bop ba bodda bope",
                 "style": "Mesopotamian",
 
                 "declaringWar": "Time to learn your place.",
-                "attacked": "Your faith was strong but you needed proof
-\nSaw her bathing on the roof
-\nHer beauty and the moonlight overthrew her",
+                "attacked": "Not again, we're so close!",
                 "defeated": "Augh! From a city built on slaves to one built on catacombs. The true tragedy is a slow death.",
                 "outerColor": [0, 0, 0],
   "innerColor": [210, 2040, 80],
