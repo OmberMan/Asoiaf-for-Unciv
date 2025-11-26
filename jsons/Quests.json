@@ -7,7 +7,13 @@
         "Friendly": 2,
         "Hostile": 0.2,
         "Maritime": 1.2,
-        "Mercantile": 1.5
+        "Mercantile": 1.5,
+      "Obstructive": 0.8,
+          "Titanic": 1,
+          "Bewhiskered": 1.5,
+          "Padanian": 1.2,
+          "Salacious": 1.2,
+          "Revanchist": 2
     }
   },
   {
@@ -21,7 +27,13 @@
           "Maritime": 3,
           "Mercantile": 3,
           "Militaristic": 9,
-          "Religious": 3
+          "Religious": 3,
+        "Obstructive": 9,
+          "Titanic": 2.5,
+          "Bewhiskered": 3.5,
+          "Padanian": 3,
+          "Salacious": 2.5,
+          "Revanchist": 3.5
       }
   },
   {
@@ -29,21 +41,39 @@
     "description": "In order to make our civilizations stronger, connect [tileResource] to your trade network.",
       "weightForCityStateType": {
           "Maritime": 2,
-          "Mercantile": 3
+          "Mercantile": 3,
+        "Obstructive": 0.3,
+          "Titanic": 3.5,
+          "Bewhiskered": 2,
+          "Padanian": 3.5,
+          "Salacious": 3.5,
+          "Revanchist": 2
       }
   },
   {
     "name": "Construct Wonder",
     "description": "We recommend you to start building [wonder] to show the whole world your civilization strength.",
       "weightForCityStateType": {
-          "Cultured": 3
+          "Cultured": 3,
+        "Obstructive": 0.4,
+          "Titanic": 2.5,
+          "Bewhiskered": 1.5,
+          "Padanian": 2,
+          "Salacious": 2,
+          "Revanchist": 3
       }
   },
   {
     "name": "Acquire Great Person",
     "description": "Great People can change the course of a Civilization! You will be rewarded for acquiring a new [greatPerson].",
       "weightForCityStateType": {
-          "Cultured": 3
+          "Cultured": 3,
+        "Obstructive": 0.7,
+          "Titanic": 1.7,
+          "Bewhiskered": 0.5,
+          "Padanian": 1.5,
+          "Salacious": 1.3,
+          "Revanchist": 1
       }
   },
   {
@@ -53,7 +83,13 @@
       "weightForCityStateType": {
           "Hostile": 2,
           "Friendly": 0.2,
-          "Militaristic": 2
+          "Militaristic": 2,
+        "Obstructive": 0.2,
+          "Titanic": 1,
+          "Bewhiskered": 2.5,
+          "Padanian": 3,
+          "Salacious": 3,
+          "Revanchist": 3.5
       }
   },
   {
@@ -62,7 +98,13 @@
     "influence": 35,
       "weightForCityStateType": {
           "Maritime": 3,
-          "Mercantile": 2
+          "Mercantile": 2,
+        "Obstructive": 0.1,
+          "Titanic": 2,
+          "Bewhiskered": 0.6,
+          "Padanian": 1,
+          "Salacious": 0.8,
+          "Revanchist": 0.4
       }
   },
   {
@@ -70,7 +112,13 @@
     "description": "Send your best explorers on a quest to discover Natural Wonders. Nobody knows the location of [naturalWonder] yet.",
       "weightForCityStateType": {
           "Hostile": 0.3,
-          "Militaristic": 0.5
+          "Militaristic": 0.5,
+        "Obstructive": 0.2,
+          "Titanic": 1.5,
+          "Bewhiskered": 0.5,
+          "Padanian": 1,
+          "Salacious": 1,
+          "Revanchist": 0.5
       }
   },
   /* G&K */
@@ -84,7 +132,13 @@
           "Maritime": 3,
           "Mercantile": 3.5,
           "Militaristic": 2,
-          "Religious": 3
+          "Religious": 3,
+        "Obstructive": 3,
+          "Titanic": 2,
+          "Bewhiskered": 2,
+          "Padanian": 3,
+          "Salacious": 3.5,
+          "Revanchist": 2.5
       }
   },
   {
@@ -97,7 +151,13 @@
           "Maritime": 3,
           "Mercantile": 3,
           "Militaristic": 2,
-          "Religious": 3
+          "Religious": 3,
+        "Obstructive": 5,
+          "Titanic": 0.7,
+          "Bewhiskered": 2,
+          "Padanian": 2.5,
+          "Salacious": 2.5,
+          "Revanchist": 0.7
       }
   },
   {
@@ -111,7 +171,13 @@
           "Maritime": 0.5,
           "Mercantile": 0.5,
           "Militaristic": 0.5,
-          "Religious": 0.5
+          "Religious": 0.5,
+        "Obstructive": 0.1,
+          "Titanic": 1,
+          "Bewhiskered": 0.5,
+          "Padanian": 1,
+          "Salacious": 1.5,
+          "Revanchist": 0.7
       }
   },
   {
@@ -125,7 +191,13 @@
           "Maritime": 0.5,
           "Mercantile": 0.5,
           "Militaristic": 0.5,
-          "Religious": 2
+          "Religious": 2,
+        "Obstructive": 0.1,
+          "Titanic": 0.4,
+          "Bewhiskered": 2,
+          "Padanian": 0.5,
+          "Salacious": 0.3,
+          "Revanchist": 1
       }
   },
   {
@@ -136,6 +208,12 @@
     "minimumCivs": 3,
       "weightForCityStateType": {
           "Religious": 0.5
+        "Obstructive": 0.2,
+          "Titanic": 1.3,
+          "Bewhiskered": 0.3,
+          "Padanian": 1.5,
+          "Salacious": 0.5,
+          "Revanchist": 0.5
       }
   },
   {
@@ -146,7 +224,13 @@
     "duration": 30,
     "minimumCivs": 2,
       "weightForCityStateType": {
-          "Mercantile": 1.5
+          "Mercantile": 1.5,
+        "Obstructive": 1.2,
+          "Titanic": 2,
+          "Bewhiskered": 1,
+          "Padanian": 2.2,
+          "Salacious": 2.5,
+          "Revanchist": 1
       }
   },
   {
@@ -156,7 +240,13 @@
       "weightForCityStateType": {
           "Hostile": 2,
           "Irrational": 1.5,
-          "Friendly": 0.3
+          "Friendly": 0.3,
+        "Obstructive": 0.1,
+          "Titanic": 0.5,
+          "Bewhiskered": 1.3,
+          "Padanian": 5,
+          "Salacious": 5,
+          "Revanchist": 2.5
       }
   },
   {
@@ -168,7 +258,13 @@
           "Maritime": 2,
           "Mercantile": 1.5,
           "Militaristic": 1.5,
-          "Religious": 2.5
+          "Religious": 2.5,
+        "Obstructive": 3.5,
+          "Titanic": 2.5,
+          "Bewhiskered": 1.3,
+          "Padanian": 3,
+          "Salacious": 3,
+          "Revanchist": 1
       }
   },
   {
@@ -176,12 +272,12 @@
     "description": "We have heard the tenets of [religionName] and are most curious. Will you send missionaries to teach us about your religion?",
       "weightForCityStateType": {
           "Religious": 3,
-          "Obstructive": 2,
+          "Obstructive": 0.3,
           "Titanic": 2,
-          "Bewhiskered" ,
-          "Padanian": ,
-          "Salacious": ,
-          "Revanchist": 
+          "Bewhiskered": 0.5,
+          "Padanian": 1,
+          "Salacious": 0.7,
+          "Revanchist": 1.5
       }
   }
   /* BNW */
