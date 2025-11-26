@@ -17,11 +17,11 @@
     },
                         {
         "name": "Poisoned!",
-        "uniques": ["[This Unit] takes [8] damage <upon ending a turn in a [non-[City center]] tile>"]
+        "uniques": ["[This Unit] takes [5] damage <upon ending a turn in a [non-[City center]] tile>"]
     },
         {
         "name": "Scorching",
-        "uniques": ["[Target Unit] gains the [Burning!] status for [2] turn(s) <with [20]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Fire on Deck!] status for [2] turn(s) <with [30]% chance> <upon damaging a [Water] unit> <when attacking>"]
+        "uniques": ["[Target Unit] gains the [Burning!] status for [2] turn(s) <with [20]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Fire on Deck!] status for [2] turn(s) <with [30]% chance> <upon damaging a [Water] unit> <when attacking>", "[+20]% Strength <vs [Siege] units> <when attacking>", "[+20]% Strength <vs [Water] units> <when attacking>"]
         },
         {
         "name": "Burning!",
@@ -51,6 +51,10 @@
         "name": "Frosty",
         "uniques": ["[Target Unit] gains the [Frozen!] status for [1] turn(s) <with [30]% chance> <upon damaging a [Land] unit>"]
     },
+	{
+		"name": "Frozen!",
+        "uniques": ["Cannot Move"]
+	},
 	     {
         "name": "Disorganized!",
         "uniques": ["[-50]% Strength", "Cannot Move"]
