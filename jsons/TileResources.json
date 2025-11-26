@@ -4,9 +4,10 @@
 		"resourceType": "Strategic",
 	},
 {
-		"name": "Dragon Eggs",
+		"name": "Dragon Egg",
 		"resourceType": "Strategic",
   "science": 1,
+	"faith": 1
 	},
 	{
 		"name": "Square Coin",
@@ -15,5 +16,20 @@
 	{
 		"name": "Eastern Check",
 		"resourceType": "Strategic",
+	},
+	{
+		"name": "Myrish Glass",
+		"resourceType": "Luxury"
+	},
+    {
+		"name": "Slaves",
+		"resourceType": "Strategic",
+  "happiness": -2,
+		"culture": -1
+	},
+    {
+		"name": "Valyrian Steel",
+		"resourceType": "Strategic",
+  "science": 1,
 	}
 ]
